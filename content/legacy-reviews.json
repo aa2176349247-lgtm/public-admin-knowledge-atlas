@@ -1,0 +1,2989 @@
+{
+  "description": "旧正文逐字段核验记录。哈希变化时必须重新审阅对应字段和来源，不代表该主题已完整覆盖。",
+  "entries": {
+    "evaluation-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "gao-evaluation-2021",
+        "gao-2011-glossary"
+      ],
+      "scope": "核对概念分类与口径；案例及答题编排为站内假设，非真实效果或原文引述。",
+      "changes": "区分活动与直接交付，明确影响可指净效应，防止把长期变化自动归因。",
+      "evidence": {
+        "body": "GAO 2021逻辑模型及2011术语比较；说明不同影响口径。",
+        "example": "假设培训情境，以GAO分类区分活动、产出和结果；净效应需反事实。",
+        "interpretation": "GAO 2021逻辑模型及2011影响评估术语。",
+        "mechanism": "GAO 2021的逻辑模型和影响评估定义；联系需要证据。",
+        "caseAnalysis": "站内教学假设，依据前述分类，不声称观察到实际影响。",
+        "limits": "GAO 2011与2021术语用法比较；建议保持定义一致。",
+        "exam": "站内答题组织建议；依据逻辑模型并先说明影响口径。"
+      },
+      "fieldHashes": {
+        "body": "b75df6b851bf31c3ae28d0675ff37c39cc0388cfd678da28d3840a3eef42e985",
+        "example": "cd1debdb7234d5ebbd9476009bd6eac3c7f23bbd1bc8f9e11785b00f0e965b5a",
+        "interpretation": "d10c1f5d10eaafff32bddeb223de0d0d257cfdb9dc8253c6cf4edfea76c449a4",
+        "mechanism": "df944330878f334451c380cb928a749d27d30b43fa29a2f3947d0e46c93d5b06",
+        "caseAnalysis": "5c7316601124a62a23333e52f063581d6e5515695bd620a13096d568a1995dd5",
+        "limits": "a6760276083a100ad8c48a16d874b125ad709bb745d66f680be3c5967148256a",
+        "exam": "29c9166a0d7558db17065909389c50bf0415512a9dcbad5f40b8063225a169dc"
+      }
+    },
+    "evaluation-2": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "worldbank-impact-handbook",
+        "gao-evaluation-2021"
+      ],
+      "scope": "核对反事实及替代解释；案例与答题建议为教学推演。",
+      "changes": "将反事实限定为同一对象同一时期的未接受政策结果。",
+      "evidence": {
+        "body": "世界银行手册第2章：反事实和简单前后比较的局限。",
+        "example": "假设就业情境，经济变化可构成替代解释。",
+        "interpretation": "世界银行手册第2章定义潜在结果和不可同时观察。",
+        "mechanism": "世界银行手册第2章及GAO 2021评估类型；比较方法有各自条件。",
+        "caseAnalysis": "假设培训情境；选择偏差及共同趋势为世界银行手册讨论的问题。",
+        "limits": "GAO 2021区分实施、结果和影响评估；结论应匹配证据。",
+        "exam": "站内答题组织建议，基于反事实与替代解释。"
+      },
+      "fieldHashes": {
+        "body": "672ca77ee29240ca3655fa63ff496f7d5bc75a1969c1f4222f59a402c454c444",
+        "example": "46831685a1dc8ba93795348af38406d3953df3c4bb92e3ffb91a9b0b2ae02ad6",
+        "interpretation": "24c2ae4bf8a006b07c1f7d8ef06c900a76244921507d9b6addc6bd28b4091a37",
+        "mechanism": "9a728db4e22efb2f0ad13824036ab8d3951e14b4602d0303e05bc6648c9b3473",
+        "caseAnalysis": "539d7bd3c7ba915262cc8397b7e1a990af95a959c6d68f6fd360f1746dd239ba",
+        "limits": "d47c0c4f0f1f04a4cce2588e03dc73214b2378f8589bfb38e2997d5c8bcb3e44",
+        "exam": "8dc71a754de98c1b144ac3ec48d043b223581a27124ad89be91abe2370283de9"
+      }
+    },
+    "implementation-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "lipsky-preface",
+        "lipsky-publisher-summary"
+      ],
+      "scope": "核对公开序言和出版社简介，不声称通读全书；案例及治理建议为站内教学推演。",
+      "changes": "将窗口排序及其后果明确标为假设和可能性。",
+      "evidence": {
+        "body": "利普斯基2010序言和出版社简介的一线接触、裁量和工作条件。",
+        "example": "站内假设：排序通过等待时间影响服务可及性。",
+        "interpretation": "利普斯基2010序言关于一线裁量如何形成公众实际经验。",
+        "mechanism": "2010序言和出版社简介关于资源、压力及简化应对。",
+        "caseAnalysis": "站内假设，不是实证个案；参照一线工作条件和裁量。",
+        "limits": "裁量并非一概有害；支持、记录、监督及救济为站内规范性建议。",
+        "exam": "站内答题组织建议，以工作条件、应对及分配后果为分析路径。"
+      },
+      "fieldHashes": {
+        "body": "cdee857ab120656936044e0543084d765d04508f465249a665b70482a89a5885",
+        "example": "69cf521986b78e5ca9a0dd3f3494ee386a4641ef4187ff40fe76a2134247de17",
+        "interpretation": "24f4452489e8d4046c8804b416ba798b69fe4d4be4cbeefb11113787f3650a9b",
+        "mechanism": "65d320b9a7df2dc6408957a796745e2152eca67c12e5269367b331b0ee752bfc",
+        "caseAnalysis": "47d518017fb279298353d04c9d03db74c48da0863d0a914d7d12388234a175b6",
+        "limits": "47b5923f1c5f188e5c9bb6a8d44eb3aff6c65993295c1ce3860a6100c8a8c15f",
+        "exam": "820749d5634d95bc0e82ab47b8afa2262e24fd77d43bd674e50441a57cda9456"
+      }
+    },
+    "public-interest-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "bozeman2007",
+        "nps2000"
+      ],
+      "scope": "公共性有多种学术定义；本条采用站内规范分析视角，博兹曼只核对出版社简介及目录，未读全书。文化馆例子及四维框架为站内教学推演，不是某位作者的统一定义或法律结论。",
+      "changes": "明确公共性是本条选用的价值与关系视角，避免表述为唯一学术定义。",
+      "evidence": {
+        "body": "新公共服务论文公共利益与公民参与的规范观点；本条明确限定为公共价值视角。",
+        "example": "公立服务平等可及为站内假设和评价问题；非实证事实。",
+        "interpretation": "新公共服务论文讨论公民身份、公共利益和责任；关系视角与适用维度为站内组织。",
+        "mechanism": "所有制与服务方式是不同概念；新公共服务论文讨论跨组织公共责任，具体分析是站内推理。",
+        "caseAnalysis": "公立文化馆的限定开放为站内假设；准入和救济是评价建议。",
+        "limits": "普遍服务和救济是站内分析问题；不宣称具体法定义务。",
+        "exam": "开放、平等、参与和责任是站内答题分析框架，不冒充原作者模型。"
+      },
+      "fieldHashes": {
+        "body": "4872736629402a7799caaf08d1bf16bbaec99a8cad0ef761795fcab4e5d44cb6",
+        "example": "ca50b191d87d9547434df00b6fec818528a725f4850dbd8b81035387d2db09f5",
+        "interpretation": "1732c5f735711309cf6a6acc5b951b22e26145b84d2121f425812c05069a1d82",
+        "mechanism": "3e482a659a8551d641d5dfef0fe5a854a5a4ec6fd1fdf96a279b469d5ac45bc0",
+        "caseAnalysis": "9a95bb049c84a3a3891d2618312ec7c92301616c929e8f92bbbd85a241bff609",
+        "limits": "5511507aadc807622d2c0df0ea0bc69547e0050d9edcfcad21b28df4264bf01c",
+        "exam": "978a086f7fc304ed04c05cb8bd491f18565e71f79a1a19b5c45497076637df9a"
+      }
+    },
+    "paradigms-2": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "aspaEquity",
+        "nps2000",
+        "frederickson1990"
+      ],
+      "scope": "核读弗雷德里克森1990年论文有关社会公平及其边界，并参考ASPA说明及新公共服务论文背景；案例和对策为教学推演，未逐项核读会议记录。",
+      "changes": "将先到先得案例标明为假设和可能结果。",
+      "evidence": {
+        "body": "弗雷德里克森1990年第228—230页：公平作为行政价值及对效率和经济的补充。",
+        "example": "服务覆盖及未获服务者为站内提问，联系论文关注分配差异。",
+        "interpretation": "弗雷德里克森1990年论述分配、服务对象和行政责任；属对该取向的概括。",
+        "mechanism": "不同生活条件产生不同进入成本是站内条件推理，与论文关于差异和多种平等标准相联系。",
+        "caseAnalysis": "文化活动报名为站内假设，不是现场调查或可保证的经验结论。",
+        "limits": "论文讨论多种平等概念及公平、效率与经济的平衡；具体支持和合法性判断为站内建议。",
+        "exam": "站内答题组织建议，根据论文的问题意识和分配视角。"
+      },
+      "fieldHashes": {
+        "body": "7e49cf9615ed436f16f8f343b081683fedcf2874e5c20cf74cf8d4aec63fc658",
+        "example": "7e73334144b8efc177fc5754efc7ba50cfeade1b9ada3617e8879978b5527870",
+        "interpretation": "05aa8d43fd4c32a0871b488e27c60c5810de933a1867d38c6479a09a9a873d52",
+        "mechanism": "503af0c8af0e55a512a302de949c884ae3ae15eae3fa96fd78d626a9bb7eac33",
+        "caseAnalysis": "a84b78128723abc852a8e0f2e3e1c9a615b4cc35f5c3fa55a94208a725cbd0f9",
+        "limits": "ec8a067fa98fcc10935fb4b0ee11ae1da77dc71b32bed5477dacbb2b6d09e69a",
+        "exam": "d2ed7b199e103e9836e9e840c1d81b10117396931f3a6e8fba030e90f61777a8"
+      }
+    },
+    "paradigms-3": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "nps2000",
+        "hood1991"
+      ],
+      "scope": "核读霍德1991年论文关于七项学说、思想来源、批评与价值；核读登哈特夫妇2000年论文相关原则。两者为理论归纳与规范论证，教学案例和条件推演不当作现实政策评估。",
+      "changes": "补充霍德原论文七项学说、起源与内部张力，并澄清各取向与具体实践的区别。",
+      "evidence": {
+        "body": "霍德1991年第4—6页与登哈特夫妇2000年第549—556页；各地实践并不一致。",
+        "example": "新公共服务论文公民与顾客的区分；例句是站内教学概括。",
+        "interpretation": "登哈特夫妇2000年论文公民、公共利益和多重责任；顾客体验是站内比较分析。",
+        "mechanism": "霍德1991年第4—6、9—12页列支持理由、批评及价值；可能性为条件推演，不视为已证明结果。",
+        "caseAnalysis": "排队与居民意见为站内假设；公共参与和反馈条件为推理。",
+        "limits": "霍德指出主张与国家实践并非完全一致；登哈特论文承认绩效等管理工具的作用。",
+        "exam": "站内比较组织建议，依据两篇文章的不同理论重点。"
+      },
+      "fieldHashes": {
+        "body": "41c18a248873cea21218582449228a45c76c3247ebbb980b9157f26fdac886e5",
+        "example": "e9a0c0bf72cd6a00d039987302bafaf272b41503d9bedaa5aac9e892e004ff17",
+        "interpretation": "12d06141118da2cebb1194c01e4c486b71a0a2f5f78b1944fcfcfd6e7b374382",
+        "mechanism": "56fe1e4c8bc8e276797729bc97bb602d0e668d1f30adab56cabdda5e38e74859",
+        "caseAnalysis": "f90a300265cb678671febdbf61c0c641fe796316b4f30a3be2a43e4355fca98c",
+        "limits": "e360ac1aa0a64c3eb28c0612e06c29a1a97df09f85b3a885004100dbedfb50f2",
+        "exam": "024e302a5646bc80805ad5ffc742f12036fb9f8c9b1acf2d1b29fb716faa8784"
+      }
+    },
+    "value-fact-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "simon1947",
+        "cmu-simon"
+      ],
+      "scope": "核读西蒙《行政行为》第四版出版社第一章节选与卡内基梅隆档案扫描稿有关段落；后者版本与日期不明。规范/经验研究的广义说明、教学示例及答题安排为站内综合表述，不等同西蒙全部方法论。",
+      "changes": "按实际阅读范围核对七个旧正文内容，保留案例为假设。",
+      "evidence": {
+        "body": "出版社节选的价值事实元素和实践混合；广义规范与经验研究区分为站内概括。",
+        "example": "办结速度和公平为站内教学假设，说明事实与评价标准的差异。",
+        "interpretation": "西蒙出版社节选将事实和价值作为决策前提；研究类型与论证任务为站内概括。",
+        "mechanism": "出版社节选市政道路决策以及档案扫描稿关于价值、事实和手段目的的关系。",
+        "caseAnalysis": "假设政策；因果检验与价值权衡为站内分析框架，不声称实际效果。",
+        "limits": "站内方法论边界：规范研究可有理由，经验研究可用多种方法。",
+        "exam": "站内答题组织建议，区分证据与价值前提。"
+      },
+      "fieldHashes": {
+        "body": "8a8a171fdca23781a8a899240648aa51f78c257585222bc846b07c547bffc7db",
+        "example": "be6ca32480b58c114f1ffcce9f1440b422e84d66c4caf13ec50efe1e23ac2749",
+        "interpretation": "de38030b8caf17846fbbdf7637cf1996411422b63cd64872f6bf09f602a0b795",
+        "mechanism": "4fc2f61f857b517a54d466b516a621c0647c0f6e9b4ced6d2143ca9b659654c8",
+        "caseAnalysis": "a9e9a20c7eb3553c1b7984d1ee16bec5e921786d3f9317dff8db577283b9c0b7",
+        "limits": "6bac5a6f148de58ff10aaa97525e2ee54e3e9a147288cbc968b4eb8fc0e54bd9",
+        "exam": "bc5422f3cf35f65e3d6e9784d953414c37e4474386f715fe3ca7e5599b8ec1df"
+      }
+    },
+    "value-fact-2": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "simon1947",
+        "waldo1952",
+        "waldo1952-original"
+      ],
+      "scope": "核读西蒙出版社节选、沃尔多1952年原论文公开摘录与注释1、6月回应公开书目及注释；两篇1952年论文全文未获，不能将站内比较当作逐页论战复述。",
+      "changes": "增加沃尔多原论文公开摘录的价值标准与经验检验，明确两篇全文未读取。",
+      "evidence": {
+        "body": "西蒙第四版节选和沃尔多原论文公开摘录及注释1；概括双方不同研究重点。",
+        "example": "行政改革评价为站内教学建议，结合公开文本的方法与价值问题。",
+        "interpretation": "西蒙节选关于决策前提；沃尔多公开摘录涉及民主行政及价值标准。",
+        "mechanism": "效率与价值的关系为站内比较分析，并非声称两位作者均作此原话。",
+        "caseAnalysis": "窗口改革为教学假设，分别提出经验与规范问题。",
+        "limits": "西蒙节选承认现实决策结合事实价值；沃尔多注释1允许说明标准后的操作化检验。",
+        "exam": "站内比较与答题组织；不宣称消除双方理论分歧。"
+      },
+      "fieldHashes": {
+        "body": "87bdb6d65eebd21460dea0c70bdf8fd2157132abdf846121cb37b9ce034bbed1",
+        "example": "0a84a2b6dd4637da90faf90ffeddf4c57019bdeff858d794f72fa08040602458",
+        "interpretation": "0742d947b3f70e39c9e482b42b6806bb31768bd4086d8c95e6480af9dde4ebc4",
+        "mechanism": "b810c677c7fa4b9bc80a7aae078e64399ef3afb339f23b6b5b8f9cc5a6ca7519",
+        "caseAnalysis": "8fc27ab09e90a53851365d4cc57e8ee329128bd32691b98bf34f3ac368513cc8",
+        "limits": "db416b14834700a524c620cc77b9ea9b9a463adb792052d4d0aa9bc534ef32d8",
+        "exam": "f85af3eab275c8fac8792122da55be327f8e14a6783d577e49fadb364840eb4e"
+      }
+    },
+    "public-interest-2": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "aspaEquity",
+        "aging2020",
+        "hood1991"
+      ],
+      "scope": "核读霍德1991论文行政价值、ASPA公平说明与2020年政府历史文件；案例与权衡原则为站内分析，不对具体法律效力和案件作结论。",
+      "changes": "将旧专题对霍德来源的摘要说明更新为已核读原文的范围。",
+      "evidence": {
+        "body": "霍德1991行政价值三组及ASPA社会公平；效率、公平与权利为站内分析框架。",
+        "example": "线上办事排除风险为站内假设；2020历史文件明确关注数字服务障碍。",
+        "interpretation": "霍德区分节约与诚实公平，ASPA强调社会公平；权利边界是站内规范解释，不替代法律适用。",
+        "mechanism": "总量与分配的区分是站内条件分析，并不推断任何具体改革的结果。",
+        "caseAnalysis": "假设网上申请，结果用可能性表达；结合2020文件描述的数字障碍问题。",
+        "limits": "公平原则和权利限制须具体论证；不据此推定特定权利或个案合法性。",
+        "exam": "站内答题组织建议，要求分别说明效率、分配与权利。"
+      },
+      "fieldHashes": {
+        "body": "6603c8f64bf7bac0dfbbd6b05f55e6c93dbb1a46d54555827e6c827e4522fc18",
+        "example": "c0a7c1eb0aeec4e912bcab24f66bd673dfa363ba5c0da2140c5c211882ff5fb7",
+        "interpretation": "41df57e57a44bd0ba414d1b7a4c20845a2b6d3c491e9f0174dfc338a83206112",
+        "mechanism": "1e80160a5892c93dc19d42ebbd71c5c30d0a834323765b13bd54afdb6b000411",
+        "caseAnalysis": "19cfeabb37ef2536bf0cb1ee2ed29cec3b748d71c5a1a3fd5b969792aec136e5",
+        "limits": "14c61db2e4e39b73e831ed0fd82e91e79fb0d659ff9b7e8f7a7d1db7fabce7bd",
+        "exam": "6380b02eb0315dd2b25ed92c42a794962f0d3c4062b20f6860c39b74e6eda1e1"
+      }
+    },
+    "debt-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "budget-regulation-2020",
+        "local-debt-2025-final",
+        "local-debt-guidance-2014"
+      ],
+      "scope": "核对政府债务限额和决算口径；存量流量关系、期限与流动性的教学例子为站内分析，不能替代实际现金流数据。",
+      "changes": "把期限结构由含糊的资金到期改为债务到期及分布，补充限额和2025决算说明。",
+      "evidence": {
+        "body": "预算法实施条例43—44条的债务余额和限额；存量流量和期限分布为站内概念说明。",
+        "example": "集中与分散到期为假设对照，风险取决于实际现金流。",
+        "interpretation": "财政部决算说明同时列示发行额、还本额和年末余额；分类解释为站内概括。",
+        "mechanism": "到期集中与再融资产生现金需求为条件推理，不断言具体地方风险。",
+        "caseAnalysis": "两地债务与期限为教学假设，明确还要检查偿债资源。",
+        "limits": "期限与中长期可持续性的关系为站内风险分析；展期不自动消除负担。",
+        "exam": "站内答题建议，结合预算管理和资金期限匹配。"
+      },
+      "fieldHashes": {
+        "body": "265f6e66d1cc36c1b2b0261d4700e0b5dfa38df100b44264b1e067206d76fa79",
+        "example": "75705dfdf64a4f2c3c72e063c906a5e81d0cd5b630ec012956ad8fa36eb63416",
+        "interpretation": "f273fa2aad55d0e339371a16e35f55afd8937233c32e6b6a6250c741483ea63e",
+        "mechanism": "c8834caef18667c2dd8b878af1c55245baf1918baf093857036c2ba5ccd2e544",
+        "caseAnalysis": "615e25324b284b95de6956bc0ab8dfb425a4e0cf9cc06161f7f0dd81cbf461db",
+        "limits": "a3f066389291b4575cc681b3e08d73c4a46836e3707e980bdb057b2b0f0534cd",
+        "exam": "e084c6000226b22c83140ae7658c0f3c09275242adfa473779e03f882dcd5b47"
+      }
+    },
+    "gov-function-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "openstax-public",
+        "openstax-pollution",
+        "openstax-information",
+        "openstax-monopoly",
+        "imf-state"
+      ],
+      "scope": "核对七个正文段落的概念、限定条件和所列来源；案例及答题编排为站内假设和学习建议。",
+      "changes": "限定效率标准；将污染和药品情境标为假设，避免仅凭失灵直接断定某一干预必要或有效。",
+      "evidence": {
+        "body": "OpenStax第9章、12.1、13.3、16.1及Tanzi论文：类型与效率框架；公平评价是另一个规范问题。",
+        "example": "站内污染教学假设，依据12.1外部成本机制。",
+        "interpretation": "OpenStax 12.1及Tanzi论文关于市场失灵与制度选择。",
+        "mechanism": "OpenStax第9章、12.1、13.3、16.1分别支持市场势力、外部性、公共产品和信息问题。",
+        "caseAnalysis": "站内污染与药品信息假设；12.1及16.1支持机制，不指称真实案件。",
+        "limits": "Tanzi论文区分配置和分配职能；公平及权利评价为站内规范分析。",
+        "exam": "站内答题安排，依据以上机制并比较可行制度与成本。"
+      },
+      "fieldHashes": {
+        "body": "b2cc249a087789b6075debf4d7fd3131552b42751a7c735b2e7c4ffd3c99f096",
+        "example": "f1b55cbf93b0f9a21b53ca7a06d9dd94a6479180e3cd34e972403965d4b6d658",
+        "interpretation": "775796cc54db7a7ffb3628e6ed30d9d309bab2b74aaa86d2ccd8821903c0d9a1",
+        "mechanism": "c85002f8df565a1a315f63ee1b73a9d885eb984aca4db0746cd7b1aa5e2eeb7b",
+        "caseAnalysis": "004a2f6c98004f70eb437d5c30f860714b439676f115de58e6de3cb752ce6a2f",
+        "limits": "bdbb82aaf6b3941a911aac3f7e2a2e46c1428dbef5c312c648885ff9b8a24e74",
+        "exam": "aedb9ea0ed3555fd2d71ca0232c29392d4aa5691312bbeaf5daab2bf4931cb52"
+      }
+    },
+    "public-goods-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "openstax-public",
+        "ostrom2005"
+      ],
+      "scope": "核对七个正文段落的概念、限定条件和所列来源；案例及答题编排为站内假设和学习建议。",
+      "changes": "标明渔场和设施为假设、核对排除条件；修正把非竞争性直接推断为新增服务成本低的表述。",
+      "evidence": {
+        "body": "Ostrom 2005第一章第23—24页图1.3与OpenStax 13.3；分类为维度的简化。",
+        "example": "站内渔场及设施假设，使用Ostrom图1.3的排除与减损维度。",
+        "interpretation": "Ostrom 2005第23页及OpenStax 13.3，两个属性各自定义。",
+        "mechanism": "Ostrom第23—24页和OpenStax 13.3；新增服务成本须另行判断。",
+        "caseAnalysis": "教学假设，依Ostrom第23—24页渔获减损及分类维度推演。",
+        "limits": "OpenStax 13.3说明产品性质不等于税收筹资或政府提供；站内进一步区分所有权。",
+        "exam": "站内答题安排，以Ostrom的两维分类及条件分析为基础。"
+      },
+      "fieldHashes": {
+        "body": "d4c64f7886284fa953cb3d6211e3629e5426adbd2f9d1f78bd1a75b61b88cb4e",
+        "example": "4b038b396e61d096e4dabef98a3e4d7a48b77ad55e946b2a5e5704df608ee31e",
+        "interpretation": "1839b2e8259b2a5094175774b77542d5b802ffab86f2ec856a45553b470c0c78",
+        "mechanism": "c1ebb48fd0fbe7deb56681290b992e691f85da17bbe9ab4084f294f2ce3d798e",
+        "caseAnalysis": "9a03f86af1823bc919078c8ddf4484f61462a2db5a9da01d2393dd1b56e7e3f9",
+        "limits": "c2e2f0626600cbb6984206c2815a6c7b18861e9f2ca17c67a63d594e879bae69",
+        "exam": "3e641c8472c5837ab13bd1fffe85cadce382e5313dbb1a7151b1fc60c9f089d4"
+      }
+    },
+    "externalities-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "openstax-pollution",
+        "imf-state"
+      ],
+      "scope": "核对七个正文段落的概念、限定条件和所列来源；案例及答题编排为站内假设和学习建议。",
+      "changes": "明确简化模型中边际社会成本等于边际私人成本与边际外部损害之和，标明假设案例及产量结论条件。",
+      "evidence": {
+        "body": "OpenStax 12.1私人、社会成本和边际决策模型；限定仅考虑负外部性的简化模型。",
+        "example": "站内污染假设，依据OpenStax 12.1第三方损害机制。",
+        "interpretation": "OpenStax 12.1对私人、社会成本与额外产量的讨论。",
+        "mechanism": "OpenStax 12.1供需模型；既有规制等限制为站内分析。",
+        "caseAnalysis": "站内企业与居民教学假设，依据OpenStax 12.1外部损害机制。",
+        "limits": "OpenStax 12.1区分私人和外部损害；价格变化与外部影响的区分及总量边际提醒为站内分析。",
+        "exam": "站内答题安排，基于12.1模型和具体识别条件。"
+      },
+      "fieldHashes": {
+        "body": "18f5e4cd1f4e9e6872d203e3dca008088aae742f2c86c984914f9b9ccc64d271",
+        "example": "c37dc8d2163fa7a3a1888ba74a9fb2b73ba1e0c3468fdaec9afbc5fe504ed854",
+        "interpretation": "05eab5d8d5e1bf447e6290e488cb2e16bcea0be64215c3d607f11352ff5ab1ea",
+        "mechanism": "e58f82fcfeb9a2af0ed8d8a57fe20dc3bd2a1654fcd071a6ab495091e9b9022e",
+        "caseAnalysis": "bf86e51a7ac98f7687a854ee4e68c74ab41b1be821f56a03c5733e3cc337ead1",
+        "limits": "0c99cdb86c58f71df8cb22c95c2495921207bfa296dc160667828a650d688bd4",
+        "exam": "c458e396d1919d8ace173e19dc42df731673c3de676df49794d7b48a3b4bedc0"
+      }
+    },
+    "gov-function-2": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "imf-state",
+        "oecd-checklist",
+        "oecd-ria-2020"
+      ],
+      "scope": "核对七个正文段落的概念、限定条件和所列来源；教学案例与答题编排属于站内推演。",
+      "changes": "区分未达目标与相较可行方案更差，比较各方案实际而非假定相同的信息和能力；补贴案例标为假设。",
+      "evidence": {
+        "body": "Tanzi 1997关于政策目标和实际执行限制；OECD 2020比较备选方案与实施条件。",
+        "example": "站内补贴与审核教学假设，Tanzi讨论激励及寻租风险，并不指称实际项目。",
+        "interpretation": "Tanzi对理想与实际公共部门的区分；未达目标不等于不如替代方案是比较分析。",
+        "mechanism": "Tanzi 1997讨论政策执行者、信息、利益集团及委托代理限制；具体影响须调查。",
+        "caseAnalysis": "站内补贴假设；借助Tanzi的激励与执行机制，不作为经验结论。",
+        "limits": "OECD 2020强调合理替代、执行资源、成本收益及评估；分别考察条件为站内比较原则。",
+        "exam": "站内答题建议，依据Tanzi的限制及OECD比较与执行框架。"
+      },
+      "fieldHashes": {
+        "body": "15a412beb4346cd7ad26571a1d959822dd8d7237103c8a3c8fda930046082e84",
+        "example": "51dce32c7475a91731762774a444492a6f7b60991b0bafbf320d3ae5e991357e",
+        "interpretation": "911ffe224c8fc4607a8fa4c13476c1394e856b87a4be433d6b65ee4c0a2f3f71",
+        "mechanism": "3d934d855743b7f20d67a75eaa62d736e7500c9ac3392e1830cd4708bce5b551",
+        "caseAnalysis": "4f2a5c72fef28bc5b4d0d64b025ebbfcb544d8b257a598f5a7417424a9c5ad7f",
+        "limits": "163dada68daafa7cc0ada4642f4dd1773a97c1b7cc933c215440e7ddf6bf5061",
+        "exam": "6451f227ce494bf03e84711f88315a11092dc70bc6cefbcb92b6aa284ac54296"
+      }
+    },
+    "policy-tools-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "oecd-checklist",
+        "oecd-ria-2020"
+      ],
+      "scope": "核对七个正文段落的概念、限定条件和所列来源；教学案例与答题编排属于站内推演。",
+      "changes": "明确社区活动为教学假设，并补充备选方案、受影响者、成本与效果评价。",
+      "evidence": {
+        "body": "OECD检查表和2020年规制影响评估最佳实践的问题界定、备选方案与执行环节；权利障碍为站内分析维度。",
+        "example": "站内信息与场地障碍假设，依OECD问题界定和替代方案比较进行推演。",
+        "interpretation": "OECD 2020建议明确问题、目标及可行替代措施。",
+        "mechanism": "OECD 2020要求分析直接间接成本、利益、执行和合规，具体工具机制为站内解释。",
+        "caseAnalysis": "站内社区活动假设；访谈和评估是分析建议，并非真实案例。",
+        "limits": "OECD 2020强调依据具体制度能力、资源与参与者进行分析，不能自动推及其他地方。",
+        "exam": "站内答题组织，参考OECD问题、选项、实施与监测框架。"
+      },
+      "fieldHashes": {
+        "body": "5cc06b2b6d32fdd3eff5ed15d5b744bec46d84ec1d512bceb79c3d92814aba67",
+        "example": "de81fa84407afa4cc9591a5379d9bbbc37a623b71b7d82e4903f9ca9408d6422",
+        "interpretation": "d9550cad547fb44b714c256cc13321a6c3cf3da87c68e73e3c46977c4bf6f1dd",
+        "mechanism": "cd1b0bfe3e43bd5fdba956eabec07b8f20c720a66510921666646abe13d165e3",
+        "caseAnalysis": "214b0314cdcc4b32c212d28819d54609251318d6873eb4225de0f4addaab6e5d",
+        "limits": "a72ebac27bd72a1fc9e36fbcf92a37048ae33df3b5352cce8b67194bc770059b",
+        "exam": "226e39945a0e3ea51c9572dde01e931e7389e14aee9338009f6139e7948c8eb7"
+      }
+    },
+    "finance-role-1": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "imf-fiscal-politics",
+        "openstax-stabilizers"
+      ],
+      "scope": "核对七个正文段落的概念、限定条件和所列来源；教学案例与答题编排属于站内推演。",
+      "changes": "标明基础设施与无障碍设施是教学假设，补充稳定关注就业物价；纠正来源定位为第一章相关段落而非全书导论。",
+      "evidence": {
+        "body": "IMF Fiscal Politics公开节选第一章相关段落及注释5；三职能为分析分类。",
+        "example": "站内基础设施假设，以IMF三职能框架作条件分析。",
+        "interpretation": "IMF Fiscal Politics第一章三职能段落和注释5，部门划分为站内提醒。",
+        "mechanism": "IMF节选指出预算收入与支出的政治分配；多重影响是站内条件分析。",
+        "caseAnalysis": "站内无障碍设施假设，按三职能分别推演，不声称实测效果。",
+        "limits": "OpenStax 30.5区分自动稳定与相机政策；融资、时滞与环境提示为站内分析。",
+        "exam": "站内答题安排，以三职能及政策约束为分析视角。"
+      },
+      "fieldHashes": {
+        "body": "ac6b7d1fcc831c67e508d1d21123061d55ec38333945007418f98a6f06cca463",
+        "example": "fbb35d1818ea915968af6559ae38807037b0bbc079adce7f60a536a2865ec933",
+        "interpretation": "beca7e1a19684ee735fdf546959b4d1140d571742c2644b459e44a0551c25fcd",
+        "mechanism": "6b1c81308659bf856c366ec030d6703c5b2f4767f5f0bed3e2681c1951c4b3ac",
+        "caseAnalysis": "e9671826f7a3efb32deda4494a541135a4d461b953756485c8ebee0784253809",
+        "limits": "b42c41f9920aba5e4f24c4290abb568f95df2946152b3ab655fe85fab7e5c856",
+        "exam": "47a7bc8d38f59c194d212bbb04c3063ea1aa44eeca44446ec268f40a5ac36d25"
+      }
+    },
+    "gov-function-3": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "mof102",
+        "mof-list",
+        "oecd-contract"
+      ],
+      "scope": "核对七个正文段落及列明法律、规章与其他来源；一般管理分析、教学案例与答题建议为站内推演。",
+      "changes": "限定政府保障责任适用范围，标注养老服务为假设，区分法律责任、合同义务以及第33条参照执行的主体。",
+      "evidence": {
+        "body": "财政部令102号第2、5、9—10条界定国家机关购买及事项限制；保障、筹资与生产是站内分析区分。",
+        "example": "站内养老服务假设；第9、10、23、25条用于分析事项、合同与履约，不认定某项目可购买。",
+        "interpretation": "第2、9、23、25条分别规定购买事项、合同及履约；供给与生产分工为站内分析。",
+        "mechanism": "第10、23—26条关于范围、合同和履约；OECD外包手册作为有情境限制的比较材料，成本为站内分析。",
+        "caseAnalysis": "站内养老假设；第2、6、9—10、23、25和30条涉及主体、事项、合同与监督，未声称具体案例。",
+        "limits": "第2、5—10、33条关于主体、范围和参照执行；不将购买自动等同于私有化是站内分析。",
+        "exam": "站内答题组织；结合第9—10、23、25和30条及责任链分析。"
+      },
+      "fieldHashes": {
+        "body": "342ae7de833fd87d97cf4a1365681e01fb533187c983011150d0852f41a2aa2e",
+        "example": "b2a0da29d694e45fbb878e0bbddee400ca5da2b30dccb25fb6125373a59c0d96",
+        "interpretation": "a15d5b1149e7c143ae79d8468321d9e9a000ec0d05cb78c4000ae83f74d2202f",
+        "mechanism": "1ddd515fd896aaab4181812f638db3fd320d188d29caae2666765d3383b1da07",
+        "caseAnalysis": "6d8e7194d7f93e41e45c442fee1de2f0b4fef79d0510f297a2018b43b43ff76c",
+        "limits": "49fee4536e107ce16f5b531fd006372730dc1f14ef43fbc672db86cd7031fa00",
+        "exam": "03b983c46f164bca9708c8f07399ea5af4079820938a344e5d317761153d97bc"
+      }
+    },
+    "ethics-2": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "civil-service-law",
+        "npc-civil-gazette",
+        "admin-laws-catalog-2026"
+      ],
+      "scope": "核对七个正文段落及列明法律、规章与其他来源；一般管理分析、教学案例与答题建议为站内推演。",
+      "changes": "区分一般专业建议与公务员法第60条适用条件；补充2018年修订版本的2026年法律目录核验，并标明教学假设。",
+      "evidence": {
+        "body": "公务员法第2、59—60条；一般组织协调和专业判断为站内分析，不泛化具体法律义务。",
+        "example": "站内专业意见假设；第60条规定公务员对认为有错误的上级命令可以提出意见，身份和事实须另核。",
+        "interpretation": "第2、60条限定公务员身份、执行公务及上级决定命令；专业判断为站内分析。",
+        "mechanism": "记录、意见表达和纠错是站内组织管理分析；不宣称第60条逐项规定这些程序。",
+        "caseAnalysis": "站内服务对象案例；第2、60条用于提示身份和情形，具体规范另查。",
+        "limits": "第60条区分认为有错误、上级不改变或要求立即执行、执行明显违法命令；专业争议不自动等同明显违法。",
+        "exam": "站内答题组织，以第2、60条适用条件和组织纠错为分析主线。"
+      },
+      "fieldHashes": {
+        "body": "b92029128f44abba1b7a4d6d1479011ad4861a6a137eec57d333173ed33198b0",
+        "example": "4fad8ccb78b8ca130e7db4c6f9d5aee3b1b573f2644210a1e2b1d7ab5c210e84",
+        "interpretation": "ca2239668f8f26df8b88f95bc679090b77eeb60731bd7f192d0260b0ffd8d2cd",
+        "mechanism": "f7321d0dd825109509f186806ee14370bb306c01aa1a42d3129cf425e7fa7700",
+        "caseAnalysis": "672a5773ce170a1da7a58d3e80a5b6d98abd11d4bceb18c6c14a4bab4ceed77f",
+        "limits": "87580b2b2456d26289ace91746e2ffb933649395b16935ae740eacc4208d45d2",
+        "exam": "bb823b443ed299da90cab8700f67aaeffc7017a4487d714921e313a927666741"
+      }
+    },
+    "contingency-3": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-systems-2019",
+        "gao-evaluation-2021",
+        "sage-open-systems-2017",
+        "riggs-prismatic-2006"
+      ],
+      "scope": "在既有按范围核验专题上深化，保留原章节ID、别名和延伸路线。核读OpenStax4.4并联系既有GAO指定页；旧SAGE与Riggs读取范围保留，不声称本批重读其全书。",
+      "changes": "增加边界诊断表、输出与结果/反馈区分和教学案例，复核七字段。",
+      "evidence": {
+        "body": "OpenStax4.4的投入转化输出反馈；GAO指定范围支持区分交付与后续结果。",
+        "example": "独立线上/线下服务教学假设，不是实际成效。",
+        "interpretation": "开放系统公开教材及既有SAGE读取记录；边界说明为分析限定。",
+        "mechanism": "教材的组织交换与反馈；要求实际证据为站内诊断。",
+        "caseAnalysis": "基于GAO口径的独立教学推演，不推断真实因果。",
+        "limits": "公共任务、价值与代表性为站内评价限定，既有SAGE自然系统类比限制保留。",
+        "exam": "站内答题组织建议，不是原典规定格式。"
+      },
+      "fieldHashes": {
+        "body": "7caed985eaa2bb708e733cdfcd3a153ae2e4af27e314d21e0a630c4cb278eec5",
+        "example": "b6d5de97e1f6e7110a78d461979e0b52ffd00c4f1c57dcfb88dcebc738316bb2",
+        "interpretation": "b79d9cc44f3b28ab9e0a81647bc1ba3fe4175558e57ef829b633d8c9a441232b",
+        "mechanism": "1abfb84a3c8fda496817a901d7558bd66b1f7332689ce7edc26f514eb519d9c7",
+        "caseAnalysis": "8446e0e479173ac2048fbff15200f0b81bcf2fab97c7ff1ee390f6e6e849fedf",
+        "limits": "07774177e05dbfd73b02e956ad361814cc811dacedb9bc4838b9963c9fbdff67",
+        "exam": "20ea0741a968b5bf473354c01dd5a16eee05d763024c5e27ed5f3aff948536cb"
+      }
+    },
+    "evaluation-3": {
+      "reviewedAt": "2026-11-04",
+      "sources": [
+        "cdc-eval-framework-2024",
+        "cdc-formative-2008",
+        "cdc-community-eval-2000"
+      ],
+      "scope": "核对七字段的评估用途、证据和术语边界；案例与答题建议为站内教学假设。",
+      "changes": "补充形成性对设计阶段的作用，明确术语分类差异、时间与方法不唯一，并标注社区试点为假设。",
+      "evidence": {
+        "body": "CDC 2008评估用途与2024框架评估问题；时间和用途可能交叉为站内归纳。",
+        "example": "站内社区试点假设，依据CDC 2008形成性与总结性用途进行区分。",
+        "interpretation": "CDC 2008评估资料及2024框架关于预期用途和使用者。",
+        "mechanism": "CDC 2024关于实施、结果、使用者与证据；公平及成本须依具体目标判断。",
+        "caseAnalysis": "站内试点假设；依CDC 2008用途比较，不指称实际效果。",
+        "limits": "CDC 2000第12页说明术语在不同领域的差异；2024框架列出不同评估关注点。",
+        "exam": "站内答题建议，以CDC 2024框架的目的、使用者、问题及证据为依据。"
+      },
+      "fieldHashes": {
+        "body": "1d0926ecd277f318edfde40756dde273aa04a3efdcd271d9ec965362a1238612",
+        "example": "c04e583f2b676af116f9f42b8e847133c87d14679de9e2004911e887831b03ab",
+        "interpretation": "65fbddeabfd61b54a37eebb430d888c97a44bcc6566bb9ea1e5fb45f5cd9b50f",
+        "mechanism": "600a9dc9caea0915ce1b9cae54484432ed40dfd290ddb5443548f5e5a34b7f35",
+        "caseAnalysis": "0fd9305c060c818530c12770723508a41a30b6531cc14810a3825edc57355fd6",
+        "limits": "eb87ab194f4102304ee6c82e80f9bb34c8c7ff42a335890664ffb60bfcc867b9",
+        "exam": "61a6d11b67feea8a7b380978badf6ba13d2cf29348c0c89f3b840730b3652a4a"
+      }
+    },
+    "bureaucracy-1": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "weber-authority-excerpts",
+        "openstax-legitimacy"
+      ],
+      "scope": "核读韦伯公开英译节选与OpenStax 11.3；案例和答题组织为站内推演，未通读韦伯全书。",
+      "changes": "明确传统的信念、命令权边界、服从不等于信服以及描述性与规范性判断的区别。",
+      "evidence": {
+        "body": "韦伯公开英译节选：三类依据及历史混合的限定。",
+        "example": "站内教学假设；以韦伯法理型的规则、职位权限和信念为分析线索。",
+        "interpretation": "韦伯英译节选第2节比较传统、魅力和法理三种正当性主张。",
+        "mechanism": "韦伯英译节选法理型对非人格秩序及职位权限的说明；人员更替连续性为站内推论。",
+        "caseAnalysis": "站内假设；韦伯英译节选第1节指出利益、习惯和无替代选择等不同服从动机。",
+        "limits": "韦伯英译节选指出混合与信念的经验问题；OpenStax 11.3区分描述性和规范性正当性。",
+        "exam": "站内答题组织建议，依据上述类型和证据边界。"
+      },
+      "fieldHashes": {
+        "body": "9869f72d1355e9e4b69ca1412c1d571121db96198d5a5a0834a7d0f8fc25dab1",
+        "example": "9ace54dfb06895d435b86bd87271c14a71b35410300c2a804e06b46495644cc5",
+        "interpretation": "3d237a04f0d851bd18a7dabc7a76d455725e2b4892948ada0e5bbca46f79d46d",
+        "mechanism": "df6f79680c37126ba8ee15b52d0c567a838795bca00154105214a338b1a8e495",
+        "caseAnalysis": "36818fcc5d4284af971e20b3cc880446ecbca99221cb9820c6183add7a0da227",
+        "limits": "44996ac7edcb41df83574b1ccc1f6c91b706775b92682632e7700282e172d39e",
+        "exam": "8d6ab568c4cc070b3d21717e93b55975853d8bf0394b9db804dd572bb681a070"
+      }
+    },
+    "public-interest-3": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "bryson-stakeholders-2004",
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025"
+      ],
+      "scope": "核读Bryson论文指定页及OECD指定章节；Freeman与Eden原著未读，中国案例为教学假设。",
+      "changes": "补充影响决策与受影响双向关系，明确群体差异、参与障碍、权利和隐私限制。",
+      "evidence": {
+        "body": "Bryson 2004第21—23页讨论双向关系；OECD指南讨论相关者参与。",
+        "example": "站内社区改造教学假设；参与障碍参考OECD报告。",
+        "interpretation": "Bryson 2004第21—23、28—30页识别相关者；未来成本关注为站内推演。",
+        "mechanism": "OECD 2025参与障碍与包容性章节；缺席不代表无利益为站内解释。",
+        "caseAnalysis": "站内教学假设；参考Bryson识别步骤和OECD包容性建议，不声称实证效果。",
+        "limits": "OECD指南的参与、透明及过度影响风险；权利与信息保护需结合具体规则。",
+        "exam": "站内答题组织建议，结合Bryson识别与OECD反馈原则。"
+      },
+      "fieldHashes": {
+        "body": "bb456a800d552d5a62668d978c1e54b42e252f5606249fb95dcbd11aee28a8ec",
+        "example": "a14c2694a9bab7da120aecbf5e46c0c410cfa3c1bf743ee9e8c06de3c92f9c37",
+        "interpretation": "f66566162a3e7fc20da97bc6260f8109d113ef104e5668f27440cd77db17ab82",
+        "mechanism": "4c54927a94c143671ed69ed6743a3baceabb0ad04af4c8d5479ab8a84d9f7307",
+        "caseAnalysis": "e9bf728cc37fa9f1ee2f0b789f47cc4d7c7712ebd0cdfe26a52afbbcfc8fa432",
+        "limits": "c6d8845bad5f7e1bde58b0868c3a3fa8194ef1f2c6290e27abdc734eb075cb08",
+        "exam": "7b7065d21dcc3eb483f9a07d5da14101b97d32c86625b4fa6b8f74a0881d274a"
+      }
+    },
+    "participation-1": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025"
+      ],
+      "scope": "核读OECD 2022参与指南和2025参与挑战指定部分；分类、案例和答题组织为站内整理，非中国法定程序。",
+      "changes": "对情境增加教学假设标识，明确机会、代表性和参与影响须结合证据判断。",
+      "evidence": {
+        "body": "OECD 2022指南的参与设计与反馈、2025报告的参与障碍；本条分类为站内教学整理。",
+        "example": "站内建议或教学假设，参考OECD信息、可达性和反馈原则。",
+        "interpretation": "OECD指南及参与障碍报告；概念区分为站内整理，具体代表范围须说明。",
+        "mechanism": "OECD 2022与2025关于信息、进入条件、影响路径和参与障碍的讨论。",
+        "caseAnalysis": "站内教学假设或建议；按OECD指南检视渠道、表达与反馈，不声称实际案例。",
+        "limits": "OECD指南强调反馈与包容；参与、推断和具体权利须按问题与规则判断。",
+        "exam": "站内答题组织建议，依据参与路径和证据范围。"
+      },
+      "fieldHashes": {
+        "body": "0c3974132e0b990dab305ee26a6ca1ff7c3c20af8892f1e9c83a91282eefd29b",
+        "example": "62c068e52824743e9a09dfdbea447cff7e3f36b8e2b579d17f326c89f4a0d44a",
+        "interpretation": "8212102322c7baf2ac3f3c8395659e978500da8188609723e52306c9911afb15",
+        "mechanism": "5a8ee620caf4c148c79e3612b15b1b4a09b8f4c1b03aa5a2e249597e0d7573a6",
+        "caseAnalysis": "b2f85425f3aadcfa2cb23fb1b9d43574360e150e5392288178037360ca47761f",
+        "limits": "9e6d271e7fe7a2bf796caf382f73c0e753b272ab26844e625b04c8bb10bc7ab8",
+        "exam": "e2f22590fb09e090f12e3aa1843d8fd8059f40f390813658943fce03fe80f4db"
+      }
+    },
+    "participation-2": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025"
+      ],
+      "scope": "核读OECD 2022参与指南和2025参与挑战指定部分；分类、案例和答题组织为站内整理，非中国法定程序。",
+      "changes": "对情境增加教学假设标识，明确机会、代表性和参与影响须结合证据判断。",
+      "evidence": {
+        "body": "OECD 2022指南的参与设计与反馈、2025报告的参与障碍；本条分类为站内教学整理。",
+        "example": "站内建议或教学假设，参考OECD信息、可达性和反馈原则。",
+        "interpretation": "OECD指南及参与障碍报告；概念区分为站内整理，具体代表范围须说明。",
+        "mechanism": "OECD 2022与2025关于信息、进入条件、影响路径和参与障碍的讨论。",
+        "caseAnalysis": "站内教学假设或建议；按OECD指南检视渠道、表达与反馈，不声称实际案例。",
+        "limits": "OECD指南强调反馈与包容；参与、推断和具体权利须按问题与规则判断。",
+        "exam": "站内答题组织建议，依据参与路径和证据范围。"
+      },
+      "fieldHashes": {
+        "body": "c13f3ea5054d1eb3af39b9adc5c0d9350cae4d952306f18eb6b541ccca63b8eb",
+        "example": "b92384a48a9263f99cf6b06d437792881cc592f45bdb125458949ad4064f5abd",
+        "interpretation": "e68683ddd69b55b9e63acb16c2d4eb50707d7deb554f1e72a97fe1b0379a73f8",
+        "mechanism": "e7e38d53e827e495dad3bd67ea01d56c8f31433fc26c4b53d947e5c118146588",
+        "caseAnalysis": "7dd9f979def9760ebaa03530e9a56082a65cbee6c2238a30ef82d4356266f6b5",
+        "limits": "96eeeb143d4c7fc636c0b8d37d1bd6b06191f2df386ab42edefac307f54051c6",
+        "exam": "ee89991731520d895062a7a2328f22114f0926bbe8897a8dff9ea6f3abaac714"
+      }
+    },
+    "participation-3": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025"
+      ],
+      "scope": "核读OECD 2022参与指南和2025参与挑战指定部分；分类、案例和答题组织为站内整理，非中国法定程序。",
+      "changes": "对情境增加教学假设标识，明确机会、代表性和参与影响须结合证据判断。",
+      "evidence": {
+        "body": "OECD 2022指南的参与设计与反馈、2025报告的参与障碍；本条分类为站内教学整理。",
+        "example": "站内建议或教学假设，参考OECD信息、可达性和反馈原则。",
+        "interpretation": "OECD指南及参与障碍报告；概念区分为站内整理，具体代表范围须说明。",
+        "mechanism": "OECD 2022与2025关于信息、进入条件、影响路径和参与障碍的讨论。",
+        "caseAnalysis": "站内教学假设或建议；按OECD指南检视渠道、表达与反馈，不声称实际案例。",
+        "limits": "OECD指南强调反馈与包容；参与、推断和具体权利须按问题与规则判断。",
+        "exam": "站内答题组织建议，依据参与路径和证据范围。"
+      },
+      "fieldHashes": {
+        "body": "3768e159a26a0558db9e806daed42258cf494e52fcfbd0a7d6d9ee24ba7b6754",
+        "example": "55292303f6fe7dfe2abe255c366157f97bed0f192ec35b801d2cc99965682a71",
+        "interpretation": "0e390d6d60ba2b5ce369b93e645bd45bbf4d0846a07eee85373b4fc067a05476",
+        "mechanism": "ede69cfd3fa9b08aef28bc524d7f3eec9e57ab0d60e25288fa502b615cf6397e",
+        "caseAnalysis": "09f319fea27e78363cc990103913f83d2f0aadfeefb5c99ccc79bda7839b80f1",
+        "limits": "616e10f7f9730b33244705ccfbb89edc3c13de8fabe8c9f8ac6dafc5774554a7",
+        "exam": "b20596da9b78b04743d62662be8f4802f5368e8dc572e422cdcbeb4cf37df5bc"
+      }
+    },
+    "collaboration-1": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "ansell-gash-2008"
+      ],
+      "scope": "核读Ansell与Gash 2008论文指定页；信任与合同另核读Poppo与Zenger 2002相关部分。案例及建议为教学推演，不能直接替代中国具体规则。",
+      "changes": "明确情境是教学假设，区分合作、权力关系和具体证据；不将合作成效视为必然。",
+      "evidence": {
+        "body": "Ansell与Gash论文定义、起始条件及过程模型。",
+        "example": "站内假设或教学建议，参考论文的参与、规则与资源条件。",
+        "interpretation": "Ansell与Gash论文第543—548、550—552页，按本条范围解释。",
+        "mechanism": "Ansell与Gash第550—552、555—559页；具体条件和效果不作必然因果推断。",
+        "caseAnalysis": "站内教学假设或建议，结合公开讨论、责任和表达条件，不声称真实事件。",
+        "limits": "Ansell与Gash第561—563页的情境条件与研究局限；法律适用和具体效果需另核查。",
+        "exam": "站内答题组织建议，依据前述概念与条件。"
+      },
+      "fieldHashes": {
+        "body": "bb85d3975db8e3d56ac859314498796f54133acb60d2b2546134b2469730e591",
+        "example": "647f114f97ae429931081e9e53641d2755f9d80f3316db93e5db718ded6ff2a5",
+        "interpretation": "fba2ceac376105656cee7e34c1c34da5e448a75efd3f4d7a0f2248dab9c5bd55",
+        "mechanism": "e59362307003ed24e007c773a6dba7bd6afe01faa2afcc8dd80d57ef92f8c906",
+        "caseAnalysis": "0e659ca61b1d5aaed19a6034305cc20c12a891db731ea5906a818433d64e3d52",
+        "limits": "caee967416f34304ef174987d31ddb58f6c1ce8ca4d033e498b7085a88159a18",
+        "exam": "6f574fa70e93633a735ec4a11717bf16cb13d260bc58cae8ef972b0257352bbf"
+      }
+    },
+    "collaboration-2": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "ansell-gash-2008",
+        "poppo-zenger-2002"
+      ],
+      "scope": "核读Ansell与Gash 2008论文指定页；信任与合同另核读Poppo与Zenger 2002相关部分。案例及建议为教学推演，不能直接替代中国具体规则。",
+      "changes": "明确情境是教学假设，区分合作、权力关系和具体证据；不将合作成效视为必然。",
+      "evidence": {
+        "body": "Ansell与Gash的信任过程及Poppo与Zenger的信息服务交易中正式合同和关系治理的互补讨论。",
+        "example": "站内假设或教学建议，参考论文的参与、规则与资源条件。",
+        "interpretation": "Ansell与Gash论文第543—548、550—552页，按本条范围解释。",
+        "mechanism": "Ansell与Gash第550—552、555—559页；具体条件和效果不作必然因果推断。",
+        "caseAnalysis": "站内教学假设或建议，结合公开讨论、责任和表达条件，不声称真实事件。",
+        "limits": "Ansell与Gash第561—563页的情境条件与研究局限；法律适用和具体效果需另核查。",
+        "exam": "站内答题组织建议，依据前述概念与条件。"
+      },
+      "fieldHashes": {
+        "body": "5ef83229f85493edf25228880a21ae7d6270e7d5a275a07cee3157278267fa57",
+        "example": "dccf044b4f775ce3941474f1e79050e20fbb413502e6af2100a862ee442f1f50",
+        "interpretation": "15a2ba2f4eb113d54d94b7ecf5758f5d657fabfc4f0efb997edfe870847ef598",
+        "mechanism": "3cabfb41b87e799d83a6bd114832a547a7d78f031f3c844b92dffe3be79a6b53",
+        "caseAnalysis": "58e337d4be125c6267c33d7597883c22b2fb6f389ef89817595b27708d19fab9",
+        "limits": "9199fe8d502f20885a1db98ee6015934a6c7958c6291474d6e3856681b8e606e",
+        "exam": "34825870bbe3305a9da0a09e2144c27d97a90fba3bbb940077127caec672c17b"
+      }
+    },
+    "collaboration-3": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "ansell-gash-2008"
+      ],
+      "scope": "核读Ansell与Gash 2008论文指定页；信任与合同另核读Poppo与Zenger 2002相关部分。案例及建议为教学推演，不能直接替代中国具体规则。",
+      "changes": "明确情境是教学假设，区分合作、权力关系和具体证据；不将合作成效视为必然。",
+      "evidence": {
+        "body": "Ansell与Gash论文定义、起始条件及过程模型。",
+        "example": "站内假设或教学建议，参考论文的参与、规则与资源条件。",
+        "interpretation": "Ansell与Gash论文第543—548、550—552页，按本条范围解释。",
+        "mechanism": "Ansell与Gash第550—552、555—559页；具体条件和效果不作必然因果推断。",
+        "caseAnalysis": "站内教学假设或建议，结合公开讨论、责任和表达条件，不声称真实事件。",
+        "limits": "Ansell与Gash第561—563页的情境条件与研究局限；法律适用和具体效果需另核查。",
+        "exam": "站内答题组织建议，依据前述概念与条件。"
+      },
+      "fieldHashes": {
+        "body": "516dcf03f53575bc71c209beaa0cc552be0ecf74d41e485b0d91d9228e1ee7eb",
+        "example": "76c0d7d97ec374cc7b94d950525faf571e01a4d91fa640165bc9ce79e679fb3e",
+        "interpretation": "cdf96320cdeb2eebaa2859a2d5964d6b9b473d65fface72e03c18a6fb58f5437",
+        "mechanism": "f389473eabce64d22d7b60d7554ae96f81b6201fa7720ec1284559e880e1b265",
+        "caseAnalysis": "a15fe008a026b1b03c879cbd0ff2b8fcb237f27e2697802062155f84d7c97bc4",
+        "limits": "10ca301608d4e1953073ad1f311f26285b4ff1f6dfdf2bb4f853d9d01ce7ae7d",
+        "exam": "bcbad17d8016f0a363c8a65860d0b2b196e0b94d6003fba29b0090827a3b7e5b"
+      }
+    },
+    "digital-1": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "digital-government-oecd-2020",
+        "china-digital-government-2022",
+        "government-data-sharing-2025"
+      ],
+      "scope": "核读OECD 2020框架、国务院2022意见及2025政务数据共享条例指定条款；案例与答题组织为教学推演。",
+      "changes": "明确教学假设，补充制度、可及性或自动化决策的具体适用边界。",
+      "evidence": {
+        "body": "OECD框架与2022数字政府指导意见关于流程与服务；术语对照为站内教学区分。",
+        "example": "站内教学假设；以所列来源为分析背景，不声称真实个案。",
+        "interpretation": "OECD框架与2022数字政府指导意见关于流程与服务；术语对照为站内教学区分。",
+        "mechanism": "国务院2022指导意见及2025条例第19、25、26条；系统导致重复属于可能情境。",
+        "caseAnalysis": "站内教学假设及改进建议；实际适用和效果需核查。",
+        "limits": "按所列来源与适用范围说明，站内对风险、权利及效果的限制性判断。",
+        "exam": "站内答题组织建议，依据本条主题和来源范围。"
+      },
+      "fieldHashes": {
+        "body": "f53563b5ec40693bba8d5e5997d7e77f35a3db2cbf9ce7d6251a0023b10aa82d",
+        "example": "9baca5e64da677e650f07cb8c6d66c481fc773ca70ab1addc8dc1c05473d2d0a",
+        "interpretation": "cd336bccf5e0654e3bf915a75f517f9da707090196cfd82113917b716c415759",
+        "mechanism": "d93bae2cd433c00f5cb954601c9b59b4ef187fcb9095fcc1563c61e0e89f542c",
+        "caseAnalysis": "e7d40838cb73e55d5f58414a416da5a72399f96f460f35a6b8d91df235c9c706",
+        "limits": "95ee34f899f204f6914436457121695736c2e66fe5384ac94b2b90eb308fe2ab",
+        "exam": "336cce30ad0f3913c4a2281fd96a39fd00a67e80be753de87dbf7ad80ef2b855"
+      }
+    },
+    "digital-2": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "oecd-digital-divides",
+        "china-digital-government-2022",
+        "aging2020"
+      ],
+      "scope": "核读OECD数字鸿沟概述、国务院2022数字政府意见与2020老年人方案；案例与层次划分为教学推演。",
+      "changes": "明确教学假设，补充制度、可及性或自动化决策的具体适用边界。",
+      "evidence": {
+        "body": "OECD数字鸿沟概述涉及接入、可负担与技能；接入、使用、获益为站内分析层次。",
+        "example": "站内教学假设；以所列来源为分析背景，不声称真实个案。",
+        "interpretation": "OECD数字鸿沟概述涉及接入、可负担与技能；接入、使用、获益为站内分析层次。",
+        "mechanism": "OECD概述及国务院2022意见中线上线下、信息无障碍；具体群体差异需实证。",
+        "caseAnalysis": "站内教学假设及改进建议；实际适用和效果需核查。",
+        "limits": "按所列来源与适用范围说明，站内对风险、权利及效果的限制性判断。",
+        "exam": "站内答题组织建议，依据本条主题和来源范围。"
+      },
+      "fieldHashes": {
+        "body": "244c586f69bb45b57bd6eb82c9e6d9436ac68e43864cc2a947b703ed65b8664b",
+        "example": "c3ee71ac68b3eb1bf62359acc7216b4540133b4b0c44122625e55c015982adb4",
+        "interpretation": "131930e5416d3d4afee7c52967be60462dda0238e78015ebd7f16bf696438980",
+        "mechanism": "1e9615910ce9910c88b5bba87084ee5c7de4f61f865c91965a76b695232bcf2f",
+        "caseAnalysis": "d85b4463198f1dfbf64d422df4b93ad478e4c26ec8462298eb0e741f674ead30",
+        "limits": "f44a40791683493e93409d8e00a1c62eb772b3272f95b1384ffdcec7e0299a14",
+        "exam": "5461332cdc1244f23fb647e367166cb77853082eb7434961db8a3c4139b36f78"
+      }
+    },
+    "digital-3": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "oecd-government-ai-2025",
+        "personal-information-law-2021",
+        "government-data-sharing-2025"
+      ],
+      "scope": "核读OECD 2025报告摘要、个人信息保护法第24、33—34、55、73条与政务数据共享条例第25—26条；案例和复核设计为教学建议。",
+      "changes": "明确教学假设，补充制度、可及性或自动化决策的具体适用边界。",
+      "evidence": {
+        "body": "OECD 2025报告摘要关于偏差、透明与责任；人工复核为建议，法律条件另述。",
+        "example": "站内教学假设；以所列来源为分析背景，不声称真实个案。",
+        "interpretation": "OECD 2025报告摘要关于偏差、透明与责任；人工复核为建议，法律条件另述。",
+        "mechanism": "OECD 2025报告偏差、透明、过度依赖风险；具体影响和责任链需按实际情形验证。",
+        "caseAnalysis": "站内教学假设及改进建议；实际适用和效果需核查。",
+        "limits": "按所列来源与适用范围说明，站内对风险、权利及效果的限制性判断。",
+        "exam": "站内答题组织建议，依据本条主题和来源范围。"
+      },
+      "fieldHashes": {
+        "body": "7bbb009141dd884ef5d1a977c90490d75102d5695ee1f2b029efefbd05d3d9ff",
+        "example": "329421d728f4b2d57c85fabd54fbc20a94e210f460847500d2a0fe0cdfd95c36",
+        "interpretation": "378635a3de3fb8cf46b5abaac58ed06e224d677872d7b56e23b24e0c755ccee6",
+        "mechanism": "a1fc22c15f8fac151ff8c005e4fc88a26f870f3a1a36e6db7f0f8dab6e45ed8e",
+        "caseAnalysis": "b242170e6d497d7d1005ba273f551f3685567b8ee72f4e1b7fba23ba8e3f10fa",
+        "limits": "bd63b262a7006eee7a76a0172cd2152a9a3f611f456c614796fc34b85e45eac7",
+        "exam": "85dfc281fe3cea74811b677c10d1a09c9d59f7550e023f23ff3e9af8783e4397"
+      }
+    },
+    "hr-planning-1": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "opm-job-analysis",
+        "opm-position-description",
+        "civil-service-law"
+      ],
+      "scope": "核读美国OPM工作分析、职位说明指南及中国公务员法第20条；美国方法为比较，案例为教学假设。",
+      "changes": "明确教学假设与制度、比较方法的适用边界。",
+      "evidence": {
+        "body": "OPM工作分析和职位说明口径；公务员法第20条的职责和任职资格。",
+        "example": "站内教学假设或方法提示，不声称真实案例。",
+        "interpretation": "OPM工作分析和职位说明口径；公务员法第20条的职责和任职资格。",
+        "mechanism": "OPM工作分析和职位说明口径；公务员法第20条的职责和任职资格。；效果是条件性分析，须结合情境。",
+        "caseAnalysis": "站内教学假设，按前述方法解释，不当作实证发现。",
+        "limits": "所列来源的制度及研究范围；实际资格、预算和规则须另核查。",
+        "exam": "站内答题组织建议，以来源所述任务和分析范围为基础。"
+      },
+      "fieldHashes": {
+        "body": "df8e2639c4759b4a2b4c59e452d6ca950103f06d2d3ecd705da718bd59128f8b",
+        "example": "a4bbecd048df139a3b55f04e50d608a6f19e251e4c10f03c9d5e9aa1c7ae3bde",
+        "interpretation": "7aec1c570dc93043808f623ed8d48f3fccb3c217d672b9cabca6bd44a7688d1a",
+        "mechanism": "1fa220f16abf28602fa2548b306cf9ab151247da3ada7a90713b34c3e974545d",
+        "caseAnalysis": "339149c44237d20743c3686a074f571c0e6f7cdb2b9c9f2b195979a0f5ab2331",
+        "limits": "c4c5e24dcc8f1f75aa7062e84c2d96f484f55b5c1e43a058e427f9e15514d478",
+        "exam": "4dcaa16a43402922a32be4f66790ab8b3d133570de5d347f64d0621e343675a1"
+      }
+    },
+    "hr-planning-2": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "public-hr-textbook-ch2",
+        "civil-service-law"
+      ],
+      "scope": "核读教材公开试读第60—62页分类比较及2018年修订公务员法第16—21条；历史国家标签不能代替现行制度。",
+      "changes": "明确教学假设与制度、比较方法的适用边界。",
+      "evidence": {
+        "body": "教材第60—62页职位与品位分类；公务员法第16—21条。",
+        "example": "站内教学假设或方法提示，不声称真实案例。",
+        "interpretation": "教材第60—62页职位与品位分类；公务员法第16—21条。",
+        "mechanism": "教材第60—62页职位与品位分类；公务员法第16—21条。；效果是条件性分析，须结合情境。",
+        "caseAnalysis": "站内教学假设，按前述方法解释，不当作实证发现。",
+        "limits": "所列来源的制度及研究范围；实际资格、预算和规则须另核查。",
+        "exam": "站内答题组织建议，以来源所述任务和分析范围为基础。"
+      },
+      "fieldHashes": {
+        "body": "423c6c7d3280f0e8dd23444b9f2066423539e918c42c62fc14a45ce2c23b1fdd",
+        "example": "025a4366b26b585a7d8f7201ba0515769c93c3aa79ad8b6ba414f6b19acfa72a",
+        "interpretation": "5509c97bafbf382efd703da0848d4622c53abc061e5160c4f2806e3bda0a0de0",
+        "mechanism": "b380a4d7d4a4dd6a3d83e16fa5c41da401b715b417ccb013851b7ea3dc79fb04",
+        "caseAnalysis": "faf368d9380d4dc638ee415811f64ca48c13695360c4c49c2fdff331de296078",
+        "limits": "71dbb47655f724a37f844d183a64bf5fb42422fd2e1a64559e9e0bc48947c88b",
+        "exam": "d345161e0e75b2ba37fa7b73080c4073d2c03f22681172f38ef427ab3b424346"
+      }
+    },
+    "hr-planning-3": {
+      "reviewedAt": "2026-11-11",
+      "sources": [
+        "gao-workforce-gap-2024",
+        "gao-workforce-planning-2012",
+        "opm-job-analysis"
+      ],
+      "scope": "核读GAO 2024报告第6—8页和2012报告第17—18页、OPM工作分析概述；均为比较方法，案例为假设。",
+      "changes": "明确教学假设与制度、比较方法的适用边界。",
+      "evidence": {
+        "body": "GAO规划过程及人数、能力缺口的区分；OPM任务与能力关联。",
+        "example": "站内教学假设或方法提示，不声称真实案例。",
+        "interpretation": "GAO规划过程及人数、能力缺口的区分；OPM任务与能力关联。",
+        "mechanism": "GAO规划过程及人数、能力缺口的区分；OPM任务与能力关联。；效果是条件性分析，须结合情境。",
+        "caseAnalysis": "站内教学假设，按前述方法解释，不当作实证发现。",
+        "limits": "所列来源的制度及研究范围；实际资格、预算和规则须另核查。",
+        "exam": "站内答题组织建议，以来源所述任务和分析范围为基础。"
+      },
+      "fieldHashes": {
+        "body": "eb3ef2faeaab19342c17154fe8eff3e271d85ef234685dcca16fe7da3df295ec",
+        "example": "c5e42313288ad2faebf18ff200b5e243c229450b4029c2d605337e783576a46f",
+        "interpretation": "0a84b72616dfda26d9189254e751a46f37f2e60fb0f96d6149770315b9c3cd8e",
+        "mechanism": "c3075d2ea5c50aa5aad68df7ee9e968ee6bd52c6d3fb144314eadef2df32e0a1",
+        "caseAnalysis": "45edc5ad883b39588fa40c6bc7ba2af43abcbff537eb9399de78658bdc2ebb95",
+        "limits": "4553481bcd2426525a1368c02d0beadc8b61e487ebdc67bf9a7ad66a32672d18",
+        "exam": "77c212c11b3cf4718abbdd52fab87fc71e93d4c1f31d245921b73085ba2dd155"
+      }
+    },
+    "bounded-rationality-1": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "simon-nobel-1978"
+      ],
+      "scope": "核读官方演讲指定部分，区分原典机制、站内比较和教学假设；未把早期论文书目当作全文核读证据。",
+      "changes": "深化搜索、期望水平、组织支持与模型假设的解释，纠正满意度和完全信息的简化混淆。",
+      "evidence": {
+        "body": "演讲印刷页353—354比较模型要求与实际选择过程；350、359涉及优化、计算和信息限制。",
+        "example": "站内教学假设；依据搜索及计算限制设计情境，不是原始实证案例。",
+        "interpretation": "演讲353—357的模型对比、搜索与满意机制。",
+        "mechanism": "演讲353—354的子目标、专业分工、沟通和组织支持；效果需情境证据为站内解释。",
+        "caseAnalysis": "站内教学推演，不把报表数量与判断质量视为自动联系。",
+        "limits": "演讲350、359讨论计算、简化优化及信息成本；用模型假设具体比较。",
+        "exam": "站内答题组织建议，明确行为解释与公共价值评价的区别。"
+      },
+      "fieldHashes": {
+        "body": "bda03d1ab8f7d97a9ea1feff5243168810fe872679597dff8a0a4f2fca625e90",
+        "example": "fe0ffa72fd057db4ed1c35e4ba90b3aec5962991af31fe949fc08fdb2ef9a56e",
+        "interpretation": "01405c4bc5ca5e07fd0910456be108d312d9ee9faad766e9c55a96aa1c5a928e",
+        "mechanism": "7509aaa2ac23248d5fee688a5fde6eb34a26c3f57edcb97f6c5b260c1ece483e",
+        "caseAnalysis": "17796c757fcdf1120e1eb6f1fdcb5f4af99d89c7a5e2c6b122187c0f539965de",
+        "limits": "ca24123dafc9a0e486a07b9535df064d1475cd0c3b98ca6dc6449345664130de",
+        "exam": "8ca99324f5d79146b8cfa3e513f617f1ad139373a4ca5c64fd2736c06398d75a"
+      }
+    },
+    "policy-decision-1": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "simon-nobel-1978"
+      ],
+      "scope": "核读官方演讲指定部分，区分原典机制、站内比较和教学假设；未把早期论文书目当作全文核读证据。",
+      "changes": "深化搜索、期望水平、组织支持与模型假设的解释，纠正满意度和完全信息的简化混淆。",
+      "evidence": {
+        "body": "演讲356—357的搜索、期望水平与满意选择；与公众满意度的区分为站内概念辨析。",
+        "example": "明确标注的社区场所选择教学假设，不是真实案例。",
+        "interpretation": "演讲356—357中的停止规则，不以全局优化为必要条件。",
+        "mechanism": "演讲356讨论期望水平调整；公共价值与制度判断为站内解释。",
+        "caseAnalysis": "站内场地选择教学假设，不将行为理论推作降低保障的理由。",
+        "limits": "满意选择与满意度的概念辨析；标准充分性和正当性为站内评价问题。",
+        "exam": "站内答题建议，分别评价标准、搜索、停止和复查。"
+      },
+      "fieldHashes": {
+        "body": "4eb45ea00dd38ab87245ed055c11709b2f71e24edf410c4f3ceb83e27f8b09dd",
+        "example": "a714dd1cf24aef6e3f4f9477551de69848e9ae58ac5be171bf524e38667c042b",
+        "interpretation": "8496985c818f10b269d4c83c667825eee5922491cc9aa1227f31753a4df3c38a",
+        "mechanism": "7b7dfcba69233cb68e664113fa48b5b21b58162aab70cd372bb44585ce6fa7e3",
+        "caseAnalysis": "262bf633d42c74b0b27d176daf67c6a8ae4f480ad50255b33c9fa71e251cf9fe",
+        "limits": "ea4043bb7e4ed6357f4356a7a137f81165f28d1d85b6cec2724f887a8a493cae",
+        "exam": "c48cb287d6db378919fbbb4a9bc9f83ae8e23a92609033b429952ce2f4983db9"
+      }
+    },
+    "bounded-rationality-2": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "simon1947",
+        "simon-nobel-1978"
+      ],
+      "scope": "按指定节选核读范围审查定义和机制；表格、案例及答题建议为站内独立教学分析。",
+      "changes": "减少对组织影响的确定性表述，澄清复杂任务、电脑处理与决策类型的区别。",
+      "evidence": {
+        "body": "《行政行为》出版社第一章节选：组织影响、价值和事实、信息建议与训练。",
+        "example": "明确的服务窗口教学假设；不把考核效果写成已证实结果。",
+        "interpretation": "出版社第一章行政过程与组织影响段落，组织不只通过直接命令影响行为。",
+        "mechanism": "出版社节选的信息和训练说明；实际作用需证据为站内分析。",
+        "caseAnalysis": "站内教学假设，根据信息渠道与组织目标分析反馈缺口。",
+        "limits": "出版社节选的组织认同及其局限，1978演讲353—354页；个人与外部影响为分析边界。",
+        "exam": "站内答题组织建议，不当作作者原有固定分类。"
+      },
+      "fieldHashes": {
+        "body": "c27d7b8f6b87877685c4a5ffd7acae71c92359829db8214f4e93656038f532f4",
+        "example": "24a3c96d9781492ad218452cc853d6994fcffe8f5baa31536e86ef00395a1ee1",
+        "interpretation": "89b14920218a4d1b077e2d9819df5e5665c860d191630d552559cfb5701dbebe",
+        "mechanism": "cd48bfb5607ecc51287653ecfe31e0d4414e5e57ed9e10900e042755085f3857",
+        "caseAnalysis": "be566a3781910aba10221591f6c5428beea76ef4eda59e9bbf2db8deb509850e",
+        "limits": "197424ba738bf513ea2c71a6edb8ff062c390fd8a89eefca3f31ae217be76e94",
+        "exam": "54c91d47d9b384539773264563db385b7344e1d31104b0e0be192a62c5ec123d"
+      }
+    },
+    "bounded-rationality-3": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-programmed-2019",
+        "simon1947"
+      ],
+      "scope": "按指定节选核读范围审查定义和机制；表格、案例及答题建议为站内独立教学分析。",
+      "changes": "减少对组织影响的确定性表述，澄清复杂任务、电脑处理与决策类型的区别。",
+      "evidence": {
+        "body": "OpenStax第2.3节的重复性、规则与结构；电脑处理和正当过程为术语辨析。",
+        "example": "常见申请与新情况的教学假设，不是现实制度案例。",
+        "interpretation": "OpenStax第2.3节明确程序化任务也可复杂；同一事项分解为站内教学分析。",
+        "mechanism": "依据重复规则与新颖问题的区分进行分析；检查假设和例外为维护建议。",
+        "caseAnalysis": "站内教学假设，不声称所有新问题一定转为例行规则。",
+        "limits": "程序化与自动化、正当过程的站内概念辨析，不提供具体法律适用结论。",
+        "exam": "站内答题编排，依据规则、结构和重复性比较。"
+      },
+      "fieldHashes": {
+        "body": "e664cfb03e8b4aca3bfec96ebfde5d1976116bec3f594b4d4e7bf9d361337ac6",
+        "example": "10c7d2b1d13b5bf02d26cb0bba54a47bed70966455615ba5a00374c3c7b1a676",
+        "interpretation": "b2997ce43462cb2216ec1ada90c7447fb7b00f50b7b69877ffae871eb1e5a687",
+        "mechanism": "d0f208c4c66527742052a9664414269255885c2900db6b12c5394baea9a473cf",
+        "caseAnalysis": "54c7d99728aa9de29bafa546e53160a07bfedacc50615c34dfc7e6ac17bf4f20",
+        "limits": "0f2c86f5718a7b1481c98d0ad8f7744cb20d357bbd47f26e91970d7acb02f6d9",
+        "exam": "29785932d386c52f3f9848f611b9fb892014d14805509b1e71f80ab3faa085a7"
+      }
+    },
+    "org-structure-1": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-authority-2018",
+        "openstax-structure-2019",
+        "jacobsen-span-2023"
+      ],
+      "scope": "按教材指定部分和论文指定范围核验；表格、假设情境和答题分析为站内原创，不外推为中国制度或已证明因果。",
+      "changes": "澄清幅度与层次的条件关系、矩阵与一般合作、正式与非正式关系及研究适用范围。",
+      "evidence": {
+        "body": "OpenStax商业导论7.4的直接监督与等级定义；教材倾向性论述不作为普遍规律。",
+        "example": "明确标注的主管调整教学假设，不是真实机构改编案例。",
+        "interpretation": "依据7.4定义，提醒说明直接报告关系和分布为分析建议。",
+        "mechanism": "两本教材指定部分中的结构权衡；负担转移为站内机制分析。",
+        "caseAnalysis": "站内教学假设，用于检查复核和训练由谁承接，不声称已观察到效果。",
+        "limits": "原始医院研究的具体样本、组别及观测关联；不推断普遍最优人数。",
+        "exam": "站内答题建议，分别定义、条件、收益成本和检验。"
+      },
+      "fieldHashes": {
+        "body": "4d5f7ec90203ec3d71c612a9e951b520d727a2ca8edae3913257c62365055122",
+        "example": "d0a71299fbe687d18e8395847669c159c782daaaf2c5bb5c3a798c2aa59d6605",
+        "interpretation": "2d1aaaf3703552b174013d4a21ad03d5c03c35500c485438ccac583681478daf",
+        "mechanism": "b8197afe0b2f363c74617ef203ae42a1aa712f156c76d011f71f02d2db04d936",
+        "caseAnalysis": "8618646046854bb8ad75f42d0a53ddce8cfe129d69da2bdf1a2fb102b8c32a72",
+        "limits": "498c4d65cf3f2c6904b7e2f1af81f84a13708bc2085d2f426883b48cfef77b72",
+        "exam": "9f09da4e264309b9ed2e240200e420caed6ea32f8c64a1f65b0a872e6e9b2ac6"
+      }
+    },
+    "org-structure-2": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-structure-2019",
+        "openstax-authority-2018"
+      ],
+      "scope": "按教材指定部分和论文指定范围核验；表格、假设情境和答题分析为站内原创，不外推为中国制度或已证明因果。",
+      "changes": "澄清幅度与层次的条件关系、矩阵与一般合作、正式与非正式关系及研究适用范围。",
+      "evidence": {
+        "body": "管理学10.1和商业导论7.4的指挥、专业分工与矩阵；维度共存为比较说明。",
+        "example": "跨专业项目教学假设，不对应具体公共机构。",
+        "interpretation": "根据教材关系定义辨析层级，未把所有教材分类强行统一。",
+        "mechanism": "教材所述多维报告、资源整合与不一致要求；不保证结构效果。",
+        "caseAnalysis": "独立教学情境，明确协调权限与冲突处理问题。",
+        "limits": "区分实际合作、正式报告与专业建议的站内分析。",
+        "exam": "站内答题组织，强调条件与机制而非名称。"
+      },
+      "fieldHashes": {
+        "body": "6b9d668b2b42e2c07d19a7f69e2c796e7bc0784599e984292c5f98715fde4500",
+        "example": "5099e44a30d769944fa2d86709c5583b13e4fe6682fde68f3d1d9efdab58b836",
+        "interpretation": "b7cbd7281a4c7a170c6cabbb87df5375b47954f8935b28f3bf8081bb081bac1a",
+        "mechanism": "07ea709079dabd2fb47d06a7cb4ee5afd96a90abbce6601b57f282990dfb5977",
+        "caseAnalysis": "d34b05412cd1d1cf8718d54748f885c1160c455252f94b98c5e3497e3d5a25dc",
+        "limits": "c562690838b47c87259371132f9ca5a88442b9f72cc799d37db95462413d64ad",
+        "exam": "5237fc9b0974c3d2ca9a84629a64d4a4785c20271bba9c9a3e493f5a72b97dea"
+      }
+    },
+    "org-structure-3": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-structure-2019",
+        "simon1947"
+      ],
+      "scope": "按教材指定部分和论文指定范围核验；表格、假设情境和答题分析为站内原创，不外推为中国制度或已证明因果。",
+      "changes": "澄清幅度与层次的条件关系、矩阵与一般合作、正式与非正式关系及研究适用范围。",
+      "evidence": {
+        "body": "管理学10.1正式与非正式关系；公共责任为站内分析框架。",
+        "example": "明确材料咨询教学假设，区分沟通价值与平等进入。",
+        "interpretation": "教材正式图与互动网络说明；两者可重叠，不当作真假二分。",
+        "mechanism": "教材帮助或阻碍的双向说明，具体公共后果是待检验机制。",
+        "caseAnalysis": "独立教学假设，不作为实际服务不平等的证据。",
+        "limits": "站内概念及规范辨析，不将非正式等同违法。",
+        "exam": "站内答题建议，按形成依据、机制、后果和检验展开。"
+      },
+      "fieldHashes": {
+        "body": "20ed138cfe3ba5488d04d3aaa59ae1e64f4b126865d2ce9b82de29f3c7af72ce",
+        "example": "39400e493c3b6ea5010eb98921ce90c1fd5bbbc7164af62864819c3e384cb551",
+        "interpretation": "2228cfb6448c01686b946a38a18c57389350ccbf32a69460502fe8a900f65d3d",
+        "mechanism": "042c39d30f3830c87f7cd18c1624d7cdc29bac59453f60208ddc45028e8c322a",
+        "caseAnalysis": "118c78751830e4fe49cfbe4cd33cdbc901a5f2cd9bbec1ba1a5da374de0e048d",
+        "limits": "3030050c6fdd7eb8565ba798e8a168f71ed518a35ff9958637fb5ba88e1920f5",
+        "exam": "b9d3cc2df92f55a36f67b56b9c0c56bb740d38a67e913bdf9bedd906abcac90c"
+      }
+    },
+    "contingency-1": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "burns-stalker-summary-1994",
+        "openstax-design-fit-2019",
+        "openstax-structure-2019"
+      ],
+      "scope": "按开放教材指定部分、既有有限理性核读范围及原典出版社摘要区分证据层次；未获取Burns与Stalker完整章节，不据摘要声称全文核验。表格、案例与答题分析为站内独立整理。",
+      "changes": "说明两种结构的条件性、复杂与变化的区别及组织认识能力，减少必然性结论。",
+      "evidence": {
+        "body": "组织行为15.3开头的两种倾向与不同组织部分可能需不同安排；不排列先进落后。",
+        "example": "站内服务核对与新情况教学假设，不是现实制度案例。",
+        "interpretation": "所列教材的结构比较；分类是分析工具，不预设互斥标签。",
+        "mechanism": "依任务与信息需要进行条件性分析；人员资源与效果需检验为教学解释。",
+        "caseAnalysis": "独立教学假设，明确责任和反馈衔接。",
+        "limits": "教材条件说明与站内公共价值评价；不能从名称推定公平或转变已完成。",
+        "exam": "站内答题路径，不作为原典固定分类。"
+      },
+      "fieldHashes": {
+        "body": "4d4f64f1dd1b297c435f6ee9699963af3927b02cab2eef610ab37727c8fc6b1a",
+        "example": "bf40c4e4429397e07075b597bb3af0da52a1014bc4684edae737d7b357c8d8c5",
+        "interpretation": "97b55442924a87c76557f54ea9f89c9025f01358a0ce435ef1ee9ce6dfbab5ef",
+        "mechanism": "03d65949a084a0b112e45f46b4324ed908ed392de38f233ed892d765a5c6bc0d",
+        "caseAnalysis": "6a9294784faa73ed0584a19f84be24d3c1417289706d91ad5939b6ee0cb83b1b",
+        "limits": "b1d1084525af4e7c696a5db93ea62aa95a37f495679fe1861330ebafb47f4d45",
+        "exam": "da686403cb3af706c883a1b71dd5f753ad18df2566a02e4bdd606656d3ceb9a0"
+      }
+    },
+    "contingency-2": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-environment-2019",
+        "simon-nobel-1978"
+      ],
+      "scope": "按开放教材指定部分、既有有限理性核读范围及原典出版社摘要区分证据层次；未获取Burns与Stalker完整章节，不据摘要声称全文核验。表格、案例与答题分析为站内独立整理。",
+      "changes": "说明两种结构的条件性、复杂与变化的区别及组织认识能力，减少必然性结论。",
+      "evidence": {
+        "body": "组织行为15.2的复杂程度与变化维度；有限理性来源支持能力分析，两者区别为教学框架。",
+        "example": "明确的技术、对象与接口变化假设，不作为实证发现。",
+        "interpretation": "教材诊断起点及概念操作化的分析限制。",
+        "mechanism": "依据环境维度与信息处理约束作机制解释，不保证更多信息自动改善判断。",
+        "caseAnalysis": "站内情境分析，分别追踪时间、接口和能力问题。",
+        "limits": "区分外部条件、工作量与主体认识；避免把分类当万能归因。",
+        "exam": "站内答题组织，强调任务范围、证据和反馈。"
+      },
+      "fieldHashes": {
+        "body": "86f187e169a81bfd067bd95019d815700a92f103a63de7355488589df4494cbf",
+        "example": "91c060a20d6da19749e60ace7142dea47f82243df1badb027d13882abd83dc72",
+        "interpretation": "b58b94abb63a0854f6820eb53e426d4e07bad4114787f0a20a9fcc5248450bcd",
+        "mechanism": "88d63ad1f0c0386b18d490eb16ea7804fb617445ea2f8c78eb97e5d49c0d6fea",
+        "caseAnalysis": "502097bd61604c52dd671fd79e6a1937cb7df3e6d42db985b71861dc20a337c4",
+        "limits": "f6567c2430ebea3f4925ce19a4c4cfc49d925ab9187e84288f39c9ed5babacfc",
+        "exam": "8a08ee4b76a98cca5da6ae0138acd4b179a1d7d89b7c852a7d8b8d3b5ccbbd0d"
+      }
+    },
+    "motivation-1": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-expectancy-2019",
+        "apa-expectancy-2018",
+        "openstax-motivation-intro-2019"
+      ],
+      "scope": "核读OpenStax7.3期望理论部分与脚注、7章导论的绩效条件、APA术语；未读Vroom原著。不移植企业薪酬建议为中国制度。",
+      "changes": "明确E/I/V、主观判断与兑现区别、模型与绩效边界，情境全部标为假设。",
+      "evidence": {
+        "body": "7.3三环节与7章导论绩效条件；APA术语交叉核对。",
+        "example": "独立工具/评分/额外负担教学假设。",
+        "interpretation": "教材Basic Expectancy Model、Implications和脚注；不将管理承诺代替认知。",
+        "mechanism": "教材诊断的能力、资源、测量与后果价值，解释为条件性。",
+        "caseAnalysis": "三环节的教学应用，需不同材料核查。",
+        "limits": "教材脚注多后果模型及导论绩效条件；公平与责任为补充分析。",
+        "exam": "站内写作建议，区分意愿、表现与待补证据。"
+      },
+      "fieldHashes": {
+        "body": "130a2c10ab5a6d7c5bd71f2bde189b53f7ff11dea78161a87edc3cd9df51a8cc",
+        "example": "ee1931a953a3b6cf359577866d03630162d9c67b2dd587ac0b3e679c87549598",
+        "interpretation": "609b5a0709dae17bc1ce45a620d6fa8730ac9a90715b99da52bdf98bc173bf7e",
+        "mechanism": "4f538e7078bfdcba54fc4197fc1f1af03c6377d4643163304ed39ec88a99e4f9",
+        "caseAnalysis": "2e335e147da512a0bdcaa43c862d1c6df689acd8e7356ae3c7677748c0bf4209",
+        "limits": "daddfb02020dce4f729970be45635aacf2baca9c5641e7307976d6a9be251c41",
+        "exam": "0752d24f2d123bccc0e8dd1ae2cef21978c58dcc53d5b3c543cd68dcf3a2bad4"
+      }
+    },
+    "motivation-2": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "openstax-herzberg-2019",
+        "wall-stephenson-1970-abstract",
+        "openstax-motivation-intro-2019"
+      ],
+      "scope": "核读OpenStax7.2的Herzberg小节与7章导论；Wall与Stephenson1970仅公开摘要和书目，未读原实验细节，也未读Herzberg原著。",
+      "changes": "把模型与实证效力分开，区分满意/不满/动机/绩效，保留理论争议。",
+      "evidence": {
+        "body": "教材工作情境/内容及双轴；1970摘要支持争议，导论支持绩效条件区分。",
+        "example": "设备修复与职责调整为独立假设。",
+        "interpretation": "教材的理论呈现，不作为所有情境的事实。",
+        "mechanism": "结合工作内容概念的站内诊断，不将加任务直接等同丰富化。",
+        "caseAnalysis": "独立情境与指标设计，未把体验改善当作绩效因果。",
+        "limits": "1970公开摘要的概念/回答方式争议；不推断未读样本和完整实验。",
+        "exam": "站内论证组织，模型、应用与证据分别表述。"
+      },
+      "fieldHashes": {
+        "body": "8086e65f1c8952b5a5c5690d6dcd20d622025edfe26335b44e81701a8e1976ed",
+        "example": "9f22a075eda464c61648647e031c7f5e1a70b691165b39b9d2d820660d1d55c2",
+        "interpretation": "4c5eff331fb462ef549e6135f3cc4567194343f478160d56d7d94862fe2ab975",
+        "mechanism": "d4b8a1bc836d0674b193fc372fcc762618dba9023bc258e91902dc2da8808ee7",
+        "caseAnalysis": "d06157fd4b77ca723b52c6de503ff548f5876de16b646edeb090bfd719d0a363",
+        "limits": "d333cc9f43ba349eab69ec63bb753b68478d331f8bd7f5cf9a0e1f5573eacbf8",
+        "exam": "6832b6505d6747926aaa1c4278eb7107fe82acc042e5c6bc7b7caa50df9398a5"
+      }
+    },
+    "motivation-3": {
+      "reviewedAt": "2026-11-17",
+      "sources": [
+        "bakker-psm-2015-abstract",
+        "vanloon-psm-2015-abstract",
+        "openstax-motivation-intro-2019"
+      ],
+      "scope": "核读Bakker2015出版方摘要与van Loon等2015作者机构摘要，未获取二者全文和全部模型。一般绩效条件按OpenStax7章导论。",
+      "changes": "区分身份、意愿、行为与表现；动机—资源模型与研究关联不混作普遍因果，情境明确假设。",
+      "evidence": {
+        "body": "PSM论文摘要的动机与要求资源联系；身份推断边界为站内概念限定。",
+        "example": "独立超负荷个案与专业支持假设，不指认真实部门。",
+        "interpretation": "工作性概念辨析，不给人员道德排名，不声称来自统一量表。",
+        "mechanism": "Bakker摘要所提模型，明确其理论性质；不当作因果实验。",
+        "caseAnalysis": "按资源与要求框架的独立教学应用。",
+        "limits": "van Loon作者机构摘要的条件性关联；能力和公共责任为独立分析限定。",
+        "exam": "站内答题路径，区分模型、关联与建议。"
+      },
+      "fieldHashes": {
+        "body": "eda69be00a53a7214cf81cd9bfeca62d6fa2190ac49f2a4fb39eb9e96c99b89f",
+        "example": "ac618c2de90d27fb462ca747cccfe2e4e3dcd51ef232bfaee44eadd84b6178c7",
+        "interpretation": "7a34ffe6b3bd52f5f27be6a3bb0f4ba02a3723026df31778613522135560ea6c",
+        "mechanism": "d303a9251dd21c5a3fb80f39c5c6949351a2dcbb68d102e378372cf729edaa9c",
+        "caseAnalysis": "c4e2fa6b2e1d055f4044c68578e60be023546c64bcc91496c1c7c97fc0cc9cc9",
+        "limits": "545b658025c38dc6d12b517564c6b8cb790c7d36bd06279c3656ed4543f95e61",
+        "exam": "279f986384ca584b80aa7b6e58a2d78623513e9d6a3421c2a2e7bf223676db6d"
+      }
+    },
+    "org-culture-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "schein-culture-excerpt-2010",
+        "mit-culture-lens-2010"
+      ],
+      "scope": "核读Schein第4版第一章所列段落及MIT课程PDF第3—6、12页，区分作者原文和课程辅助。未通读全书，不把观察直接当作共享文化。",
+      "changes": "明确可见层推断限制、子文化与其他解释；案例全部改为教学假设。",
+      "evidence": {
+        "body": "MIT三层级与表象多义；Schein有关共享、稳定性及子文化段落。",
+        "example": "站内受控试行教学假设，不是原书商业案例。",
+        "interpretation": "三层级为不同分析对象，所见和深层解释需区分。",
+        "mechanism": "文化稳定性与站内多原因诊断；不保证奖惩单独决定文化。",
+        "caseAnalysis": "独立情境推演，要求反例与不同成员材料。",
+        "limits": "Schein文化与环境关系、MIT子文化提示；公共价值为站内评价。",
+        "exam": "站内论证顺序，强调材料、解释与反例。"
+      },
+      "fieldHashes": {
+        "body": "8970dc6e4d369c3372570befdd3728fe6cf379c5738030f99d55f2d32e7c7022",
+        "example": "c7c8d69f644269c8841896007857d4599255ce01575510eef99241a0cdc052d7",
+        "interpretation": "f8442bb8e1def20f8ed2d0faff673e2e1c391ff923b1d1c78f02a5522a81e14e",
+        "mechanism": "1bdb91a2b87a077cf211c5e30c42dcd4c82df85d6e7cb400b294ce3f15207088",
+        "caseAnalysis": "62ba1176fb4b5c69ecc95c93ffe47fd449a47158ce6ef8aa487fc8c2dd2513b6",
+        "limits": "087b0f0a69d8f153bd55373dc2ee9e0eec30ca5453ba688b554b38e78f3ac315",
+        "exam": "7dcdc397b96c65dc38b6997877d8214b6d4d3829d9a5aca9ae32ec12bf881f45"
+      }
+    },
+    "org-culture-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "edmondson-safety-1999"
+      ],
+      "scope": "核读Edmondson1999摘要350、定义354、方法开头358、限制379页；未复算完整模型，不照搬量表，未作因果或公共部门普遍外推。",
+      "changes": "明确团队共享层次、与凝聚力/宽容区别及横断面和单公司限制。",
+      "evidence": {
+        "body": "354页共享信念与人际冒险定义，区别无原则宽容。",
+        "example": "独立服务流程表达教学假设，专业责任与研究概念分列。",
+        "interpretation": "354页团队层次、凝聚力及共享信念说明。",
+        "mechanism": "350摘要的学习关联；379页不证因果的限制。",
+        "caseAnalysis": "站内对发问回应过程的应用，不作为研究已验证案例。",
+        "limits": "358场景、350与379的51团队/横断面/单公司限制。",
+        "exam": "站内概念、行为、表现分层和证据论证。"
+      },
+      "fieldHashes": {
+        "body": "b06cc3c6fdeb0bd7d7e808a070a8ae1cf2f67876d2c35751e8624d4b00647a19",
+        "example": "f320aae436ba8b468532fb14c2ab82dc4648d5a90aecede4a90674002e98f28c",
+        "interpretation": "730850545d2763f0d0cc7cc9df28265ff616e90a4412692391abfd38023ea1fb",
+        "mechanism": "eb6355981172005651dbbf55f92f6fb49a0ee43a14685a5bdc8d7c8b926adefc",
+        "caseAnalysis": "b57f7866b1b56995def94e89776a86906d80a6c15fed1813419b34c5efdd6a8a",
+        "limits": "d9e8732e6064e871e55d978f6ea95313510c238f3bdce0c663a30d06dbd191ee",
+        "exam": "3b9300716698b2aa7d13c4589f61a269432a4a30d4b35cabb3bfc1e4789427ab"
+      }
+    },
+    "org-culture-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "morrison-milliken-silence-2000",
+        "janis-groupthink-1971"
+      ],
+      "scope": "Morrison与Milliken2000仅公开摘要；Janis1971文章的文集重印指定432—433、442—444页。未通读后续专著或验证历史案例，概念模型、建议与因果证据分开。",
+      "changes": "区分集体沉默、求同过程与个体未发言，不从投票或结果直接诊断。",
+      "evidence": {
+        "body": "沉默摘要的集体层次与Janis433页求同定义。",
+        "example": "全票后遇困难为站内教学假设，不指认真实组织。",
+        "interpretation": "两个概念的范围限定，保留材料不足问题。",
+        "mechanism": "基于概念的站内过程追踪，不声称摘要检验全部动因。",
+        "caseAnalysis": "独立证据与其他解释比较，不预设少数意见正确。",
+        "limits": "Janis442—444建议与成本限制，沉默摘要读取范围。",
+        "exam": "站内答题组织，区分现象、过程、解释及措施成本。"
+      },
+      "fieldHashes": {
+        "body": "0270b39954161d1bc2723de8a722f5743ca28d70a1ccaca40682457fae7c6f36",
+        "example": "244a6fed6a8134402060f14a0e9c1ead11aa722ee706bb1be84cf40b299b2437",
+        "interpretation": "0a4e2e528761bf77e82a98ba9b7507c4ccdd9cf6e9cdce6b6655428eacd26305",
+        "mechanism": "65513ab1e52857e8476e1216115f8e282ccca8465410e910bdfe835dcaa12b03",
+        "caseAnalysis": "f34c5e6f95085771b0cd8755eead50a9e03a8ca65229b676fc63a1ae57b41c30",
+        "limits": "b44df53109046b44022a183ab9a44ad85f18e785ad1b25861c94c6115bf7da0f",
+        "exam": "70449049ee4d93668c824061fe6da59e0e2f118c041c42cfd83d54e014a0deea"
+      }
+    },
+    "institutions-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "dimaggio-powell-1983"
+      ],
+      "scope": "DiMaggio与Powell1983第148—152页，三种机制及重叠、场域和证据边界；未核验历史案例或后文全部假设。",
+      "changes": "模仿由学习模仿改为模式借用，规范机制明确职业化，补场域及其他解释，案例标注假设。",
+      "evidence": {
+        "body": "150—152页三种分析机制及经验重叠。",
+        "example": "相似平台为独立教学假设，非原文观察案例。",
+        "interpretation": "148页场域界定、149页竞争与制度区分。",
+        "mechanism": "150—152页依赖、模仿传播、职业化。",
+        "caseAnalysis": "站内时序与推动者调查设计，保留机制竞争。",
+        "limits": "149页脚注分析范围及150页交织，站内效果证据提示。",
+        "exam": "站内组织答题顺序，不冒称作者规定。"
+      },
+      "fieldHashes": {
+        "body": "a5457c17c5c11ee20e88293e20070d082817a807dae181dc81d0f947e844b588",
+        "example": "5d2bf2b27d0324624017e9eaf7a9cf41d1ad8af581745a4ab54f449edd415ea0",
+        "interpretation": "89da5f9f80206b36bc5dca38c11bd3f16908824f4f530117ed106603baa44c46",
+        "mechanism": "09a34646d731c2c98c77767392424e90dd51812d35ea86720a02277fd7e56711",
+        "caseAnalysis": "fe02242e9b435d0eb86b68597cfc121624fe62483eff0a9722bbf5306071c468",
+        "limits": "6f1df1e318cf48b4479c9396ab50cefd189d1b208c0ffbf7d2623ad3cad88f23",
+        "exam": "afa0d472ad531875ddf2ffb260a8cbe2608b8fb2e0b7863a58655c6027cd6697"
+      }
+    },
+    "institutions-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "meyer-rowan-1977-abstract",
+        "suchman-1995-abstract",
+        "dimaggio-powell-1983"
+      ],
+      "scope": "Meyer与Rowan1977、Suchman1995仅出版方摘要；DiMaggio与Powell148—152页。社会认可、合规和效率为站内概念分层，不作现行法律结论。",
+      "changes": "明确摘要范围、受众、正式与实际分离及不能直接认定违法的边界。",
+      "evidence": {
+        "body": "Meyer/Rowan摘要认可、资源、脱耦与DiMaggio/Powell150页。",
+        "example": "办公室为独立教学假设，外部认可和实际效果分开。",
+        "interpretation": "Meyer/Rowan摘要与Suchman摘要的认可取向；合规另查规范。",
+        "mechanism": "Meyer/Rowan公开摘要结构与活动分离，不扩为所有组织。",
+        "caseAnalysis": "站内对人员权限、活动与结果的证据检查，非真实案例。",
+        "limits": "区分理论解释、规范判断及责任认定的站内限制。",
+        "exam": "站内分层答题建议，明确来源及教学推演。"
+      },
+      "fieldHashes": {
+        "body": "d91c8b16ba17a57edb2ac89f4a6487ab89b3092ee2f6aa3d8ef47190d54df28b",
+        "example": "337c9a4a596dc85d1f8cccc1749eb71149f83517098fb75b1a160c665b96297f",
+        "interpretation": "c57eb2cc0529706567c3abfcf07954da338b224bd68f88e238bb265647f5927c",
+        "mechanism": "b69ab67ed6b69122c9d1fa24be36ef4a84fdca45a4732881101e1ff7585f0d8f",
+        "caseAnalysis": "8010715ebc85fa7a316bc30f1e57899a033c8ae9e9e1caa5b4e1dd9702e62a0d",
+        "limits": "f23f4710834d17ab588aeb5994a13a1af7eb8d8ba32c250cd328abe7a5e849c5",
+        "exam": "717f7a8c74623d964546a75043da43e08248aa3b234ffdd2575c457b61a3f21b"
+      }
+    },
+    "institutions-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "pierson-1997-working",
+        "pierson-2000-abstract"
+      ],
+      "scope": "Pierson1997工作论文原图印刷1、5—9、16页，2000正式论文仅摘要；聚焦自我强化型，不通读两版全文。",
+      "changes": "删未核验的联盟等具体归因，明确反馈证据、非必然低效及前瞻转换/沉没成本区分。",
+      "evidence": {
+        "body": "1997第1、5、8—9页聚焦自我强化型，时序与反馈。",
+        "example": "平台替换为独立教学假设，成本区分为站内分析提示。",
+        "interpretation": "第1、5页，不能仅以历史长度解释。",
+        "mechanism": "第8—9页学习、协调、相互预期，16页情境限制。",
+        "caseAnalysis": "站内备选方案与未来影响比较，不移用技术竞争案例。",
+        "limits": "第5页可能低效而非必然、存在转换难度；成本区别与非永久锁定为分析边界。",
+        "exam": "站内论证及备选方案建议，未声称原文验证处方。"
+      },
+      "fieldHashes": {
+        "body": "a6818e184b165b459aa138a379b849ac7688a6a370ed8f29de2d64914908dbd9",
+        "example": "d00d405e6a7d098031155cdb0275f0f3b0329eb8c3f7e602d95592adeed76628",
+        "interpretation": "e2836f748f48fc0eaada6e1959cff7c234f9d19b7c9ab8dad3ef6051a1b17864",
+        "mechanism": "94fa6b41237a2897f0106b48ec2a49b37cd360cb4d18703edf7f9a81f8614cca",
+        "caseAnalysis": "66a940276db53003b88454354f1d8831894df03f38ba83f586e8e85546d4a134",
+        "limits": "5a7be6892bffc0f9a1fb22c6b622e7ffce29bf72728af498fce8baa614ec1e30",
+        "exam": "89eac2e6054703ef6892a75ee86722ba7bfe8a2f8e21c2ffad1eb64d2d5bc52f"
+      }
+    },
+    "recruitment-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "openstax-operationalization",
+        "opm-job-analysis",
+        "opm-structured-interviews-2008"
+      ],
+      "scope": "公开教材2.1与OPM工作分析、2008结构化面试指南3—6页。核对一致性与解释用途、岗位关联；未声称验证真实测评或复算效度。",
+      "changes": "明确用途、评分条件和稳定不充分，例子改为独立资料核查假设。",
+      "evidence": {
+        "body": "教材信度效度与OPM3—6页的评分一致、任务关联。",
+        "example": "冷僻知识题为自编教学假设，不是原书例子。",
+        "interpretation": "教材操作定义及站内解释用途分层。",
+        "mechanism": "OPM岗位分析任务—能力联系，统一标准不保证相关性。",
+        "caseAnalysis": "自编任务与测评内容比较，不声称真实效度研究。",
+        "limits": "用途情境、机会及程序的站内边界；不以测评质量替代合规。",
+        "exam": "站内论证顺序，要求证据范围和误差限制。"
+      },
+      "fieldHashes": {
+        "body": "e49559f6f37eaa786274db1c7de58ed36e405186cad2cc4b9b47421d39d15965",
+        "example": "7face679e641aab28ed1f28bcf89c494be4faf91a0f90e31fe499fbeb7f308ee",
+        "interpretation": "18eaed820a8b7ace91678a001baab704b6c2a3fe4b6b6642069fad5c94d0874f",
+        "mechanism": "cf7ea7638249bee59e0d767937050f4b62fe1578947e17a051afd25375a66f53",
+        "caseAnalysis": "d057b559b344f9deace66d3b1720603d59b6f593dc81a5b83d123bb3518078be",
+        "limits": "c8f0152fb2a55ef74e36ddc0bca437bb25299419702ac9e3031a8f2a7328aadf",
+        "exam": "59d97f4cd8654725311b44868b479f2515fe4b08ccea8397c4e7253ff3e56242"
+      }
+    },
+    "recruitment-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "opm-structured-interviews-2008",
+        "opm-job-analysis"
+      ],
+      "scope": "OPM2008指南3—6、8页开头及13—16页所列部分；5/15页对照原图。只作一般方法比较，不套用美国法律或复制题库评分表。",
+      "changes": "区分有评分面试与核实访谈，补行为/情境题、试测训练和偏差边界。",
+      "evidence": {
+        "body": "3—5页共同程序与评分、14—16页实施支持。",
+        "example": "独立资料核查职位教学假设，非指南原题。",
+        "interpretation": "3页结构化比较，评价依据不要求同样答案。",
+        "mechanism": "5—6页分析/题型、8页尺度开头、14—15页试测培训。",
+        "caseAnalysis": "自编核对记录情境与事前维度，不声称已验证工具。",
+        "limits": "15—16页评分偏差，外国方法与中国规定分列。",
+        "exam": "站内设计链条与边界，不提供考试作答套路。"
+      },
+      "fieldHashes": {
+        "body": "143b83ea77890055400ffb5210a9ebf994b54fc2f5a4771036e748c708f66928",
+        "example": "3ab3ce9c1dd64b1936d9f1e5aa78be2456745bf19282c09da2bf773471f6e57f",
+        "interpretation": "c0f0b388de55827d857a1e7defde4c5364e529146159825e91a792bf01eb50cd",
+        "mechanism": "a17133ff94e8eefaa63079cbc5db2e4a398ef053992ffecf2492b77ab28e83de",
+        "caseAnalysis": "4316bfe55bd42649823afefff90b7324c62dff733fdb284d58dde81a067d8aa6",
+        "limits": "e995cf7cf13d137220d6e8f3c1a918ab71443ab85086024efb30ae311074e6ad",
+        "exam": "2ec49ff9b4c51948155639441c56f6e8fb006d243ec89720cb4a603705bd583e"
+      }
+    },
+    "recruitment-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "ilo-adjustments-overview-2016",
+        "opm-job-analysis",
+        "civil-service-law-stat-2018"
+      ],
+      "scope": "ILO2016仅官方发布说明、OPM工作分析、中国公务员法23、25、28、31条及本篇列明条款。一般包容设计与具体法定义务分开，不判定个案资格。",
+      "changes": "明确合理适配讨论范围、法定资格/体检与一般支持区别，替换易被理解为法律结论的身体条件例子。",
+      "evidence": {
+        "body": "ILO说明的全就业周期和调整范围；公务员法具体制度边界。",
+        "example": "公告图片读取为自编情境，不认定真实违法。",
+        "interpretation": "ILO仅概念说明，OPM任务相关性与机会分析分开。",
+        "mechanism": "站内标准/进入障碍/支持分层，不自行改变法定条件。",
+        "caseAnalysis": "独立发布格式教学推演，提出检查而非通用义务。",
+        "limits": "法25/31条资格体检，28条便利报考，个案仍须具体规则。",
+        "exam": "站内规范建议与法律结论的区别。"
+      },
+      "fieldHashes": {
+        "body": "6888805e655de496f0b511f6ca6c16dd153baaddd8770c24bed106f5930bb274",
+        "example": "4298289904673efb3069f64bf9617b1d3ec5615b640c192e9553d5c617f556d7",
+        "interpretation": "aa2af6417c66f8587f3f73b68fcf9a9fddf04a328c33948e2f3ca75b9bbd89f9",
+        "mechanism": "f5d80d018910881ed891f1a4caf0312b7d32b1f5d9dc712ab4c3964933679516",
+        "caseAnalysis": "bc2dd5987067b6268abde3e7c992d8317e6232ce2dac1d61392e30d1d9321802",
+        "limits": "f727da8be83bed592e9fe0a684af43f327fc2d45ae8f9fa15659e5399815196c",
+        "exam": "2d6722a7188cdc4ca709d4803d26f96b8a7697c84f5a58360e62ea2b633a0511"
+      }
+    },
+    "training-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "opm-training-needs",
+        "opm-job-analysis"
+      ],
+      "scope": "OPM需求评估页定义、三层次、原因和非培训方案、持续行为支持段落及工作分析说明。未套用美国年度培训评价法定要求。",
+      "changes": "说明职业群体与单岗分析范围差异，绩效问题不直接归因员工，补多来源与非培训措施。",
+      "evidence": {
+        "body": "OPM组织/职业/个人层次及差距原因分析。",
+        "example": "理解与权限两种差距为自编资料核查情境。",
+        "interpretation": "三层次分析单位区别，不将译名机械视为完全同义。",
+        "mechanism": "OPM培训不一定最佳或唯一方案、支持性管理措施。",
+        "caseAnalysis": "独立原因对照和措施组合，非真实案例。",
+        "limits": "站内多来源、资料质量与个人信息边界。",
+        "exam": "站内目标—差距—原因—措施及评价组织。"
+      },
+      "fieldHashes": {
+        "body": "0901016c33319bc825d7de8588863721ce8f0d399a13d3bd19d9f5cb08114489",
+        "example": "87d88c88a0585cfa2c5732c6673140533f388dec0f9b9a9f74948428528e0ebb",
+        "interpretation": "a1d367e077fcc716400f80a644bf601450ea6fb7f0c233a9b5cb3170f7c926d5",
+        "mechanism": "4441893141ece0f33a4bd7efb0c44923702c412751f013b985e08ef1a0c9c449",
+        "caseAnalysis": "61f4c25f8d1f0a4cdc88d7f37dd211eb841a536feda7c41131b4eca4d2a9fb12",
+        "limits": "78d53c498350691fd88d0e83bbb4ac028f8415a63b16e9526e1da0358aae1259",
+        "exam": "e0e299568667dac0eed807e8ec5aa22de281a695b64ea23ed0b31c9a5082f482"
+      }
+    },
+    "training-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "kirkpatrick-newworld-intro",
+        "gao-evaluation-2021"
+      ],
+      "scope": "Jim/Wendy新世界模型公开介绍第4—9页所列定义/倒推部分，4页原图；GAO2021既有评价范围。未读最初原文或核验宣传统计。",
+      "changes": "明确所读版本，不将反应局限满意，分类与因果识别分开。",
+      "evidence": {
+        "body": "作者公开介绍四层次，GAO区分结果变化与净效应。",
+        "example": "资料核查四类观察为自编假设，非模型原案例。",
+        "interpretation": "第4页及封面作者，未当作1959原文。",
+        "mechanism": "第4—9页定义/倒推与站内证据界限。",
+        "caseAnalysis": "独立教学观察和同期因素比较。",
+        "limits": "GAO因果证据需求，层次不构成自动因果链。",
+        "exam": "站内目标与证据方案，不搬用模型图或量表。"
+      },
+      "fieldHashes": {
+        "body": "bcf452126c20b9d8a0534421f8e3e9eb19bd28432ed01b217dfeee8ad9e494f9",
+        "example": "acc920a27fd474424877d93cad8e4c18fa8274af7fbbf8b8575079d13e8eb713",
+        "interpretation": "88eb1c50bca2c821e3ee7432e98d40d333160d421987058e9e75bb09275a2b60",
+        "mechanism": "c9bd04907b793ca539049b3d389293d70b979ffddc36f66a0b20559c73a139fc",
+        "caseAnalysis": "c17e15d4c2fe5c5d1c6922c6e74ffa918faa23115a9084a5d0a1a6b9dc55d73b",
+        "limits": "c696a5e02f0189a74e604adb369991079fe2f489cae210d0791d5f5376bad2d7",
+        "exam": "253d8974da09042700d0e7fc9895d57cc1828a3527c72d8ef853e8276ab96e6a"
+      }
+    },
+    "training-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "baldwin-ford-1988-abstract",
+        "opm-training-needs"
+      ],
+      "scope": "Baldwin/Ford1988仅出版方可检索公开摘要和书目，OPM持续行为支持段落。未读63—105页全文或将因素类别当作同等因果效果。",
+      "changes": "增加泛化和持续保持，区分未学习/无机会及行为变化归因。",
+      "evidence": {
+        "body": "综述摘要的工作泛化、保持和因素类别，OPM支持性环境。",
+        "example": "工具权限为独立教学假设。",
+        "interpretation": "摘要核读范围及迁移两方面，不声称全文复核。",
+        "mechanism": "OPM持续行为支持，站内机会/工具/反馈检查，不保证单一措施。",
+        "caseAnalysis": "自编合法授权和任务机会检查。",
+        "limits": "站内观察时段、其他解释与自报证据限制。",
+        "exam": "站内学习—运用—条件—反馈链条和原因诊断。"
+      },
+      "fieldHashes": {
+        "body": "f4ac15c80f46f81e23074878d4d0781b0226b8689e40e2748e04c16e14f065a4",
+        "example": "3825b555a95b4f6956fb7308aaada50f780b53c19c99c78a6ecdcbd9ddb42e39",
+        "interpretation": "fce0b3421a26856a630e8f746e7938e81e661b10f55a20a23a796b696a3c37d2",
+        "mechanism": "5f90506a823213ed8719b19360165eae879f6f0b49f57f57357fe0334d2522ae",
+        "caseAnalysis": "1679064e017c1a6e8ea0b404aa5cd7c454a8436f8535d2dd6cd7e6489d0d10d7",
+        "limits": "747748f5de926726a79bad1ed20ee6f24f125dd3e3f02e3ec913d1c9c281c8f9",
+        "exam": "41647e2f8d749fb3dc866244d6ecec89174571ab6f40982e952b300145a50d40"
+      }
+    },
+    "performance-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "openstax-mbo-2019",
+        "opm-performance-cycle"
+      ],
+      "scope": "逐字段核对上述实际核读范围。正文为独立学习整理，情境为教学假设，未读原典、全文与具体中国制度边界分别说明。",
+      "changes": "重写定义、机制、案例、边界和答题提示，消除无条件因果推断及外国方法直接适用中国制度的歧义。",
+      "evidence": {
+        "body": "OpenStax 17.7所读方法包含目标理解、成员参与、行动安排和自我监测；公共使命边界为站内应用分析。",
+        "example": "站内虚构资料服务情境，以任务质量和支持检验目标设计，不主张真实实施效果。",
+        "interpretation": "OpenStax 17.7核读范围；未将该教材转述冒称已核读Drucker原著。",
+        "mechanism": "OpenStax参与、计划、监测反馈与OPM规划、监测、发展功能；协调效果表述为可能。",
+        "caseAnalysis": "独立教学推演：从既定任务讨论资源权限、核实与转办条件，不作为实证发现。",
+        "limits": "区分通用管理方法与中国法定制度；公共价值及难量化任务为有条件的应用边界。",
+        "exam": "依据上述方法自行组织答题顺序，不设唯一标准答案或确定因果承诺。"
+      },
+      "fieldHashes": {
+        "body": "87bd928d0c4a1563654c301cb6e0e795600f96c9af2386341ec7d922ddb6a934",
+        "example": "b2493d852b8fe859c561c7c730bfdedc1e36dd6db21eb7050439ac350a1b09d3",
+        "interpretation": "e5483402f9157c0e9edbdd22d524b720c5ed88d8f6f8814be4edf66fe666dc6e",
+        "mechanism": "ea435efb63a671e25e4fcaff6c4e7c6663eac6abae9a6f96090baf37abea47c9",
+        "caseAnalysis": "76790e61f01b0eb5346fd653c07a7f0badfcc9ae74e53bc90ed6f298b80adfb8",
+        "limits": "5092b0f6438bbecb5a30b767b1c8566c049baec004f202cfbe6905cba496b3ed",
+        "exam": "076c8900a4836e481e30a4f104691bbc73701c9e40f8c2577c4baa51cf9ef178"
+      }
+    },
+    "performance-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "chrystal-mizen-goodhart-2001",
+        "bevan-hood-targets-2006",
+        "gao-evaluation-2021"
+      ],
+      "scope": "逐字段核对上述实际核读范围。正文为独立学习整理，情境为教学假设，未读原典、全文与具体中国制度边界分别说明。",
+      "changes": "重写定义、机制、案例、边界和答题提示，消除无条件因果推断及外国方法直接适用中国制度的歧义。",
+      "evidence": {
+        "body": "Chrystal/Mizen 2001会议稿引言、历史语境及结论；Bevan/Hood出版方摘要支持测量与应对风险，非全领域必然规律。",
+        "example": "办结率例为虚构教学情境；GAO测量与评价区分帮助提出实际结果证据。",
+        "interpretation": "明确核读2001回顾会议稿指定部分，未直接核读Goodhart 1975原始文献。",
+        "mechanism": "Bevan/Hood摘要仅支持测量、部分代理整体及gaming问题；选择、记录和努力调整为待检验解释。",
+        "caseAnalysis": "虚构情境提出回避、过早结束及实际改善等竞争解释，未采用未读全文中的具体实证案例。",
+        "limits": "Chrystal/Mizen结论未主张抛弃所有测量；数字变化不能直接区分改善、口径和造假。",
+        "exam": "将任务、代理指标、激励及证据组织成分析提问，GAO支持测量与因果评价分开。"
+      },
+      "fieldHashes": {
+        "body": "d750f9d2e43c24c14039a4402b59eda1c334a0e740aefb18892d214cec2b2c34",
+        "example": "dd2fa5af6616dcc29c25feb5ce7bccc1b79504947078d288c62ba84a9bdf110b",
+        "interpretation": "f418ed07f46cf8de0968eb4146c29b1cb68e754e3322325af81463afbac06d6d",
+        "mechanism": "b3b00537220cb41900fbd9f857bacc284e494cb563deee5a381da20bf221626b",
+        "caseAnalysis": "5dbdf37b4551ff4f618a766d9f0abbda51b025b77c76148b3abcc14969a2e0c0",
+        "limits": "7199e000455a9fdf4964468b6bb10866172112961241e854fab3cb19c73fb32a",
+        "exam": "92b9857256ab5b829d770676b9b83b0e5cc394955ce65e3ccd61dab8f1313661"
+      }
+    },
+    "performance-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "opm-performance-cycle",
+        "openstax-mbo-2019"
+      ],
+      "scope": "逐字段核对上述实际核读范围。正文为独立学习整理，情境为教学假设，未读原典、全文与具体中国制度边界分别说明。",
+      "changes": "重写定义、机制、案例、边界和答题提示，消除无条件因果推断及外国方法直接适用中国制度的歧义。",
+      "evidence": {
+        "body": "OPM五项绩效管理功能与OpenStax方法相互核对，考核定位为评价环节。",
+        "example": "资料差错为虚构教学情境，能力与系统信息是待查原因而非已知事实。",
+        "interpretation": "OPM规划、监测、发展、评分、认可各有功能；外国方法不直接构成中国制度。",
+        "mechanism": "依据OPM持续观察和支持发展功能提出原因诊断，不以期末分数直接归因。",
+        "caseAnalysis": "独立教学推演区分训练与工具修复，未声称存在真实干预效果。",
+        "limits": "结果责任、可控条件及权限边界为通用应用分析，不替代中国具体考核奖励规范。",
+        "exam": "依据OPM与OpenStax自编答题顺序；管理过程不等同一次评分。"
+      },
+      "fieldHashes": {
+        "body": "497a1fa7f6e78c818b4700f7cab7b796e6672860d63a13c6dce82ace1911ba1c",
+        "example": "f6831d311cf63636288d58c5fbefee4a401d27836c26a07b3c705ef853ad0726",
+        "interpretation": "a6041261f8925b58faa45809b5c5e007eaded371e58ea8193480d2592e6633bc",
+        "mechanism": "76047fc1988009a4d3d48336c9dddf8d54e5e8aa6106c6fd5ec72f38c83cfae1",
+        "caseAnalysis": "d9caa441ea5d0edd0284985d07df9bdb848f13a982ce67d5ec18458f06b33870",
+        "limits": "83e3220db1096287e894bf35894101db9c7e352b957d88cf6785d8a30451f39a",
+        "exam": "481be72d765390119166ea7c24678eb84ab85b90a6596405c2b912878a9b30ff"
+      }
+    },
+    "compensation-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "cipd-pay-structures-2025",
+        "opm-job-analysis"
+      ],
+      "scope": "逐字段核对上述实际核读范围。正文为独立学习整理，情境为教学假设，未读原典、全文与具体中国制度边界分别说明。",
+      "changes": "重写定义、机制、案例、边界和答题提示，消除无条件因果推断及外国方法直接适用中国制度的歧义。",
+      "evidence": {
+        "body": "CIPD所读pay structures部分区分内部岗位评价与外部市场定价，并讨论可负担性。",
+        "example": "紧缺岗位为站内虚构情境；OPM job analysis帮助将市场比较联系职责和任务。",
+        "interpretation": "内部关系与相关市场分别作参照；规范公平与吸引效果不可由同一市场报价直接证明。",
+        "mechanism": "CIPD结构设计、内部评价、市场定价与OPM任务分析支持可比性；中国待遇权限另查适用规定。",
+        "caseAnalysis": "独立教学推演：人员流失存在多种可能解释，未将薪资提高写成服务质量保证。",
+        "limits": "内部公平不等于完全同薪，外部比较也需相关市场、总体待遇与制度范围；不提供具体待遇标准。",
+        "exam": "自编比较与论证顺序，分开信息条件、规范判断和效果证据。"
+      },
+      "fieldHashes": {
+        "body": "06da8ac76d7c2b830c9312cbc6de0fa98851515c1a76f25a2b59bb4960f496a3",
+        "example": "8dbf29806417a4e58e4ea158fef97f82f7d87999f1f93f03879d59db3baada48",
+        "interpretation": "6b24d90e4eb8abb23789a2fa2def80516fd03b11da70cec2942d564e07b9e2ab",
+        "mechanism": "2691265ed238576d249f79d60585eec500e364b4557834dcfdced49fcae7616d",
+        "caseAnalysis": "9f91a790fc2f315c29d08ce26cb7f45ef43e565fb1a434f990a5ed1052f3201e",
+        "limits": "9e301e0a4b3b07215411feac1efb667789af3f0e1b340ca60cb4b46fb212c259",
+        "exam": "276e3666b2148e1f1722ff10b682feb665eb74e26c9f1a6adad0a2af6c659402"
+      }
+    },
+    "compensation-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "ryan-deci-definitions-2000"
+      ],
+      "scope": "逐字段核对上述实际核读范围。正文为独立学习整理，情境为教学假设，未读原典、全文与具体中国制度边界分别说明。",
+      "changes": "纠正价值认同等同内在动机的混淆；区分动机性质、自主程度和奖励形式。",
+      "evidence": {
+        "body": "Ryan/Deci 2000指定页54—56、59—61：活动本身兴趣愉悦与可分离结果，外在动机自主程度不同。",
+        "example": "虚构核查情境用于区分兴趣、认同价值与奖励目的，未从行为直接诊断心理动机。",
+        "interpretation": "原文第60页等区分认同价值的调节与内在动机；修正有意义或自愿即内在动机的误解。",
+        "mechanism": "所读自主程度、控制与支持条件；行动理由、奖励形式及非现金性质分别处理。",
+        "caseAnalysis": "独立教学推演并保留多重解释，数量行为变化不足以证明动机挤出。",
+        "limits": "原文教育与实验研究范围；未独立验证全部引述实验，不能无条件外推中国公共部门薪酬。",
+        "exam": "自编界定、条件与证据顺序，不给出金钱必然损害动机的结论。"
+      },
+      "fieldHashes": {
+        "body": "94fc0a3245b887170558eb6ebd7a7fa5ed35830f1ac9900f3fc10cf07c41ee37",
+        "example": "088394eccbf27412a9afa7a087afc795a5df56f519f779ab31a6ba021fa13d56",
+        "interpretation": "51023a9a7840b2aabdbd2ae3f6861bef8eba3a7993e676d975c3a5d2d2e3cca6",
+        "mechanism": "bf14780cde1cf52094e78528e7ad3d4f5a492ec3c3afefe8328517d46421e967",
+        "caseAnalysis": "ed836a045017c39260aec9559fab01739dee740ccc0ee5bbf26a6ea3f5d06083",
+        "limits": "754a0fca0c4797126afd6bfebf0e53fb658f7da89fae4c3971b0a8804d80eb8f",
+        "exam": "6fad6297e426ff1cfd4126f95d489009b150ae0a96aae35d0b0275c769b9a3e1"
+      }
+    },
+    "compensation-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "worldatwork-rewards-2023",
+        "cipd-pay-structures-2025"
+      ],
+      "scope": "逐字段核对上述实际核读范围。正文为独立学习整理，情境为教学假设，未读原典、全文与具体中国制度边界分别说明。",
+      "changes": "重写定义、机制、案例、边界和答题提示，消除无条件因果推断及外国方法直接适用中国制度的歧义。",
+      "evidence": {
+        "body": "WorldatWork所读2023模型版第1—3页五要素；CIPD结构设计及可负担条件。",
+        "example": "基层留人为独立虚构情境，实际待遇、负荷与成长需实查。",
+        "interpretation": "注明实践模型版本与用途，未把五项等同中国法定清单，也未复制原图。",
+        "mechanism": "将可用性与不可随意替代的边界作为站内分析；未采用机构宣传效果为因果证据。",
+        "caseAnalysis": "独立教学推演检验表扬与实际困难的差别，无真实组织效果或原典案例断言。",
+        "limits": "模型预期与实证效果分开；CIPD设计条件支持预算约束，具体权限程序仍需适用规则。",
+        "exam": "依据前述模型与边界自编答题顺序，不以项目清单代替需要与可用性分析。"
+      },
+      "fieldHashes": {
+        "body": "dcaa1de3a319fbc1c04d2a12fb710ae0f47a3d35daa5b820f2457dead77e238b",
+        "example": "b957f96e15cedb8c30e6337b90613d7cf019d6c481c687704a7c0664e2203e71",
+        "interpretation": "e03ce0c05d52ebc7347a2779fb63d54462998bbc3a3257fb576cf067b18597f1",
+        "mechanism": "c33d6eecdb28c0c2975afcb73478aa3fe038532bb92cb75ab752a033b3a649e1",
+        "caseAnalysis": "03f801c558f1a07dabbaf9abb470d7002593ef98f439f6eef0c367a7d971374e",
+        "limits": "d5746b7d0ebb469777a3ff5864c1ef97417d63c67454422313a9cc9a28944622",
+        "exam": "052f60bcfbf20ba5b5a1884f0c3b1dd313c93ba9dd9ea44625514e685f63358d"
+      }
+    },
+    "bureaucracy-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "weber-objectivity-1904",
+        "weber-authority-excerpts"
+      ],
+      "scope": "核对韦伯方法论文英译指定段落和正当支配英译节选。案例是课堂推演。",
+      "changes": "补充概念构造、平均值和经验差异判断，以及正当支配的分析对象。",
+      "evidence": {
+        "body": "韦伯方法论文关于特征强调、思想构造和道德应然的区别。",
+        "example": "虚构窗口，依原文比较方法设置观察项。",
+        "interpretation": "方法论文关于选取视角和现实中不同程度的实现。",
+        "mechanism": "方法论文关于比较现实和指导提出假设的段落。",
+        "caseAnalysis": "用独立例子说明现象差异及可检验解释。",
+        "limits": "方法论文区分观察、纯构造及伦理应然。",
+        "exam": "教学组织顺序，保留独立价值判断。"
+      },
+      "fieldHashes": {
+        "body": "c9f2e6e02af3dd20031c1c6f9a6bcbf29cb8f35003f00b3d5944ff1897fa80e6",
+        "example": "79dbdd4fd64a7d4ee92acb31e0c277f1949adb7bc9a0545030ab83e66fb9e208",
+        "interpretation": "7e838df35b8df78d4831e2988ec28864d99b619909a37160665816aca2470fa5",
+        "mechanism": "c0c2227ab942f5cf639423729cedb66de1572b37be26ca0f58c969dd337aa446",
+        "caseAnalysis": "1f5b15b7046c1162cb41866a7d89fab44cf4e41a00e75eb45a85b27ad53f9d83",
+        "limits": "24769450a88e43b8cd9de62bc66b809a972e77a0198fccba4851981c13dc8f7b",
+        "exam": "b2568496669ce2a8812fa4bec9c29a637958ea160ce44a810ce6e8579a29b514"
+      }
+    },
+    "paradigms-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "wilson-1887",
+        "wilson-1887-bibliography",
+        "lipsky-preface"
+      ],
+      "scope": "核对威尔逊原文210—215页、出版方书目与Lipsky既有公开序言范围。",
+      "changes": "补入行政者的选择空间及公众批评，重写笼统的政治与行政隔离表述。",
+      "evidence": {
+        "body": "威尔逊原文第210、212、215页分别讨论任用、手段、公众批评。",
+        "example": "课堂假设，说明一般计划和实施手段的差别。",
+        "interpretation": "原文第210页文官改革、公职责任和行政组织。",
+        "mechanism": "原文第212—215页及Lipsky公开序言所列一线裁量范围。",
+        "caseAnalysis": "虚构窗口，未断定现实救助结果。",
+        "limits": "原文第215页对公众批评角色的区分；当代权限需查制度。",
+        "exam": "原文和现代分析各按语境组织，答题顺序为独立编排。"
+      },
+      "fieldHashes": {
+        "body": "e8161f9e1d0d8a94f82e41c5633af1fabe626545dc8f6b58f050d2af469c63b1",
+        "example": "263ae49c1e6be3675d835ebb02d2b738048ab7e4f3f458d2c3ab484f407b6659",
+        "interpretation": "c5d4071a69daf5c83b9866adf37599f062ae6d029af2d32a0937652ea97cf433",
+        "mechanism": "e427440145cade199eabd24d42b99fb1123415e9f3140a9cda7ee030074169da",
+        "caseAnalysis": "3d3933dc2af8e2f565e6dc1dc359e8f0eabaf9a1c1464b251ddb2fe42107fc86",
+        "limits": "a36ff26d11fc9254dccf596147256023babc8ec3aada84389d96152ee5ec75f4",
+        "exam": "25bce624b42318555b12dbffb510f86bfd902b433c049cbe5191b25c11b849c1"
+      }
+    },
+    "value-fact-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "intosai-issai-300",
+        "gao-evaluation-2021",
+        "aspaEquity"
+      ],
+      "scope": "核读国际审计原则第9—13及25—27段；GAO与ASPA沿用已标注核读范围。",
+      "changes": "加入质量和时点条件，拆分目标达成、净效果及公平判断。",
+      "evidence": {
+        "body": "ISSAI 300第11段三E与时间数量质量；公平另据ASPA范围。",
+        "example": "上门服务为独立教学示例，三个问题分别取证。",
+        "interpretation": "ISSAI 300第11段定义和资源条件。",
+        "mechanism": "ISSAI 300第25—27段；成本数字的替代解释为站内推演。",
+        "caseAnalysis": "虚构案例按投入、产出及结果比较。",
+        "limits": "GAO评价范围支持归因问题，ASPA支撑公平维度。",
+        "exam": "依据上述范围组织考研表达，不宣称具体审计权限。"
+      },
+      "fieldHashes": {
+        "body": "01f14836e8f4a7cd68e04c4cfed1040e825d570b0be54a627a942f22ebb4de9b",
+        "example": "3c792ad032f5640fc96e0fdab23af4db825e87339825c56f3f98fa22240de869",
+        "interpretation": "ad38cd709f5c2c42856efa25dd07c18333ada6ddcc905e7d2619fdf2ded63e51",
+        "mechanism": "9ad6d7b5121ed365dddbc3fd2e0547af99fb770c5fa664ca0386ed40e07df9ba",
+        "caseAnalysis": "9aecb5c2f1450b7387dc3ea35aa66494fd53219253e7488b156e3eaa15aedb64",
+        "limits": "a3815f6dc04acaab4cd87ab8aab8c6f344bbf16d7f1e841a40ab5fa7a6f6d18c",
+        "exam": "8d17fd9900cbe94068bd2f1bd68b8362842d00a2ccc4227b4544a5a8c423c451"
+      }
+    },
+    "bureaucracy-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "merton-bureaucratic-1940",
+        "chrystal-mizen-goodhart-2001"
+      ],
+      "scope": "核读默顿1940原文563—564页及既有指标风险回顾范围；案例为独立教学。",
+      "changes": "把目标置换还原到组织纪律与结构，补足必要程序、替代解释及评价边界。",
+      "evidence": {
+        "body": "默顿讨论可靠性、纪律向规则细节转移与目标置换。",
+        "example": "虚构格式问题，强调分辨规则原定目的。",
+        "interpretation": "默顿关于手段终点化和特殊情境僵化。",
+        "mechanism": "默顿563—564页讨论结构条件；现实成因须验证。",
+        "caseAnalysis": "独立教学推演区分证明、解释和权限。",
+        "limits": "规则功能与过度遵从的区分；程序改进须看制度。",
+        "exam": "站内组织顺序，古德哈特式风险另标会议稿阅读范围。"
+      },
+      "fieldHashes": {
+        "body": "ac8fd18a71a5bcedbc9f3a5ae437c7f0c6210f689852bc4a4d54e2297f201818",
+        "example": "4c3e00c83e0d420cb9008d0896fb3664aab36d8e5adb2bddbb2b386a75b15012",
+        "interpretation": "bfe440e941d241987ea18ac5933dec5b464255a9c71d344dfbe587441d7fd4d9",
+        "mechanism": "af63b01909fc37c3f390cc092a7b4f835998e852d425525d48fb64c97ae0f1f6",
+        "caseAnalysis": "c51e90b843b23d393a4ac6e5ce6338415a6e58ff6b800cb7ee6df5eb7fa1ad3a",
+        "limits": "3fd74294d0494d4f13d22616a204f7a410832fc26c0f390b3f32db77ab24d155",
+        "exam": "715369fa64129746ee2f681eb37cf37eb0a859ae9e255814945174865d182f00"
+      }
+    },
+    "accountability-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "bovens-accountability-2007",
+        "intosai-issai-300"
+      ],
+      "scope": "采用Bovens的狭义问责框架。控制、监督与问责比较为本站教学编排，ISSAI仅说明审计贡献。",
+      "changes": "补充两个角色、质询判断、可能后果及执行权限。",
+      "evidence": {
+        "body": "Bovens第450—452页定义；控制和监督提问为站内整理。",
+        "example": "虚构案例，按说明对象和权限区分。",
+        "interpretation": "原文actor、forum及三个阶段。",
+        "mechanism": "原文对后果与执行者的解释，审计作用另据ISSAI 300。",
+        "caseAnalysis": "独立推演，证据决定判断。",
+        "limits": "原文对后果范围和相关主体的讨论。",
+        "exam": "站内排序，依定义抽取关系。"
+      },
+      "fieldHashes": {
+        "body": "018e1c4bc5596c38a6ae5a29da0ed5dc88e5dbc73875c0b64bc018f69a1367b9",
+        "example": "b9336d2fb0a7a8795d78d00fd91c8ef147ae4242f37d713774b679c0b1d648a1",
+        "interpretation": "9579720c20bb7903ff2910149fae7d352265bc0d49facbce275c8425f7641b51",
+        "mechanism": "f897892cd775a458dad0439b43b745cf34181c8aaaffa0ffc47dcd68b728a47e",
+        "caseAnalysis": "c98ada59244655e1883924ee6118a0c22d9a74cab3a603d60cad0b7269f57749",
+        "limits": "01be8ab666022626daf06454132ba40b59077e5474f59302b30d1bf76acf471a",
+        "exam": "10c448cafb1782b8b5240184c267b9c7d093fbb15f205eca95af4d56a9ed650f"
+      }
+    },
+    "accountability-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "jensen-meckling-agency-1976",
+        "oecd-contract",
+        "chrystal-mizen-goodhart-2001"
+      ],
+      "scope": "核读Jensen与Meckling企业代理第1.4节，公共服务应用为教学类比，OECD外包材料范围沿用既有记录。",
+      "changes": "补足原文代理成本三个组成和公共部门多方责任。",
+      "evidence": {
+        "body": "委托及目标差异据第1.4节。",
+        "example": "虚构上门服务案例。",
+        "interpretation": "原文定义，公共部门应用为站内分析。",
+        "mechanism": "原文划分及其成本讨论。",
+        "caseAnalysis": "站内推演，联系外包监督资料。",
+        "limits": "原文企业语境与公共应用边界。",
+        "exam": "站内答题步骤。"
+      },
+      "fieldHashes": {
+        "body": "8bd27b8fc31d9aebfb0ca89c064520d66c48d86b33d99f4da8aedf7632a2a61e",
+        "example": "573a94bec49cd70b67a9024a1201338b9eee1784cd900f496d5d510748c2f0e6",
+        "interpretation": "e8fb49f68643b3e912d748c2a6850f6c56708a86e5423f487a0e514e75cf8ee8",
+        "mechanism": "dd2be45c6da2b293ccc3f90bc927785c4faab3eb8e5f0fe77ae8db6da89d671b",
+        "caseAnalysis": "d5342aff595e61250794e63959ff6d939040bf1c62011aad3b36cb6fd033d77f",
+        "limits": "a4d39ca994504739950c7099093cdce006d4974d436cf6089e72fd31cb123b9c",
+        "exam": "d0c444d2a7a77787b09cc8beee3a273399a8edd93e4821bbfaca0c974c1d5405"
+      }
+    },
+    "accountability-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "thompson-many-hands-1980",
+        "thompson-many-hands-2014",
+        "bovens-accountability-2007"
+      ],
+      "scope": "1980与2014论文限公开书目和摘要；时间线、责任分层为独立教学编排。",
+      "changes": "明确多手原典的道德责任问题，补入事前设计及证据链。",
+      "evidence": {
+        "body": "1980摘要与2014摘要的前瞻责任设计。",
+        "example": "虚构三组流程。",
+        "interpretation": "1980多人贡献与道德责任；后半为教学分析。",
+        "mechanism": "2014摘要主旨，交接措施为本站例。",
+        "caseAnalysis": "教学推演，区分各环节应说明事项。",
+        "limits": "区分道德责任与另外的制度判断。",
+        "exam": "站内答题编排。"
+      },
+      "fieldHashes": {
+        "body": "6ffd6661f35d534f4bcdc5feb2319056a39e5fc01e061a333cb8f3bf1d8979fc",
+        "example": "f6b6ff4e5fd524f7d723518f37bf1ef39540a1d988294d489de1dcd87d48c508",
+        "interpretation": "70e75ca0737d2a163677cf6b6be45b03fc27b6c592e9b4c7ee71190c85d2651a",
+        "mechanism": "9b4a79c65143b736c168a8e2da574be6905c47e027498fa5c3d98fe6b1f4335c",
+        "caseAnalysis": "c219f6490960e09b5387722f2674262c3851818c8c12e587fa552cf675734437",
+        "limits": "c2ee75988250d51e7d31467d6aea7b8cc6de141c8bad8d8ec60d1c2c7462f60f",
+        "exam": "2f3349d277db465ad0d88faff66703621b95245b79c4e7471443081f5e3be2f2"
+      }
+    },
+    "ethics-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "oecd-conflict-guidelines-2003",
+        "oecd-integrity-standards-2020"
+      ],
+      "scope": "采用OECD建议第10—16段及处理、披露范围，区分伦理风险分析、行为认定与国内制度。",
+      "changes": "补入实际、表面和潜在分类及行为认定层次。",
+      "evidence": {
+        "body": "OECD建议第10—15段及标准章节。",
+        "example": "教学评审假设。",
+        "interpretation": "指南第11—14段三种冲突。",
+        "mechanism": "指南1.2—1.3节，标准章节。",
+        "caseAnalysis": "虚构案例，强调权责与材料。",
+        "limits": "指南风险分类与适用条件。",
+        "exam": "独立编排答题框架。"
+      },
+      "fieldHashes": {
+        "body": "4e1fd82adc5912c6cd357efa7739c24f476c662fed55ef328947786a804b8328",
+        "example": "00ec96f81225733da0335bf68d2ced71dbd865397a96077581e59e2b54eed5f5",
+        "interpretation": "ce21a8c7dc4683eef4a58815d83a47f2901a3b90e7dac933782bd30eb29474c3",
+        "mechanism": "ecaf4ff28c8ac69191d606d0bfc657e947cd087b55b8cbaf51753d650529f3c4",
+        "caseAnalysis": "d38dea8032bdb75110a11a47ab24714ada80462868788b24dc4962da87d3063b",
+        "limits": "7b3a672326bc85fbcc5be4d8bb7d8797d6e87d51fa553080ae8a759b8e253794",
+        "exam": "a843c02974ddb8d1618c07031021add7fdc375678ba03fce27b750b7f667e949"
+      }
+    },
+    "ethics-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "oecd-integrity-openness-2020",
+        "oecd-integrity-standards-2020",
+        "oecd-conflict-guidelines-2003"
+      ],
+      "scope": "核读OECD手册第4、9章所选段落。关于单位文化和数量的案例为教学推演。",
+      "changes": "明确标准、日常咨询、正式报告、处理保护及证据界限。",
+      "evidence": {
+        "body": "手册第4、9章定义和实践说明。",
+        "example": "虚构评审咨询，强调报备范围。",
+        "interpretation": "手册沟通、咨询和报告渠道。",
+        "mechanism": "手册心理安全与保护，提出本地观察项。",
+        "caseAnalysis": "教学假设，事实需核查。",
+        "limits": "区分报告量与实际问题及处理质量。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "b9c4a09d0e62d4147db473a09c51d58beabbfd55d29fa874d7918b2beb13fc82",
+        "example": "198141c3c04e0e801f6a1e4938dcb96e3b62f65e53e1b1f97116ab83491c97d4",
+        "interpretation": "f76818d60172cdf1114cc8131b9a504f899813c9293d6f12619c4a669d2b9019",
+        "mechanism": "73e0920c466f6b86915e85483de1ddfc902352f97c4701c7eb558c38a4eb2c00",
+        "caseAnalysis": "cdd6ce264f4d554f34695257dd64313f10f2687c88b555e81d9e4d8333f59c7b",
+        "limits": "be551ee46d4c6c7e7d6895a172fd16211ed321131097d4dc3ed916f76d0c6f6b",
+        "exam": "d6beb88bda6efc63e49f3c513cd4ecbbc6f6074ba520fb50910092ce6a595c7b"
+      }
+    },
+    "budget-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "budget-law-reading-2018",
+        "budget-implementation-reading-2020",
+        "budget-current-catalog-2026",
+        "budget-law-revision-status-2025",
+        "mof-budget-report-2026"
+      ],
+      "scope": "2018修正预算法、2020实施条例公开文本，分别核对目录、修法答复和报告文种。数值为教学假设。",
+      "changes": "补充预算、调整预算、决算及法定编审状态。",
+      "evidence": {
+        "body": "法第13及74—75条。",
+        "example": "教学假设便于比较基准。",
+        "interpretation": "法第75条与条例第80条。",
+        "mechanism": "法第67—79条与2026预算报告。",
+        "caseAnalysis": "虚构数字，计算100减81与90减81。",
+        "limits": "法定口径和评价证据分开。",
+        "exam": "依制度及算例编排答题。"
+      },
+      "fieldHashes": {
+        "body": "c3c609e20877d6162cde0cc014d9bf1bd6901fd0e62cf0c8f313d543aedc3804",
+        "example": "a65cde0dcad4e18bfa3a78cb48bce1e75614d323fd6f9a386b72b82c231e71a8",
+        "interpretation": "a613709cb11865f96674b2dca1a4a7d4f4958ffc06a005c6f03069ad5fdd058c",
+        "mechanism": "51591507597c8dc2a1a2673264daacf2900d02b53cf55f18f1442c9b416a48f0",
+        "caseAnalysis": "32c529295c3e20e4b33eab2da5767e1c94dc4692efb0ed4a05e048e2cf157630",
+        "limits": "becdc8bd737b5b312b0e2a9a6bfeff8e0fd4c15a1c71f1c33e6523429f3fac51",
+        "exam": "3886d9dc180e7de0593f96be9b3c574a0db8cd23a61001ad80f31898a11b1caa"
+      }
+    },
+    "budget-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "gao-budget-formulation-1980",
+        "mof-budget-report-2026",
+        "intosai-issai-300"
+      ],
+      "scope": "核对GAO历史附录及2026财政部预算报告表述，案例为独立教学设定。",
+      "changes": "补充方案层次、排序、证据、履职责任和工作量。",
+      "evidence": {
+        "body": "GAO附录V增量与零基比较。",
+        "example": "假设培训，不主张哪种方案普遍更好。",
+        "interpretation": "附录V对决策方案与排序的解释。",
+        "mechanism": "历史报告的工作量观察和方法比较。",
+        "caseAnalysis": "独立案例适用范围与成本提示。",
+        "limits": "历史与年度中国政策用语各按范围。",
+        "exam": "根据资源与服务标准组织回答。"
+      },
+      "fieldHashes": {
+        "body": "e96c616f235fb896e28cd443bce6927b417192a2f0ec7a40708133410305e864",
+        "example": "9b0a75c8b07850f15900480827e0b7cf9c7798226679e8ae07f539107c26fb80",
+        "interpretation": "08dd83b9f637e278fa61adafcb00ba1d046a9c6ee9bf7cf839200b517d1c0aa3",
+        "mechanism": "b06b8acb37b0084caad37c157b6d8be2e326993eaa80cc34f0a5145057b14405",
+        "caseAnalysis": "15eb4911c7dddc49caf48cdef65607edd7d2a8f3d9f1dfb0aaa54817105d4378",
+        "limits": "2bd4084f391a8e9ad72a587cf9b75c730d02eaf8fb6340fda7743bde703587df",
+        "exam": "0eb097defb27d54879b7b0ae7499d1e3620ea1af0850e6e428433d3fd302d75c"
+      }
+    },
+    "budget-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "china-performance-budgeting-2018",
+        "oecd-performance-budgeting-2019",
+        "gao-evaluation-2021",
+        "intosai-issai-300"
+      ],
+      "scope": "核读2018年意见、OECD执行摘要及既有评估方法范围。偏远服务为假设。",
+      "changes": "补足政策流程、信息应用、指标副作用、归因和保障条件。",
+      "evidence": {
+        "body": "OECD执行摘要与中国意见。",
+        "example": "虚构点位案例。",
+        "interpretation": "OECD四类及意见全过程。",
+        "mechanism": "中国意见结果联系与指标设计限制。",
+        "caseAnalysis": "教学例的多种解释。",
+        "limits": "GAO区分成效与因果评价。",
+        "exam": "依据流程和边界自编答题顺序。"
+      },
+      "fieldHashes": {
+        "body": "ad8363d9661212ba426f974aa6969ed751348d5821da48c1296d7203fcac7ffc",
+        "example": "b9e7dddd000366daf1a03c8f7e8329eff9a6b41e256479bd6eaf62117c9aff6a",
+        "interpretation": "b00f549177de343c728b4f80d863dd42cc4d0381c27363f3c32bba2e0aa786aa",
+        "mechanism": "f19b0523fde88312d37e7478f3c2a663d246367b1b4b248f4ee353f3a9bacf75",
+        "caseAnalysis": "33b92e3981c074645cb7464579d30ddc9de5d7d32ac7f31802f837ec6bd8e3be",
+        "limits": "e761253f99e6177e039ebea608e2677e9c1100ef3c35bb38d658ef9dd18fc319",
+        "exam": "aa05027a5163edb3ad8172ba310c28641806728fb45489174691bad7691d58be"
+      }
+    },
+    "fiscal-relations-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "fiscal-responsibility-2016",
+        "subprovincial-fiscal-2022",
+        "budget-implementation-reading-2020",
+        "mof-central-transfer-2026"
+      ],
+      "scope": "2016及2022指导文件和条例读法，年度共同财政事权读表仅为教学参照。",
+      "changes": "区分实际执行、任务归属、支出义务、可用财力及分担口径。",
+      "evidence": {
+        "body": "2016意见事权及支出责任，2022意见财政体制。",
+        "example": "教学假设。",
+        "interpretation": "2016分类与省以下2022范围。",
+        "mechanism": "两份指导意见的分担与财力衔接。",
+        "caseAnalysis": "依据框架自拟县级情境。",
+        "limits": "2016共同事权与2022动态调整。",
+        "exam": "依财政机制自编答题顺序。"
+      },
+      "fieldHashes": {
+        "body": "af86dba59c7e2773cd279faa503004ff91665c550517bce62a0dcecae3b12c41",
+        "example": "0dbec117c09087a8ddf6ee6370960497a3556f2a9d20f1955241ee552fd00786",
+        "interpretation": "c1d7743f2dde34087ddfa18d8890dd3f5fb84d45b5307ecf4685270269446c81",
+        "mechanism": "a976702ef9cbee1e5fca3b4204f193a997a5f6c17c8f5e34a46c0b84ede9cffc",
+        "caseAnalysis": "2ff61af60085dcd8bab2b5bf44ed7243b6146bd0022f06431f370ffeb8f0c557",
+        "limits": "548b32c389f8191db8d76e1a49c594a74a7f8429fc8df51fc40131b8d6210380",
+        "exam": "2e8361b26970d693ebc8d16594a007a37486eee4a6f5565b61c0f35ead3e8f3c"
+      }
+    },
+    "fiscal-relations-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "oecd-fiscal-equalisation-2022",
+        "subprovincial-fiscal-2022",
+        "budget-law-reading-2018"
+      ],
+      "scope": "OECD比较概念、2022省以下指导及预算法总体目标，算例完全假设。",
+      "changes": "增加方向、能力需要、转移前后和两县计算。",
+      "evidence": {
+        "body": "OECD第2章与省以下安排。",
+        "example": "以假设引入层级与地区比较。",
+        "interpretation": "OECD能力、支出需求与资金分配。",
+        "mechanism": "OECD上下级拨付及地区均衡机制。",
+        "caseAnalysis": "70加40为110，200减110为90，二县差30。",
+        "limits": "OECD标准化能力与成本。",
+        "exam": "以口径、差距及激励为教学结构。"
+      },
+      "fieldHashes": {
+        "body": "359e7fc67260a759d72755531dfe7023f2d134078828bef8fe2e55b7183ac64a",
+        "example": "3d18cdafa667a905f6fe165b11ec3f44a01d7bd5a3245b6d1497851092c0a154",
+        "interpretation": "1af74dab80655765649d4e2b7e2779bbe32a20417c27997e9ec4c0e2e784011a",
+        "mechanism": "e0916d777c02e0b6a3bbb00ee4b3d34e3b346d3af596f5ef03b274a1403c223d",
+        "caseAnalysis": "edc0a67c713c26c0c4e602efef5038435d36f469209260a882d6e81f6ef41964",
+        "limits": "7768a572aa58ccfea1609d482617a29f2d64c817ad7be94276478bfbf7311c7c",
+        "exam": "6fd9448be6cd434cd11f67d16cc29c0766ff228709c36cfc4b86ac52a6a1184e"
+      }
+    },
+    "fiscal-relations-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "budget-law-reading-2018",
+        "budget-implementation-reading-2020",
+        "budget-current-catalog-2026",
+        "mof-central-transfer-2026",
+        "subprovincial-fiscal-2022"
+      ],
+      "scope": "核对预算法第16条、条例第9—10条及2026年度中央说明，具体资金条件以项目资料为准。",
+      "changes": "加入共同财政事权列报、配套例外及两年度数字状态。",
+      "evidence": {
+        "body": "法第16条、条例第9—10条与年度说明。",
+        "example": "独立教学设定。",
+        "interpretation": "制度定义与年度结构。",
+        "mechanism": "法区分一般性与专项，同时联系共同事权。",
+        "caseAnalysis": "财政部年度预算说明的标题、数字状态及项目定位。",
+        "limits": "第16条专项配套规则及例外。",
+        "exam": "按制度与读表证据编排。"
+      },
+      "fieldHashes": {
+        "body": "645ac78a3ebdf320cd8bdf9658cfbed1a644150b6ca46f5cb72fd73730481aba",
+        "example": "5aa34c60cf69846bb0c7730fb77356100d5dbd3f996ded0e0394b76abd8cbd17",
+        "interpretation": "fce28184d4e0da9652a50b58a104c56859adbdfe1fa3f6920f2ee3014bd9c017",
+        "mechanism": "efb371d87b996c33e11b18addfaa28045423fd968cc4f11ed7700091d7120232",
+        "caseAnalysis": "f112a5e115f7569906af5fe0bf909acb2bf29bd327814bd1231960d7f66957d9",
+        "limits": "2f47f6fe307679addebccddc98f93da59d4869e2bba69499d26f9634031e80e4",
+        "exam": "93fddbeb672122c292c276ac6827b12a57a797921a4745d13177aeaa7efa573b"
+      }
+    },
+    "decentralization-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "oecd-decentralisation-2019",
+        "fiscal-responsibility-2016",
+        "subprovincial-fiscal-2022"
+      ],
+      "scope": "OECD比较框架及2016、2022中国财政指导文件，各按核读范围使用。例子为教学假设。",
+      "changes": "补足分权维度、实际决定权、跨区风险及财政自主范围。",
+      "evidence": {
+        "body": "OECD第2章三维度。",
+        "example": "公共服务为假设。",
+        "interpretation": "OECD行政分权类型与多维度。",
+        "mechanism": "OECD第4章机会和风险。",
+        "caseAnalysis": "独立案例，逐项查权限。",
+        "limits": "中国财政两份指导意见，具体事项独立查。",
+        "exam": "基于文献组织答题。"
+      },
+      "fieldHashes": {
+        "body": "013d8638cbf461dd338b9a5f6b7645280bb36ce1698362ef9ca2aaef6b1dc08f",
+        "example": "c602ed6013250191c3a24f6052e06bb80b490cd106612ceb805c9b9bd8e8cec7",
+        "interpretation": "47927390e34b895e0dfc8f685aaaae55e902e9c88bc47aa35a2fdc025bb8ac42",
+        "mechanism": "ec0da4f93b4dac9fa5e606e1de4687a57b67e63cc52ffbd6efd37445fe736df5",
+        "caseAnalysis": "6d6c98695a56f5837144f498c5ed349e6b9991f9ff550fdd2601fc4b1804e40c",
+        "limits": "0a8201037f47250dc435e5b2b850a8c59b32fea5450d6dfe6a9ab96bb337822d",
+        "exam": "a4259dc64670b38f56ee5c7b41c63c615605eac144fc27fc1d3eb13c59b4508b"
+      }
+    },
+    "decentralization-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "grassroots-emergency-capacity-2024",
+        "township-duty-lists-2026",
+        "oecd-decentralisation-2019"
+      ],
+      "scope": "依据基层应急意见和履职清单发布稿解释两个关系维度，案例虚构。",
+      "changes": "分清业务指导、法定决定、属地协调及应急领域适用范围。",
+      "evidence": {
+        "body": "2024意见条块结合、专业与综合分工。",
+        "example": "设施事项为假设。",
+        "interpretation": "2024意见第二至第四项。",
+        "mechanism": "OECD第5章协调；中国政策例。",
+        "caseAnalysis": "独立报告流程案例。",
+        "limits": "不同领域需查法律、清单及预案。",
+        "exam": "教学组织思路。"
+      },
+      "fieldHashes": {
+        "body": "c240ecfac41bd5d39a76c91445b5071765d226cb98c13a4854272a78c918af85",
+        "example": "09fc55e9a0bc27db994da892dfdf8e466d62e78cf4c7fd5242ebff969abda987",
+        "interpretation": "af0f0cc2d9bd2bee4ccad6eb678aafa529af32dc10d3992b55492e4d5839867b",
+        "mechanism": "af42a4d37172c8626fe647ffb91b9acfa1b8ef2337ae3c3434fd9a2ea777a978",
+        "caseAnalysis": "54814dd38aaa7ed1d25be2de8e7a82bb51d81330b049ced09c49b0f7e376e049",
+        "limits": "2cc928ed1e2b9cef3db90feb906e2f8b3fbc3771e5a3fac6a3043adb69d13e9e",
+        "exam": "5ea0a625a3753c85dfb43755b1441987b00e90a738e39813efd594ff7db7f92a"
+      }
+    },
+    "decentralization-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "township-duty-lists-2026",
+        "oecd-decentralisation-2019",
+        "subprovincial-fiscal-2022",
+        "grassroots-emergency-capacity-2024"
+      ],
+      "scope": "核读2026履职发布稿、OECD建议与现有财政政策，不确定本地事项细则。",
+      "changes": "以三类事项解释基层承接，并加入资源和交接证据。",
+      "evidence": {
+        "body": "2026发布稿清单框架。",
+        "example": "假设情境。",
+        "interpretation": "OECD第4章和2026政策稿。",
+        "mechanism": "OECD第5章建议2、4、5。",
+        "caseAnalysis": "虚构系统权限示例。",
+        "limits": "2026公开稿限制范围及适用边界。",
+        "exam": "站内分析顺序。"
+      },
+      "fieldHashes": {
+        "body": "7eb35c9336a810f767b08304b67012736ed34ab28f939bf048d160316705bbf7",
+        "example": "7a9af3d2bdcc87fcc5c59ed148be7e982f10b0c2af506f3ba9a81d2d714f62d5",
+        "interpretation": "66a10040218e70faa7f1b077680b38cb10c0c361855a5edec84dd7577ceda946",
+        "mechanism": "cada3b74ff353179ff460a06a3dbbf6f43a3bf15d05ecba4a5ddd2a1f7040bad",
+        "caseAnalysis": "f53e6a941ba26723bf5d945c279c44baa7c092d39c57d1354e4dcf83509a7b6e",
+        "limits": "e7357c6d39d2e67e1a307a9dd678b0ba62ae25bb7422441d0203dd911f0ccd66",
+        "exam": "c455662636ad16b169618a89ee6b224a67b99fe67c41fb97ae09c03a8fd97d69"
+      }
+    },
+    "public-value-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "moore-khagram-triangle-2004",
+        "oecd-governance-framework-2020",
+        "aspaEquity"
+      ],
+      "scope": "核读Moore与Khagram工作论文指定段落，评价与实施案例为站内应用。",
+      "changes": "注明作者核读范围，补全授权环境及机构外运作能力。",
+      "evidence": {
+        "body": "2004工作论文图1及对应问题。",
+        "example": "虚构服务。",
+        "interpretation": "图1及运作能力章节。",
+        "mechanism": "工作论文三维与ASPA公平范围。",
+        "caseAnalysis": "基于框架编排的教学例。",
+        "limits": "OECD治理维度与评价边界。",
+        "exam": "站内复习框架。"
+      },
+      "fieldHashes": {
+        "body": "1c495a0ab4579f873618e47a4dd2864d874548fb54285461fd3d2d0fda9c2de9",
+        "example": "50a19d60bb80e39c91ea93401d3f5b63abbcd9302be85fcbd5d5ee27b2a69a2e",
+        "interpretation": "458948356c350285d70b851da898582884778a850acab2425d472f1b49f52a5c",
+        "mechanism": "190c4b5b682447d62721d6061f8343dbe1a9f9c240cc531f868cf9f67a79725c",
+        "caseAnalysis": "a3bad76b04660c63799905e51a54ea02a61f91197d585a893c63f23555a1d60f",
+        "limits": "1b67292bea24d8bf5864c537f8540fb0786a923abae4a218759962fbb1fb0378",
+        "exam": "1fa479c8fda29e779d5a9cf79dcf9d70acc0e80ece76048fbbdf656401275013"
+      }
+    },
+    "public-value-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "oecd-serving-citizens-experience-2026",
+        "oecd-serving-citizens-measurement-2026",
+        "moore-khagram-triangle-2004",
+        "aspaEquity"
+      ],
+      "scope": "核读OECD第2章图注及第7章体验口径，未对国家比较作因果或排名外推。",
+      "changes": "补调查分母、非使用人群以及可达性和程序证据。",
+      "evidence": {
+        "body": "OECD图2.1及公共价值框架。",
+        "example": "线上办结为教学假设。",
+        "interpretation": "第2章题项和分母。",
+        "mechanism": "第7章调查体验及教学测量边界。",
+        "caseAnalysis": "独立例子。",
+        "limits": "ASPA公平与Moore框架。",
+        "exam": "站内组织建议。"
+      },
+      "fieldHashes": {
+        "body": "65f9e1f828991d5660888881701c1f2c15a4501396652a039408d5e7cb4c77b8",
+        "example": "9bb99c167268ace763833586706eeb1c92f38e1e84c9e12f28c8af1eddec41c9",
+        "interpretation": "ea1bc7eaa390879e3d4296c3db59e4262b52ca93cc729398163d64b5f24a2d6c",
+        "mechanism": "42a7f7c74fd272d68b1b735aba8ebe1b67b5a239abfe8c23c6f6ae40d00f0847",
+        "caseAnalysis": "366b9c17d7c4636a78c4115e5f328291e8efd73fb3e7411d6854776c63a07e48",
+        "limits": "49ec8942e10c088961b7ed7d01c0438790208b5f4db03f6727acfaa220e40a33",
+        "exam": "557321f2b2c87b671a211f3901f6668a16afc70961f8fdc0e7ab5857ac452b5a"
+      }
+    },
+    "public-value-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "oecd-serving-citizens-conclusion-2026",
+        "intosai-issai-300",
+        "gao-evaluation-2021",
+        "aspaEquity"
+      ],
+      "scope": "引用OECD结论、ISSAI与GAO方法及公平来源；多维表和算例由本站编写。",
+      "changes": "加入分项标准、权重敏感性、法定底线和因果证据。",
+      "evidence": {
+        "body": "ISSAI 300、GAO与ASPA。",
+        "example": "教学假设。",
+        "interpretation": "GAO评价分类和ISSAI。",
+        "mechanism": "GAO影响评价与站内结合。",
+        "caseAnalysis": "独立例子。",
+        "limits": "规范边界与教育性评价原则。",
+        "exam": "站内答题结构。"
+      },
+      "fieldHashes": {
+        "body": "b13f0df2284e3e7696d9373f2d635e0a744b19f612a98d173ad55c3f0cfdad54",
+        "example": "de961be185ce1517dcf8da4195c19c0f092efc5c14d600535ad81e74f80536d0",
+        "interpretation": "a3e9087fc2952bfd9a3c8b30d186b7ad434e82154d86ee49da323cd6ddc578d0",
+        "mechanism": "74939f3b43dbc54297b6aab293015931a78789411fe843bc4a3c14b159dd92a2",
+        "caseAnalysis": "95984a2f71b6f8c055f5e54ac4edf2783aa31288250dd97d99aec7b2bc6a98f7",
+        "limits": "2e914774bd3d08c96bef8a93dc854ce7c4cae1073e9bf35519207cab4311e03b",
+        "exam": "50a8a6f90b53c8966c4f67b5786f9a77edbec9d2799ea5cb805f721f68a1034c"
+      }
+    },
+    "policy-problem-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "rochefort-cobb-problem-1994",
+        "kingdon-agendas-2014",
+        "simon1947"
+      ],
+      "scope": "核读 Rochefort 与 Cobb 1994原章，以及 Kingdon 第1章节选与 Simon 事实价值节选。诊所及所有指标是教学假设。",
+      "changes": "区分描述、基准、竞争性成因、责任与应对，并加入分母和证据边界。",
+      "evidence": {
+        "body": "Rochefort 与 Cobb 原章和 Kingdon 第1章节选。",
+        "example": "虚构诊所案例。",
+        "interpretation": "Rochefort 与 Cobb 关于因果表述、严重度与归属的讨论。",
+        "mechanism": "原章的机制结合本站工具匹配说明。",
+        "caseAnalysis": "站内例题及漏报分析。",
+        "limits": "本站测量与取证边界。",
+        "exam": "站内答题结构。"
+      },
+      "fieldHashes": {
+        "body": "0881ea413b4e338bce6779252d6ee9bcace11ad195603ad4e52dc43fc9577f36",
+        "example": "e571a5362b4c63e08f3cf2c53edb2eba09b0488cffcd8bea0c6e0957f303c65a",
+        "interpretation": "35c8f271164449cb491623f922fa0af7e01992d3e9637281b1ba6a23f62ab2f9",
+        "mechanism": "81a4b2eb9d16799bb333dddd775836e480cfebb8c253ac65fa0175120b4e5f79",
+        "caseAnalysis": "d629d13486f90e68456d4fa7756cfe1cdf0e436874f99d43871605f9d52197e0",
+        "limits": "8b69c4f69c83175d30ab8f1e1390281b9af65904fc2ee3f556ba88998b0aecc3",
+        "exam": "a7e9566a1a22395e7a431e7501a53bf89d510f75bde19a4ae52723fa39b6223f"
+      }
+    },
+    "policy-problem-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "kingdon-agendas-2014",
+        "cohen-march-olsen-choice-1972"
+      ],
+      "scope": "核读 Kingdon 国际版第1、8章列明段落及 Cohen 等原文的定义。年度复核和共享调度是教学假设。",
+      "changes": "逐项核对三流、开启、耦合与决定阶段，补充可观察证据。",
+      "evidence": {
+        "body": "Kingdon 第1章，尤其第18–19页。",
+        "example": "虚构复核案例。",
+        "interpretation": "Kingdon 第1章节选的三流概述。",
+        "mechanism": "Kingdon 第8章窗口与耦合。",
+        "caseAnalysis": "例题及教学证据判读。",
+        "limits": "Kingdon 第1章议程层次和站内范围推理。",
+        "exam": "站内答题结构。"
+      },
+      "fieldHashes": {
+        "body": "f89a8f0d125b30bf95729c6cad9bc201150e39b2d0c73dd593c55c6802b88c6b",
+        "example": "06e0dad35ef74842bfa8c682239a365c703cd9ca1ca86a35902bfd749dad82fb",
+        "interpretation": "515edb1d894275081b54bfd5ff9068e3efad0201e526a327addd5c04464f5db7",
+        "mechanism": "9f162f1f35581aac3292f8b8951065f13f76f4c99b202d2fefa1c8b2fc627343",
+        "caseAnalysis": "10cb4607fcec1f2bdc62cc46563c67650f57a9e32a4fff057a7a3dc8bf508764",
+        "limits": "972efb5544245e2f0f4f0793f3522aa9b03e59bdf91f14be5a418e827b7ad96c",
+        "exam": "11d7fa1a32b524b83060682ab23df26a0326a6fbdf8756de712a14f9dfc10023"
+      }
+    },
+    "policy-problem-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "cobb-elder-agenda-1971",
+        "cobb-ross-ross-agenda-1976",
+        "kingdon-agendas-2014"
+      ],
+      "scope": "核读 Cobb 与 Elder 1971指定段落、1976论文公开摘要、Kingdon 第1章第3–4页。公交场景为教学假设。",
+      "changes": "区分两组议程术语与三种进入机制，加入有时间顺序的判断。",
+      "evidence": {
+        "body": "Cobb 与 Elder 1971，第905–907页。",
+        "example": "公交教学假设。",
+        "interpretation": "两项原典各自的议程定义。",
+        "mechanism": "Cobb 等1976年论文公开摘要。",
+        "caseAnalysis": "本站由摘要构造的例题。",
+        "limits": "Cobb 与 Elder 与站内证据要求。",
+        "exam": "站内答题结构。"
+      },
+      "fieldHashes": {
+        "body": "5b00c24a43b42dfbfe6d225040500a94044c9a0cbb23f0562bf53ac4bb835eb8",
+        "example": "ab4de41addb3ab263a8dade9d021e08b8b3529a6eac5c138401df977875db04d",
+        "interpretation": "73975e4e7f26fac2d8d6d9c1104c1026afbb8e2142ddff436fe92729377474ab",
+        "mechanism": "ed3e7a5916459bddcc5fcdfb1ff22a59ad4829512ae9cd83e0de839741bbea4b",
+        "caseAnalysis": "952f455ced445117483c8cfdfaa15e23ebdb94b28271e6a937618eacdf812d9f",
+        "limits": "a63102dd9575a4a3d51a4c5e141a0b6af64166dd4fa41d31e526f4f0e0c2b2f6",
+        "exam": "c536d68c3142c579f513758efea575a38c12c804705b9b82abc172b97f162f8f"
+      }
+    },
+    "policy-decision-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "lindblom-incremental-1959",
+        "simon-nobel-1978",
+        "kingdon-agendas-2014"
+      ],
+      "scope": "核读 Lindblom 1959指定章节，并以 Simon 演讲范围和 Kingdon 第1章节选作比较。便民点例子为教学假设。",
+      "changes": "补足根与枝、价值交织、相互调适、实际过程诊断与遗漏。",
+      "evidence": {
+        "body": "Lindblom 1959第79–83页。",
+        "example": "虚构便民服务案例。",
+        "interpretation": "Lindblom 表及正文。",
+        "mechanism": "Lindblom 对政策共识与相互调适的分析。",
+        "caseAnalysis": "基于同一虚构案例的持续检验。",
+        "limits": "Lindblom 对简化代价的讨论及教学判断。",
+        "exam": "站内答题结构。"
+      },
+      "fieldHashes": {
+        "body": "cd3729a01b73cdc50b6b8a72adc42676ce2b684a855b67ef8ee006e483d85067",
+        "example": "bfd21f3ab39b4eef662dde3eb6f38d2fbb118301d00b97ac5dbc7af30c1ea7bd",
+        "interpretation": "eb9b41f5264193f101eb18f252b8d49d3ecfe164362e3a7c941c0aaa7817a3c5",
+        "mechanism": "8bf292a49da1877bedd8b38084722e3fcd8cfee2d7dfb56eafd7ad5606e14888",
+        "caseAnalysis": "f2dc9a657dc2925d37d5019c21c4fb053601be3e5522d45183b8ac4e55438f95",
+        "limits": "e6782bddc3511849ba2a0656db1fa46d273dbc65d41d0c9c45fc8a4a1e529028",
+        "exam": "83e1cdc52e705966e7c59cc828b09802c0a3d7d967d03ac96194b3fa9bbbf1da"
+      }
+    },
+    "policy-decision-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "cohen-march-olsen-choice-1972",
+        "kingdon-agendas-2014",
+        "lindblom-incremental-1959"
+      ],
+      "scope": "核读 Cohen、March 与 Olsen 1972原论文列明段落及对照来源。例会为教学假设，未将模拟预测当作实证规律。",
+      "changes": "落到可观察的三项情境、四要素、组织结构和三种形成决定的机制。",
+      "evidence": {
+        "body": "Cohen 等原文第1–2页。",
+        "example": "虚构部门例会。",
+        "interpretation": "Cohen 等原文第3–4页。",
+        "mechanism": "Cohen 等原文第8–9页。",
+        "caseAnalysis": "站内追踪例题。",
+        "limits": "Cohen 等原文范围与替代解释。",
+        "exam": "站内答题结构。"
+      },
+      "fieldHashes": {
+        "body": "a70134c03f97cf124a061c65e3d5a4053cfc79aa60bc592a8323f1f701155c51",
+        "example": "08a14c287b0aaafc24e0949e8c706fc1c5e0ec8cad6de43b2dd3bb994c0105b9",
+        "interpretation": "11421a102db8195251c56803f3d65f61b3d4fdb862eace6362d890847b58790c",
+        "mechanism": "c261b60dc4d0bd5a2401f7a3103c9dd0c382b043e2f49f5d8be1ecf549f6120a",
+        "caseAnalysis": "d7d637a066d7cb2af94455f4e3b53d3976163935851b20dd58ff181f35aac4f0",
+        "limits": "36fef53130b09cb2d061902501e596192f6c5c5ddd7d65eae47564825a1f3da3",
+        "exam": "6037835075bd8db031083e48751554c90f122e68bbe72434a8c62ec0b4c4c2f1"
+      }
+    },
+    "policy-tools-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "oecd-ghg-policy-instruments-2022",
+        "oecd-ria-2020",
+        "openstax-pollution"
+      ],
+      "scope": "对照《公共政策分析》工具相关段落，公开核验依 OECD 分类和规制评估原则。餐饮场景由本站编写。",
+      "changes": "重写七字段，接入概念对照、机制、证据边界与四道自测。",
+      "evidence": {
+        "body": "oecd-ghg-policy-instruments-2022、oecd-ria-2020 的定义与范围。",
+        "example": "站内教学假设。",
+        "interpretation": "oecd-ghg-policy-instruments-2022、oecd-ria-2020、openstax-pollution 的辨析段落。",
+        "mechanism": "原始来源所述机制与站内解释。",
+        "caseAnalysis": "站内示例及逐步判读。",
+        "limits": "原始材料的适用条件与站内证据要求。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "cfe2f2a86ea3a4830657bb50a8dedd456d624977532da7d311c8ee3db6fc0eb1",
+        "example": "fc839792cde6ca6ec4b8a997f9ce060637dece7c5e6d8e184c622e6aa011aab7",
+        "interpretation": "d1f036fc764e2bdf2a82ca17e5eef4432662e9f1d67bbef7124253b74b6e7d91",
+        "mechanism": "fdf435e4f97591596a362f8224b9634924a432d7125c8b28eb1df53266f0d8b3",
+        "caseAnalysis": "bd2cf48e0423e3fbd0c9da248eab319560f3424a2ff6687bc76d233a6bd20e28",
+        "limits": "6e9485d2da0c552e5162637c32ecd1d93f76b30fd4f42e10a83e26034f978a6f",
+        "exam": "7c1b0cc96b6191f00feb8596792933c03cd90b0297f9812197188ac0f5f5dc41"
+      }
+    },
+    "policy-tools-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "rogge-reichardt-mix-2016",
+        "capano-howlett-mixes-2020",
+        "oecd-ria-2020"
+      ],
+      "scope": "对照工具选择和政策配套材料。理论以 Rogge、Reichardt 和 Capano、Howlett 的公开论文为据。",
+      "changes": "重写七字段，接入概念对照、机制、证据边界与四道自测。",
+      "evidence": {
+        "body": "rogge-reichardt-mix-2016、capano-howlett-mixes-2020 的定义与范围。",
+        "example": "站内教学假设。",
+        "interpretation": "rogge-reichardt-mix-2016、capano-howlett-mixes-2020、oecd-ria-2020 的辨析段落。",
+        "mechanism": "原始来源所述机制与站内解释。",
+        "caseAnalysis": "站内示例及逐步判读。",
+        "limits": "原始材料的适用条件与站内证据要求。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "275deaf90bfc0e9ee34f9e151c286c617e879936e20455dba9bb706410c17f35",
+        "example": "062d269416e4a3b3f8a9eacf2a3b973c16f1ecd199acb36771e6a4c5454ec3bf",
+        "interpretation": "c4b618b012ef7f909959f3b92b824091025b5c679ca2577560f4180dbd059ffa",
+        "mechanism": "fdbac4b3a10deaafde547cb54a714381fb04d5532a619c294094bb44c584044f",
+        "caseAnalysis": "e23aa491e4ecbe1bc625585af8671d5f565e9c22e8713cdbad83d29a08054352",
+        "limits": "f080cccf8865d3a86dd9f13d597cf41c44d856fa9ffb95f2b8775eccd548a08c",
+        "exam": "02c7d0377f8f0dfe397c143ade28d0471bd6b7d63f99b487595452090c8cd914"
+      }
+    },
+    "implementation-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "sabatier-implementation-1986",
+        "matland-implementation-1995",
+        "lipsky-preface"
+      ],
+      "scope": "核读《公共政策分析》第六章与《社会政策提纲》第七章。Sabatier 1986只使用摘要，模型分类由Matland原文核查。",
+      "changes": "重写七字段，接入概念对照、机制、证据边界与四道自测。",
+      "evidence": {
+        "body": "sabatier-implementation-1986、matland-implementation-1995 的定义与范围。",
+        "example": "站内教学假设。",
+        "interpretation": "sabatier-implementation-1986、matland-implementation-1995、lipsky-preface 的辨析段落。",
+        "mechanism": "原始来源所述机制与站内解释。",
+        "caseAnalysis": "站内示例及逐步判读。",
+        "limits": "原始材料的适用条件与站内证据要求。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "c894e7636cdbe604d5b91086a8f79df705e06c08f85f0e42d6395f830f088dac",
+        "example": "0021b9663e225c3a1ea6e2ea010b26dad4661bcc2d9be3f90c5a83a8730be6fa",
+        "interpretation": "d86c27850888a2ec689060cb168f882c9983ac192c6104a30d598e068c2bdd5d",
+        "mechanism": "d63a2fbd45fd95b9ecd0f65d5a20814931cdb1d1e18614129bbd936cb0cbd4b8",
+        "caseAnalysis": "ba887c3ccd9d49414993dd936aff53134b41c29946ac5444f9c1bdcf60daa1cb",
+        "limits": "06dea1f1f2ba68f4947f24cd3dfee46d69e2570cc5e2735eb62b029e90a0f08e",
+        "exam": "dbefe918a67ea3392c66a0924fef0450af97ddc2f73a5ccaecc7a41d18a2080a"
+      }
+    },
+    "implementation-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "matland-implementation-1995",
+        "obrien-li-selective-1999",
+        "lipsky-preface",
+        "cdc-eval-framework-2024"
+      ],
+      "scope": "核读《公共政策分析》第六章执行偏差材料，对照 Matland 和 O’Brien、李连江原文。",
+      "changes": "重写七字段，接入概念对照、机制、证据边界与四道自测。",
+      "evidence": {
+        "body": "matland-implementation-1995、obrien-li-selective-1999 的定义与范围。",
+        "example": "站内教学假设。",
+        "interpretation": "matland-implementation-1995、obrien-li-selective-1999、lipsky-preface、cdc-eval-framework-2024 的辨析段落。",
+        "mechanism": "原始来源所述机制与站内解释。",
+        "caseAnalysis": "站内示例及逐步判读。",
+        "limits": "原始材料的适用条件与站内证据要求。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "3325349a58665b2316fddbc31b00a7199502d424d275778fbba81d161e8bc765",
+        "example": "139b9e45871991e35db3ee606d92df9ddf09ede975506d46939f6442454992dc",
+        "interpretation": "b259e2c70282c00a14e771eb0fc78cb662e38634dae826927b4164e4df2224ba",
+        "mechanism": "bb8299ff0975b8926f6654df68cfbd73ff5fba891a1fe8dde44d2353d0e709ce",
+        "caseAnalysis": "e200914376d78977cf4e1ec0195e7885142eee976961b5d388af25c0eb55fe24",
+        "limits": "613447c41537cb2009193bdc804b6dd4f82004dc06c34ed2e23f77813645ac2c",
+        "exam": "f442e5ed5c42375341431f58f120572c32b60d54bfbfe9f9ff250274644124f5"
+      }
+    },
+    "policy-change-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "hall-policy-learning-1993",
+        "cdc-eval-framework-2024"
+      ],
+      "scope": "参照《公共政策分析》政策变动及《社会政策提纲》评估变动内容，三层变化以 Hall 原文核读范围为据。",
+      "changes": "重写七字段，接入概念对照、机制、证据边界与四道自测。",
+      "evidence": {
+        "body": "hall-policy-learning-1993、cdc-eval-framework-2024 的定义与范围。",
+        "example": "站内教学假设。",
+        "interpretation": "hall-policy-learning-1993、cdc-eval-framework-2024 的辨析段落。",
+        "mechanism": "原始来源所述机制与站内解释。",
+        "caseAnalysis": "站内示例及逐步判读。",
+        "limits": "原始材料的适用条件与站内证据要求。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "84ec5430083396872f3c98a9d0c7b462223506349f3a2d20186fc78a35fddf95",
+        "example": "16731d8f4e384ccc0d5b6d148463985141d609360708a2044ac828bb6bb04723",
+        "interpretation": "975c29b2872f73f63bea7e9ab370a460e9bc11cdcd2841efaa728ea216bdec63",
+        "mechanism": "c2733b0774b2d81b031453f48f1a9c4dcff4d0cd9502ece7fef21e4346f9f522",
+        "caseAnalysis": "a7158b5a4132c5688591f7d3ce84c8f6d7266e1ddcf449d53241bb91fb8505c0",
+        "limits": "70aaf3ce8b0bbcd7fd4bb2cc00bd2d50e1b9918475404aad5030ae9fd30a6f92",
+        "exam": "c3d44a0c71890218d9327ebb425f6435f57c1f79ab537f0b8b6ebad8524cc865"
+      }
+    },
+    "policy-change-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "baumgartner-jones-agenda-1991",
+        "true-jones-baumgartner-pet-2006",
+        "kingdon-agendas-2014"
+      ],
+      "scope": "以复习资料的政策变迁线索为入口，核读1991年摘要与作者2006年预稿中的形象、场所和制度摩擦。",
+      "changes": "重写七字段，接入概念对照、机制、证据边界与四道自测。",
+      "evidence": {
+        "body": "baumgartner-jones-agenda-1991、true-jones-baumgartner-pet-2006 的定义与范围。",
+        "example": "站内教学假设。",
+        "interpretation": "baumgartner-jones-agenda-1991、true-jones-baumgartner-pet-2006、kingdon-agendas-2014 的辨析段落。",
+        "mechanism": "原始来源所述机制与站内解释。",
+        "caseAnalysis": "站内示例及逐步判读。",
+        "limits": "原始材料的适用条件与站内证据要求。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "74e369cc09084293a9c9b29b02a9d6f86c2182f70cc4184e2b5fba15be8ce22b",
+        "example": "a466e30a6c14bc2253a13c044b83a9987a6e33a69d8999866b20261599ca8805",
+        "interpretation": "ab4d5ebb8eda3419397646b76a7918a8fd2cebac035ce53efe65c98803e6777c",
+        "mechanism": "3af432a5b7d3c96d1cce358e66845b1172b886f48e5ee9cd807a24c872d041dd",
+        "caseAnalysis": "fe8d9d14ff3e9e959bb200c509b03e92f6bba27ca70259dc0d879e5bd64da9b3",
+        "limits": "c57208422bc0d10ea14b52a1108cb3628843c97dee19be36300606f9c7aca6bd",
+        "exam": "0652c4d561fb8e75fec48c6af34f07119556e4525fb78fd4e6dd2c3f3b878cbd"
+      }
+    },
+    "policy-change-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "bardach-termination-1976",
+        "deleon-termination-1977",
+        "cdc-eval-framework-2024"
+      ],
+      "scope": "核读《公共政策分析》第七章政策终结及《社会政策提纲》第七章。以 Bardach 原文和 DeLeon 公布的摘要核对概念与边界。",
+      "changes": "重写七字段，接入概念对照、机制、证据边界与四道自测。",
+      "evidence": {
+        "body": "bardach-termination-1976、deleon-termination-1977 的定义与范围。",
+        "example": "站内教学假设。",
+        "interpretation": "bardach-termination-1976、deleon-termination-1977、cdc-eval-framework-2024 的辨析段落。",
+        "mechanism": "原始来源所述机制与站内解释。",
+        "caseAnalysis": "站内示例及逐步判读。",
+        "limits": "原始材料的适用条件与站内证据要求。 沉没成本与未来转换费用按增量分析区分，避免以过去支出替代对退出后果的判断。",
+        "exam": "站内答题框架。"
+      },
+      "fieldHashes": {
+        "body": "0c8e2d00cffc23438a71d851079b5bd73711ffabf3bf2cd96b06acd298067c7b",
+        "example": "902f03b2c5c1537a0bc1c09fb215d7e877d360ff488af463b538c91649484cc6",
+        "interpretation": "3e88ea9d468687f6e54c22fd8b410fb9a3c3e3f34bb936dbd2f03402295d6dc1",
+        "mechanism": "5bc33e93243b1194d7cbb25f9b0dc79322fb64f3f344b9d9a0c5fab8caeb1362",
+        "caseAnalysis": "639f0511234fd11d3afadbb2ed03c5ecf79c80eea5f8fa7094d7f150771eee5c",
+        "limits": "da492535570a2db8cc2d8e17c678272d72bd1d255e5a61c50241ca0a3321d46c",
+        "exam": "a40dac8b29b0c8626a0785e251ba8fd6cffb9c34106fbd600cdce5f03a0e0b38"
+      }
+    },
+    "public-goods-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "openstax-public",
+        "ostrom-polycentric-2010",
+        "ostrom2005"
+      ],
+      "scope": "参照黄恒学笔记公共产品与共同资源段落；核读 OpenStax 与 Ostrom。河段为教学假设。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "OpenStax公共产品的搭便车与Ostrom对可减、难排他资源的定义。",
+        "example": "原创河段清理和捕捞教学假设。",
+        "interpretation": "Ostrom四类物品表用于区分服务流与资源单位。",
+        "mechanism": "Ostrom共同资源机制与OpenStax筹资激励。",
+        "caseAnalysis": "原创案例按服务筹供与资源存量拆为两个证据链。",
+        "limits": "Ostrom强调排他难度、可减性和规则情境。",
+        "exam": "按上述定义与案例独立撰写。"
+      },
+      "fieldHashes": {
+        "body": "b237e49b5a21996edf773456b4651f8a69979b4a34b3b976c5080ae26ea93fa1",
+        "example": "193f2a093115389e7b06b7e2c5a86c3ed9fd0109dba50c92c838c969a4a40ee0",
+        "interpretation": "f9730a225fd65dd94740004fbc62c26284f8f30abef8fc9f739d1d8080150c75",
+        "mechanism": "f04a725bbab5c8cf02237c9c8155ce5fddcec606abebdbd6c0a14a641bf960b7",
+        "caseAnalysis": "9291f936d6f0887985932b6ce7488342fe97b0a1f85b2ce8fe7da17f38024b23",
+        "limits": "b3d2b28306eff898547b49eeecc5716e388dfa9035532ac8f00ff7a91818f840",
+        "exam": "b9fc3ae94b2634bcdb8dfac89c6fa30fdbbd3d209f6bf2c56876a3dd2f68658e"
+      }
+    },
+    "public-goods-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "ostrom-polycentric-2010",
+        "ostrom2005",
+        "openstax-public"
+      ],
+      "scope": "对照地方组织与公共产品复习材料，用Ostrom的共同资源及制度分析段落核查。轮灌为原创案例。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "Ostrom长期维持共同资源制度的原则与制度层级。",
+        "example": "站内假设轮灌及联村协商。",
+        "interpretation": "Ostrom将边界、地方条件和使用者参与分列。",
+        "mechanism": "Ostrom的监测、渐进制裁、纠纷渠道与嵌套治理。",
+        "caseAnalysis": "轮灌案例的原创观察和归因设计。",
+        "limits": "Ostrom按情境和尺度分析，并与制度分析章对读。",
+        "exam": "由制度任务推导练习提纲。"
+      },
+      "fieldHashes": {
+        "body": "144a044900f927624033ac25bc0caa7f2d6d091c30e0acfc13335e4796c6cce7",
+        "example": "b2b3713a4bd7e931e4dfad8a8024bd6e2b9460486af8a1c0d6754dcc8843cbc7",
+        "interpretation": "77112d8bf1ac2254d1756347d5e738b48ff284c81b4bc01a66488a8f367eee97",
+        "mechanism": "ab68bddfbc0730381519552df7b9f53cffe0d76ff417027da730685f06552ec9",
+        "caseAnalysis": "8c9b4a7fb2583751f78cb51f2c27179b97f2783bc3d9f031c71da83aeda32e30",
+        "limits": "2eb5fa7c2a9566e5d5e96b921b361e5d57a675c23b8eb130609190227abf2e3f",
+        "exam": "40db06e0740ab2b8271befea263de582a06542a8d43030598723cac9de4a336a"
+      }
+    },
+    "externalities-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "pigou-welfare-1932",
+        "openstax-pollution",
+        "oecd-ghg-policy-instruments-2022"
+      ],
+      "scope": "核对黄恒学版外部性段落、Pigou 第四版和OpenStax污染经济学，教学税率为假设。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "Pigou第四版第二部分第九章与OpenStax污染价格工具用于矫正外部性。",
+        "example": "原创有效点的12元税率例题。",
+        "interpretation": "OpenStax供求图的外部边际成本与有效量。",
+        "mechanism": "Pigou的补助和税讨论，结合行为响应区分两种方向。",
+        "caseAnalysis": "原创案例按有效量、计量和补贴额外性推理。",
+        "limits": "OpenStax工具模型及 OECD 工具分类用于说明应用边界。",
+        "exam": "站内以分析步骤写作。"
+      },
+      "fieldHashes": {
+        "body": "4eaee9e26b6425f1f5c6517b35774c38f32753110b1b104c67b8add67d5aa8ba",
+        "example": "edc1c0b98cfd74904a5983ec6678c75a814f0989735d2628e0ec8cc82fea82e3",
+        "interpretation": "4039b171f55c602f7a55c9f1a44fbc21d7231d6b442f8de16cb81c4374dce242",
+        "mechanism": "71bcfe19029ddd53399f180a68b8a7587035dd885f4ec346afbc94ae2aa08741",
+        "caseAnalysis": "91987dbd826f0379c7515038d4bd7f5d6d2d2d775beb7c2ce2a99770fbeeeca8",
+        "limits": "dfddc22f88e903a91c10ca9b233ac71e21cf521127147df1a8502b0ef35f4388",
+        "exam": "dfcffdf0edae25fe5a80919762d36e0fd111311a73131321f84d38f183a6d7ab"
+      }
+    },
+    "externalities-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "coase-social-cost-1960",
+        "openstax-pollution",
+        "oecd-ria-2020"
+      ],
+      "scope": "核读黄恒学笔记协商与产权段，核查 Coase 对相互性、交易成本和制度比较的论述。噪声算例独立编写。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "Coase第二、三节的相互损害与权利示例，以及第六、七节交易成本。",
+        "example": "站内噪声案例独立设定金额和权利。",
+        "interpretation": "Coase关于不同行动的相互影响。",
+        "mechanism": "Coase关于协商成本与给定权利的交易。",
+        "caseAnalysis": "按例题假设、权利起点和支付边界推导。",
+        "limits": "Coase对市场交易和制度选择的比较。",
+        "exam": "由比较替代状态的步骤编写。"
+      },
+      "fieldHashes": {
+        "body": "26212c022e5bf53cd9841753accb662051e4d5155b1772be8a0fc2caf5d2d679",
+        "example": "52ecf8056d56b7e34c5a5f615b5bc9e820425eeacc9dfd7c033b0818c8c4518c",
+        "interpretation": "5991fb7b2c42ab3f7631def2e399ab82e151d39deaabf8c3854c9f5e99eee7c8",
+        "mechanism": "14e9d4e7d410d7928b478dfaf3df888021cda18d76eb746607a242ff108d3ce8",
+        "caseAnalysis": "2b4234fba1b169420e56701913ab30ff9ed69bfa71cd42401003250b06631691",
+        "limits": "43822e2e7d250cd2dbefbb1134e57346e4fe147e245c051856bebacafb66bbee",
+        "exam": "d41c417f19a66a245e421dbf79abaf8232280a22cf39248edcfb509efec230ed"
+      }
+    },
+    "finance-role-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "gao-tax-equity-2005",
+        "hm-treasury-green-book-2026",
+        "openstax-tax-incidence"
+      ],
+      "scope": "高培勇、黄恒学笔记税收公平段落与GAO报告的纳税能力、两类公平及有效税率对读。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "采用GAO关于纳税能力和横纵公平的口径。",
+        "example": "站内三户教学假设。",
+        "interpretation": "GAO的纳税能力与受益原则，以及纵向比较口径。",
+        "mechanism": "税收抵免和负担归宿参照GAO与OpenStax，影响分布参照Green Book。",
+        "caseAnalysis": "教学案例用收入与必要支出说明可比性。",
+        "limits": "GAO讨论可接受的差别税负与分配判断。",
+        "exam": "原创答题问题顺序。"
+      },
+      "fieldHashes": {
+        "body": "13cf4804b9375f72c1557eee1a3a0323b43885575d2298d9c683dd2815edd957",
+        "example": "a5e4a174c669ad2628f4eb017825b9e1d9b3d687a3159d30f6f939fdac7219fd",
+        "interpretation": "adefc44949fd51bba3bb9aff51a0cbc359f3f988637edf9d71720e6fb93ee3f4",
+        "mechanism": "c7f1dd786666e0f7097185fd2f3acfc17ed2046d2a56231d47cbe02311fffac0",
+        "caseAnalysis": "83dd82c7aa52e160a5f2179040a9f56892b7d5d8e2282884ac4857d51364e39f",
+        "limits": "65d12bfcb250e972b28b75922083368acf5e56c8256c58a1a24d50f9a18d81cc",
+        "exam": "df5167ffa421cc268cc4ad689cf605ed20aacc992bb42dce19baefb76e418dd0"
+      }
+    },
+    "finance-role-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "oecd-ria-2020"
+      ],
+      "scope": "高培勇笔记公共预算机会成本章与英国财政部公共评估指南对读，检验资源的一般定义。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "Green Book对最佳替代用途的定义。",
+        "example": "原创同一时段场地案例。",
+        "interpretation": "Green Book市场与非市场估值。",
+        "mechanism": "Green Book和OECD方案比较范围及成本计入。",
+        "caseAnalysis": "教学案例使用互斥资源和统一净收益基准。",
+        "limits": "Green Book对残值和其他用途价值的处理。",
+        "exam": "独立撰写选择和证据步骤。"
+      },
+      "fieldHashes": {
+        "body": "50e2417452407381cf4eba3fed6878c3cf4dea187cd552244909e274d34d1f8d",
+        "example": "dc9d9531af30c37646c12247d22cab82a7542e304eb39c950c04d24fabbb18e1",
+        "interpretation": "2b8709ae43942e4896d31714c36eee6c51970b82c1e03ef0c8074521444e1586",
+        "mechanism": "04222b91cc8080ba44bd6e2882d78657902933abd38a702eb8d82edecfba084f",
+        "caseAnalysis": "34ab79c82cdf5d97b4eb715dcd23a9128760bbfdf06b412b9982b558cb5a6ad3",
+        "limits": "a0b2876cea39604aabd51116f9a6429332530a1152f36b2de24c4e7b868d50c8",
+        "exam": "a251b2298f7bdb3621a5afe6590f59ba3ef1ee35d151eb107d7f299d28ef944f"
+      }
+    },
+    "debt-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "imf-sovereign-risk-2022",
+        "worldbank-public-debt-analysis",
+        "local-debt-2025-final"
+      ],
+      "scope": "本机802公债和公债管理条目、IMF及世界银行债务方法和公开决算对读，算例独立编写。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "国际主权框架融资需求及可持续性，区分长短期。",
+        "example": "站内按可用额减到期额设定教学例。",
+        "interpretation": "IMF压力测试和世界银行前景与风险方法。",
+        "mechanism": "以到期、融资可得性和成本观察流动性与长期偿债。",
+        "caseAnalysis": "对照参考框架的短期现金表与情景分析。",
+        "limits": "依各级预算、国债研究范围及决算口径限定适用。",
+        "exam": "独立写两类判断步骤。"
+      },
+      "fieldHashes": {
+        "body": "8548dacb81ffb292ceaa16aec8017af65ac45f68cadba1200e340557605c4b33",
+        "example": "932934604f8600ce7f6dd3e982ec2b9a38dca9442842df5cf5be0e37faeca20b",
+        "interpretation": "1848e870624f2ba264d42d779c705cbbb3644c0a555ed4de3419b907220b2e9e",
+        "mechanism": "36ad6463ac565e596b7ec2bb83494e23a5cff304b743884873e40401248c82cc",
+        "caseAnalysis": "673efe67050dcdae2dec7c8198572942a3f7c4399ed9c7423dc09e8414956240",
+        "limits": "13f241972dabc7e9ae0180a2048929b3567ae72712ae57006f127979e3f58499",
+        "exam": "7748052dbf4f274abaf5243709012eb9fa23034fc58e707236dd84c55dcfe745"
+      }
+    },
+    "debt-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "kornai-maskin-roland-2003",
+        "budget-law-2018",
+        "local-debt-guidance-2014"
+      ],
+      "scope": "结合黄恒学版笔记的预算约束条目与Kornai、Maskin、Roland的框架理解机制；中国制度仅作核查背景。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "Kornai等第2节提供受支持主体及预期概念。",
+        "example": "原创公共服务项目超支情境。",
+        "interpretation": "Kornai等区分支持主体、支持动机和约束环境。",
+        "mechanism": "Kornai等分析预期与事前行为的关系。",
+        "caseAnalysis": "原创材料审查框架。",
+        "limits": "Kornai等强调救助事件与预期关系，国内制度参照公开法源。",
+        "exam": "独立撰写机制与证据范式。"
+      },
+      "fieldHashes": {
+        "body": "3d62d207addfd61d7fd37c6ab18189f396be2966e8f45a00bcffde1d46a9ef04",
+        "example": "f53819e763fa07fb022f2cef7e59372cb36930d016d6dc953e4a6b1b1c713c7d",
+        "interpretation": "07279b69f8c5be57c53123f9b6505c9b3190f5dc8cfa880fc7a9d618962528d9",
+        "mechanism": "3ca8285f3b91397fd1ee0b87f52b9c1406fa60ca91629d42042e9e0ebcf4441c",
+        "caseAnalysis": "8eb14ca40d26b36af72b54afca7cfd44307c8717d8aba3bd41584a8172bbf5b8",
+        "limits": "fe7bc4a945427e84e050f0b948c5944efd7c46bb3b4727048dbfe27e0366ebdf",
+        "exam": "e6e2b0a00a71a72374c8bc55d598130fb59482e4a477d886d99573b132a2472f"
+      }
+    },
+    "rule-law-1": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "admin-penalty-law-2021",
+        "admin-litigation-law-2017",
+        "admin-compulsion-law-2011"
+      ],
+      "scope": "对照611行政管理学笔记依法行政与法治政府部分，按行政处罚法及行政诉讼法相关条款查证。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "行政处罚法第4、5条，行政诉讼法第70条。",
+        "example": "站内安全违规教学假设。",
+        "interpretation": "行政诉讼法第6、70条，区分教学讨论。",
+        "mechanism": "行政处罚法对职权与相当性要求，行政诉讼法第70条。",
+        "caseAnalysis": "站内台账式案例检查。",
+        "limits": "法定审查范围与课程概念适用边界。",
+        "exam": "基于授权事实程序裁量编写练习。"
+      },
+      "fieldHashes": {
+        "body": "3f8f6a0e3b8e020f00af1a5822d60f940c9f1656b837ce13a814a9c5449659bf",
+        "example": "da23141a5b74fab40eb9f84989fe76b5356021038684e1fb15f2626472860929",
+        "interpretation": "708d7e9fa98cbf980905492286951052937dfe0005ba0071f819aa9c547f6fb0",
+        "mechanism": "1f154e1bb207a37144da2f949b6978a5a33d11bbcc240ac75e483a373df9ff77",
+        "caseAnalysis": "e8cdc30b03dd63826bd70fc72d0b8d44c05617c7a533134770184411896193d5",
+        "limits": "d6b3d0b58456119a612a59fb797d1e1c0031542a221cabd053ed62c14833bc3f",
+        "exam": "3f60e1416bcd80328b3031f0d6d8e9014e15e95920edc6afe5283ad4231a838e"
+      }
+    },
+    "rule-law-2": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "admin-penalty-law-2021",
+        "major-administrative-decisions-2019",
+        "admin-review-law-2023"
+      ],
+      "scope": "对照611笔记法治政府程序正当内容，核读行政处罚法及重大行政决策程序暂行条例的适用部分。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "行政处罚法第44—45、59、63—65条。",
+        "example": "站内测量争议教学假设。",
+        "interpretation": "行政处罚法关于事前告知、听证和救济说明。",
+        "mechanism": "行政处罚法第45条的陈述、申辩和复核。",
+        "caseAnalysis": "按法定环节写作独立教学例。",
+        "limits": "重大行政决策程序暂行条例与行政处罚法适用范围。",
+        "exam": "按行为类型和时间线组织答题。"
+      },
+      "fieldHashes": {
+        "body": "e47cc8ab545ccc4b3fbc31ab498cbc69639be5edace7370fec5ee59bc9e2fb23",
+        "example": "20969ed88a808aaff4dfa9055cf8a077e4993eeb66a1b18b94d3e1ce0288fa14",
+        "interpretation": "f58a69dced4b58359f7b60d21c2397198c746be5d8e6e9cb6d9df4cb09475df0",
+        "mechanism": "05f2286ad7bdef5817fda8f86ecf73db041e32955bab7bf956e823e34ee92175",
+        "caseAnalysis": "9d43823dc5f4739ea650a7ea40a53557c0aa521db6e5c0d8b5c510e9a84315a6",
+        "limits": "14fd2f29df5c32b159058937ddb488606be19e93ee89fb1c0bc8902e8b827554",
+        "exam": "c39cfc99b0db95f7b0998c405b434547f1ed836cf8994b500e931f9a1185441d"
+      }
+    },
+    "rule-law-3": {
+      "reviewedAt": "2026-11-18",
+      "sources": [
+        "admin-compulsion-law-2011",
+        "admin-penalty-law-2021",
+        "admin-litigation-law-2017"
+      ],
+      "scope": "参照611笔记比例原则段落，核读行政强制法第5条、行政处罚法第5条与行政诉讼法第70条。设施风险为独立教学场景。",
+      "changes": "依据用途核对七字段，加入比较表、机制案例、自测和四条相关联系。",
+      "evidence": {
+        "body": "行政强制法第5条、行政处罚法第5条，三步为站内教学组织。",
+        "example": "站内假设局部设施风险。",
+        "interpretation": "按目的、可选手段和实际负担组织三层审查。",
+        "mechanism": "行政强制法适当与非强制替代条款。",
+        "caseAnalysis": "依设定条件分析风险、时限和替代措施。",
+        "limits": "具体规范与课堂分析步骤适用范围。",
+        "exam": "站内按先授权再比较撰写。"
+      },
+      "fieldHashes": {
+        "body": "17adade6b75ad513352ace09a8f623a71b787072e5fb37167c84bcbebb11999e",
+        "example": "bbec6bd9fb7a8b0f75d1f4d1969ea6a86e26ffd980772153d328cb703eb5d410",
+        "interpretation": "194e056f623b8aabe1b7606155e9802a24a1cb9ca536d051becba2beb82be59d",
+        "mechanism": "eac14d1cda7b8012f9bc05aaafb314e8c100ec59e29b32a1b07a6a2d4039d8f3",
+        "caseAnalysis": "fd4e5ae2326abe46f926d1e36ed4ec50bafb017fe96cdc58963a8f6643457c2e",
+        "limits": "e4474bb4d4b329500151f1a198c74672e363000027a43e9b7ad2f624648859ce",
+        "exam": "a8b514e2e375b68d5c14e9def6ddb72cd609040f35cd2c27c5086be79b73f9a9"
+      }
+    }
+  }
+}

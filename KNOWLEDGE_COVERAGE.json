@@ -1,0 +1,4113 @@
+{
+  "scope": "通用体系初版；院校资料只是样本，主题不是全国考纲；计划主题与现有条目可能交叉，不相加计算知识点",
+  "date": "2026-11-19",
+  "existing": [
+    {
+      "id": "public-interest-1",
+      "title": "公共性不等于国有性",
+      "level": "核心",
+      "module": "admin",
+      "topic": "public-interest",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bozeman2007",
+        "nps2000"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-interest-2",
+      "title": "效率、公平与权利",
+      "level": "核心",
+      "module": "admin",
+      "topic": "public-interest",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "aspaEquity",
+        "aging2020",
+        "hood1991"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-interest-3",
+      "title": "利益相关者识别",
+      "level": "核心",
+      "module": "admin",
+      "topic": "public-interest",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bryson-stakeholders-2004",
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "gov-function-1",
+      "title": "市场失灵的常见类型",
+      "level": "核心",
+      "module": "admin",
+      "topic": "gov-function",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-public",
+        "openstax-pollution",
+        "imf-state",
+        "openstax-information",
+        "openstax-monopoly"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "gov-function-2",
+      "title": "政府失灵",
+      "level": "核心",
+      "module": "admin",
+      "topic": "gov-function",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "imf-state",
+        "openstax-pollution",
+        "oecd-checklist",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "gov-function-3",
+      "title": "供给责任与生产方式",
+      "level": "核心",
+      "module": "admin",
+      "topic": "gov-function",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "mof102",
+        "mof-list",
+        "oecd-contract"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "bureaucracy-1",
+      "title": "三种正当支配类型",
+      "level": "核心",
+      "module": "admin",
+      "topic": "bureaucracy",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "weber-authority-excerpts",
+        "openstax-legitimacy"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "bureaucracy-2",
+      "title": "理想类型不是道德理想",
+      "level": "核心",
+      "module": "admin",
+      "topic": "bureaucracy",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "weber-objectivity-1904",
+        "weber-authority-excerpts"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "bureaucracy-3",
+      "title": "目标置换",
+      "level": "核心",
+      "module": "admin",
+      "topic": "bureaucracy",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "merton-bureaucratic-1940",
+        "chrystal-mizen-goodhart-2001"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "value-fact-1",
+      "title": "规范研究与经验研究",
+      "level": "核心",
+      "module": "admin",
+      "topic": "value-fact",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon1947",
+        "cmu-simon"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "value-fact-2",
+      "title": "西蒙与沃尔多的分歧",
+      "level": "核心",
+      "module": "admin",
+      "topic": "value-fact",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon1947",
+        "waldo1952",
+        "waldo1952-original"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "value-fact-3",
+      "title": "三 E 与评价边界",
+      "level": "核心",
+      "module": "admin",
+      "topic": "value-fact",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "intosai-issai-300",
+        "gao-evaluation-2021",
+        "aspaEquity"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "paradigms-1",
+      "title": "政治—行政二分",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "wilson-1887",
+        "wilson-1887-bibliography",
+        "lipsky-preface"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "paradigms-2",
+      "title": "新公共行政与社会公平",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "aspaEquity",
+        "nps2000",
+        "frederickson1990"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "paradigms-3",
+      "title": "新公共管理与新公共服务",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "nps2000",
+        "hood1991"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "accountability-1",
+      "title": "控制、监督与问责",
+      "level": "核心",
+      "module": "admin",
+      "topic": "accountability",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bovens-accountability-2007",
+        "intosai-issai-300"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "accountability-2",
+      "title": "委托—代理关系",
+      "level": "核心",
+      "module": "admin",
+      "topic": "accountability",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "jensen-meckling-agency-1976",
+        "oecd-contract",
+        "chrystal-mizen-goodhart-2001"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "accountability-3",
+      "title": "多手问题",
+      "level": "核心",
+      "module": "admin",
+      "topic": "accountability",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "thompson-many-hands-1980",
+        "thompson-many-hands-2014",
+        "bovens-accountability-2007"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-1",
+      "title": "问题建构",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "rochefort-cobb-problem-1994",
+        "kingdon-agendas-2014",
+        "simon1947"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-2",
+      "title": "多源流与政策窗口",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "kingdon-agendas-2014",
+        "cohen-march-olsen-choice-1972"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-3",
+      "title": "系统议程与政府议程",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "cobb-elder-agenda-1971",
+        "cobb-ross-ross-agenda-1976",
+        "kingdon-agendas-2014"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-1",
+      "title": "满意原则",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon-nobel-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-2",
+      "title": "渐进主义",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "lindblom-incremental-1959",
+        "simon-nobel-1978",
+        "kingdon-agendas-2014"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-3",
+      "title": "垃圾桶模型",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "cohen-march-olsen-choice-1972",
+        "kingdon-agendas-2014",
+        "lindblom-incremental-1959"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-tools-1",
+      "title": "工具与目标匹配",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-tools",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-checklist",
+        "openstax-pollution",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-tools-2",
+      "title": "激励性工具与命令性工具",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-tools",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-ghg-policy-instruments-2022",
+        "oecd-ria-2020",
+        "openstax-pollution"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-tools-3",
+      "title": "工具组合的一致性",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-tools",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "rogge-reichardt-mix-2016",
+        "capano-howlett-mixes-2020",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "implementation-1",
+      "title": "街头官僚",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "lipsky-preface",
+        "lipsky-publisher-summary"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "implementation-2",
+      "title": "自上而下与自下而上",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "sabatier-implementation-1986",
+        "matland-implementation-1995",
+        "lipsky-preface"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "implementation-3",
+      "title": "象征性执行与选择性执行",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "matland-implementation-1995",
+        "obrien-li-selective-1999",
+        "lipsky-preface",
+        "cdc-eval-framework-2024"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-1",
+      "title": "产出、结果与影响",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "gao-evaluation-2021",
+        "gao-2011-glossary"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-2",
+      "title": "反事实与因果归因",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "worldbank-impact-handbook",
+        "gao-evaluation-2021",
+        "jpal-randomized-intro"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-3",
+      "title": "形成性与总结性评估",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "cdc-eval-framework-2024",
+        "cdc-formative-2008",
+        "cdc-community-eval-2000"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-change-1",
+      "title": "政策学习",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hall-policy-learning-1993",
+        "cdc-eval-framework-2024"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-change-2",
+      "title": "间断均衡",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "baumgartner-jones-agenda-1991",
+        "true-jones-baumgartner-pet-2006",
+        "kingdon-agendas-2014"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-change-3",
+      "title": "政策终结的阻力",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bardach-termination-1976",
+        "deleon-termination-1977",
+        "cdc-eval-framework-2024"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-goods-1",
+      "title": "四类产品的识别",
+      "level": "核心",
+      "module": "finance",
+      "topic": "public-goods",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-public",
+        "ostrom2005"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-goods-2",
+      "title": "搭便车与公地困境",
+      "level": "核心",
+      "module": "finance",
+      "topic": "public-goods",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-public",
+        "ostrom-polycentric-2010",
+        "ostrom2005"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-goods-3",
+      "title": "集体行动的制度条件",
+      "level": "核心",
+      "module": "finance",
+      "topic": "public-goods",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ostrom-polycentric-2010",
+        "ostrom2005",
+        "openstax-public"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "externalities-1",
+      "title": "私人边际成本与社会边际成本",
+      "level": "核心",
+      "module": "finance",
+      "topic": "externalities",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-pollution",
+        "imf-state"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "externalities-2",
+      "title": "庇古式税费与补贴",
+      "level": "核心",
+      "module": "finance",
+      "topic": "externalities",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "pigou-welfare-1932",
+        "openstax-pollution",
+        "oecd-ghg-policy-instruments-2022"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "externalities-3",
+      "title": "科斯式协商的条件",
+      "level": "核心",
+      "module": "finance",
+      "topic": "externalities",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "coase-social-cost-1960",
+        "openstax-pollution",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-role-1",
+      "title": "配置、分配与稳定",
+      "level": "核心",
+      "module": "finance",
+      "topic": "finance-role",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "imf-fiscal-politics",
+        "openstax-stabilizers"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-role-2",
+      "title": "横向公平与纵向公平",
+      "level": "核心",
+      "module": "finance",
+      "topic": "finance-role",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "gao-tax-equity-2005",
+        "hm-treasury-green-book-2026",
+        "openstax-tax-incidence"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-role-3",
+      "title": "机会成本",
+      "level": "核心",
+      "module": "finance",
+      "topic": "finance-role",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "budget-1",
+      "title": "预算与决算",
+      "level": "核心",
+      "module": "finance",
+      "topic": "budget",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "budget-law-reading-2018",
+        "budget-implementation-reading-2020",
+        "budget-current-catalog-2026",
+        "budget-law-revision-status-2025",
+        "mof-budget-report-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "budget-2",
+      "title": "增量预算与零基预算",
+      "level": "核心",
+      "module": "finance",
+      "topic": "budget",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "gao-budget-formulation-1980",
+        "mof-budget-report-2026",
+        "intosai-issai-300"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "budget-3",
+      "title": "绩效预算的使用边界",
+      "level": "核心",
+      "module": "finance",
+      "topic": "budget",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "china-performance-budgeting-2018",
+        "oecd-performance-budgeting-2019",
+        "gao-evaluation-2021",
+        "intosai-issai-300"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "fiscal-relations-1",
+      "title": "事权、支出责任与财力",
+      "level": "核心",
+      "module": "finance",
+      "topic": "fiscal-relations",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "fiscal-responsibility-2016",
+        "subprovincial-fiscal-2022",
+        "budget-implementation-reading-2020",
+        "mof-central-transfer-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "fiscal-relations-2",
+      "title": "纵向与横向财政不平衡",
+      "level": "核心",
+      "module": "finance",
+      "topic": "fiscal-relations",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-fiscal-equalisation-2022",
+        "subprovincial-fiscal-2022",
+        "budget-law-reading-2018"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "fiscal-relations-3",
+      "title": "一般性与专项转移支付",
+      "level": "核心",
+      "module": "finance",
+      "topic": "fiscal-relations",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "budget-law-reading-2018",
+        "budget-implementation-reading-2020",
+        "budget-current-catalog-2026",
+        "mof-central-transfer-2026",
+        "subprovincial-fiscal-2022"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "debt-1",
+      "title": "存量、流量与期限结构",
+      "level": "核心",
+      "module": "finance",
+      "topic": "debt",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "budget-regulation-2020",
+        "local-debt-2025-final",
+        "local-debt-guidance-2014"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "debt-2",
+      "title": "偿付能力与流动性",
+      "level": "核心",
+      "module": "finance",
+      "topic": "debt",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "imf-sovereign-risk-2022",
+        "worldbank-public-debt-analysis",
+        "local-debt-2025-final"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "debt-3",
+      "title": "软预算约束",
+      "level": "核心",
+      "module": "finance",
+      "topic": "debt",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "kornai-maskin-roland-2003",
+        "budget-law-2018",
+        "local-debt-guidance-2014"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "org-structure-1",
+      "title": "管理幅度与管理层次",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-structure",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-authority-2018",
+        "openstax-structure-2019",
+        "jacobsen-span-2023"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "org-structure-2",
+      "title": "直线、职能与矩阵",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-structure",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-structure-2019",
+        "openstax-authority-2018"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "org-structure-3",
+      "title": "正式组织与非正式组织",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-structure",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-structure-2019",
+        "simon1947"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "contingency-1",
+      "title": "机械式与有机式结构",
+      "level": "核心",
+      "module": "org",
+      "topic": "contingency",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "burns-stalker-summary-1994",
+        "openstax-design-fit-2019",
+        "openstax-structure-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "contingency-2",
+      "title": "环境不确定性",
+      "level": "核心",
+      "module": "org",
+      "topic": "contingency",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-environment-2019",
+        "simon-nobel-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "contingency-3",
+      "title": "开放系统视角",
+      "level": "核心",
+      "module": "org",
+      "topic": "contingency",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-systems-2019",
+        "gao-evaluation-2021",
+        "sage-open-systems-2017",
+        "riggs-prismatic-2006"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "bounded-rationality-1",
+      "title": "有限理性与完全理性",
+      "level": "核心",
+      "module": "org",
+      "topic": "bounded-rationality",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon-nobel-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "bounded-rationality-2",
+      "title": "决策前提",
+      "level": "核心",
+      "module": "org",
+      "topic": "bounded-rationality",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon1947",
+        "simon-nobel-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "bounded-rationality-3",
+      "title": "程序化与非程序化决策",
+      "level": "核心",
+      "module": "org",
+      "topic": "bounded-rationality",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-programmed-2019",
+        "simon1947"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "motivation-1",
+      "title": "期望理论的三个环节",
+      "level": "核心",
+      "module": "org",
+      "topic": "motivation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-expectancy-2019",
+        "apa-expectancy-2018",
+        "openstax-motivation-intro-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "motivation-2",
+      "title": "保健因素与激励因素",
+      "level": "核心",
+      "module": "org",
+      "topic": "motivation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-herzberg-2019",
+        "wall-stephenson-1970-abstract",
+        "openstax-motivation-intro-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "motivation-3",
+      "title": "公共服务动机的作用条件",
+      "level": "核心",
+      "module": "org",
+      "topic": "motivation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bakker-psm-2015-abstract",
+        "vanloon-psm-2015-abstract",
+        "openstax-motivation-intro-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "org-culture-1",
+      "title": "文化的可见层与深层",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-culture",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "schein-culture-excerpt-2010",
+        "mit-culture-lens-2010"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "org-culture-2",
+      "title": "心理安全与无原则宽容",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-culture",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "edmondson-safety-1999"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "org-culture-3",
+      "title": "组织沉默与群体迷思",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-culture",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "morrison-milliken-silence-2000",
+        "janis-groupthink-1971"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "institutions-1",
+      "title": "制度同形的三种机制",
+      "level": "核心",
+      "module": "org",
+      "topic": "institutions",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "dimaggio-powell-1983"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "institutions-2",
+      "title": "合法性与效率",
+      "level": "核心",
+      "module": "org",
+      "topic": "institutions",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "meyer-rowan-1977-abstract",
+        "suchman-1995-abstract",
+        "dimaggio-powell-1983"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "institutions-3",
+      "title": "路径依赖与锁定",
+      "level": "进阶",
+      "module": "org",
+      "topic": "institutions",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "pierson-1997-working",
+        "pierson-2000-abstract"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "hr-planning-1",
+      "title": "职位说明书",
+      "level": "核心",
+      "module": "hr",
+      "topic": "hr-planning",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "opm-job-analysis",
+        "opm-position-description",
+        "civil-service-law"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "hr-planning-2",
+      "title": "职位分类与品位分类",
+      "level": "核心",
+      "module": "hr",
+      "topic": "hr-planning",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "public-hr-textbook-ch2",
+        "civil-service-law",
+        "oecd-career-position-2021"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "hr-planning-3",
+      "title": "人力资源供需预测",
+      "level": "核心",
+      "module": "hr",
+      "topic": "hr-planning",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "gao-workforce-gap-2024",
+        "gao-workforce-planning-2012",
+        "opm-job-analysis"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "recruitment-1",
+      "title": "信度与效度",
+      "level": "核心",
+      "module": "hr",
+      "topic": "recruitment",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-operationalization",
+        "opm-job-analysis",
+        "opm-structured-interviews-2008"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "recruitment-2",
+      "title": "结构化面试",
+      "level": "核心",
+      "module": "hr",
+      "topic": "recruitment",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "opm-structured-interviews-2008",
+        "opm-job-analysis"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "recruitment-3",
+      "title": "机会公平与合理适配",
+      "level": "核心",
+      "module": "hr",
+      "topic": "recruitment",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ilo-adjustments-overview-2016",
+        "opm-job-analysis",
+        "civil-service-law-stat-2018"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "training-1",
+      "title": "三个层次的培训需求",
+      "level": "核心",
+      "module": "hr",
+      "topic": "training",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "opm-training-needs",
+        "opm-job-analysis"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "training-2",
+      "title": "培训评估的四个层次",
+      "level": "核心",
+      "module": "hr",
+      "topic": "training",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "kirkpatrick-newworld-intro",
+        "gao-evaluation-2021"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "training-3",
+      "title": "学习迁移",
+      "level": "核心",
+      "module": "hr",
+      "topic": "training",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "baldwin-ford-1988-abstract",
+        "opm-training-needs"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "performance-1",
+      "title": "目标管理",
+      "level": "核心",
+      "module": "hr",
+      "topic": "performance",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-mbo-2019",
+        "opm-performance-cycle"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "performance-2",
+      "title": "古德哈特式指标风险",
+      "level": "核心",
+      "module": "hr",
+      "topic": "performance",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "chrystal-mizen-goodhart-2001",
+        "bevan-hood-targets-2006",
+        "gao-evaluation-2021"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "performance-3",
+      "title": "绩效管理与绩效考核",
+      "level": "核心",
+      "module": "hr",
+      "topic": "performance",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "opm-performance-cycle",
+        "openstax-mbo-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "compensation-1",
+      "title": "内部公平与外部竞争力",
+      "level": "核心",
+      "module": "hr",
+      "topic": "compensation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "cipd-pay-structures-2025",
+        "opm-job-analysis"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "compensation-2",
+      "title": "内在激励与外在激励",
+      "level": "核心",
+      "module": "hr",
+      "topic": "compensation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ryan-deci-definitions-2000"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "compensation-3",
+      "title": "全面报酬",
+      "level": "核心",
+      "module": "hr",
+      "topic": "compensation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "worldatwork-rewards-2023",
+        "cipd-pay-structures-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "ethics-1",
+      "title": "利益冲突与实际腐败",
+      "level": "核心",
+      "module": "hr",
+      "topic": "ethics",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-conflict-guidelines-2003",
+        "oecd-integrity-standards-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "ethics-2",
+      "title": "服从义务与专业责任",
+      "level": "核心",
+      "module": "hr",
+      "topic": "ethics",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "civil-service-law",
+        "npc-civil-gazette",
+        "admin-laws-catalog-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "ethics-3",
+      "title": "制度控制与伦理文化",
+      "level": "核心",
+      "module": "hr",
+      "topic": "ethics",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-integrity-openness-2020",
+        "oecd-integrity-standards-2020",
+        "oecd-conflict-guidelines-2003"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "rule-law-1",
+      "title": "合法性与合理性",
+      "level": "核心",
+      "module": "gov",
+      "topic": "rule-law",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "admin-penalty-law-2021",
+        "admin-litigation-law-2017",
+        "admin-compulsion-law-2011"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "rule-law-2",
+      "title": "正当程序",
+      "level": "核心",
+      "module": "gov",
+      "topic": "rule-law",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "admin-penalty-law-2021",
+        "major-administrative-decisions-2019",
+        "admin-review-law-2023"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "rule-law-3",
+      "title": "比例原则的分析思路",
+      "level": "核心",
+      "module": "gov",
+      "topic": "rule-law",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "admin-compulsion-law-2011",
+        "admin-penalty-law-2021",
+        "admin-litigation-law-2017"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "decentralization-1",
+      "title": "行政、财政与政治分权",
+      "level": "核心",
+      "module": "gov",
+      "topic": "decentralization",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-decentralisation-2019",
+        "fiscal-responsibility-2016",
+        "subprovincial-fiscal-2022"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "decentralization-2",
+      "title": "条块关系",
+      "level": "核心",
+      "module": "gov",
+      "topic": "decentralization",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "grassroots-emergency-capacity-2024",
+        "township-duty-lists-2026",
+        "oecd-decentralisation-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "decentralization-3",
+      "title": "权责资源匹配",
+      "level": "核心",
+      "module": "gov",
+      "topic": "decentralization",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "township-duty-lists-2026",
+        "oecd-decentralisation-2019",
+        "subprovincial-fiscal-2022",
+        "grassroots-emergency-capacity-2024"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "collaboration-1",
+      "title": "协同治理与简单外包",
+      "level": "核心",
+      "module": "gov",
+      "topic": "collaboration",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ansell-gash-2008",
+        "mof102"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "collaboration-2",
+      "title": "信任与制度",
+      "level": "核心",
+      "module": "gov",
+      "topic": "collaboration",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ansell-gash-2008",
+        "poppo-zenger-2002"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "collaboration-3",
+      "title": "网络中的权力不对称",
+      "level": "核心",
+      "module": "gov",
+      "topic": "collaboration",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ansell-gash-2008",
+        "oecd-participation-challenges-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "digital-1",
+      "title": "信息化与数字化转型",
+      "level": "核心",
+      "module": "gov",
+      "topic": "digital",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "digital-government-oecd-2020",
+        "china-digital-government-2022",
+        "government-data-sharing-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "digital-2",
+      "title": "数字鸿沟的多个层次",
+      "level": "核心",
+      "module": "gov",
+      "topic": "digital",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-digital-divides",
+        "china-digital-government-2022",
+        "aging2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "digital-3",
+      "title": "算法责任与人工救济",
+      "level": "核心",
+      "module": "gov",
+      "topic": "digital",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-government-ai-2025",
+        "personal-information-law-2021",
+        "government-data-sharing-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "participation-1",
+      "title": "参与意愿、机会与能力",
+      "level": "核心",
+      "module": "gov",
+      "topic": "participation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "participation-2",
+      "title": "实质参与与象征性参与",
+      "level": "核心",
+      "module": "gov",
+      "topic": "participation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025",
+        "arnstein-ladder-1969"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "participation-3",
+      "title": "代表性与包容性",
+      "level": "核心",
+      "module": "gov",
+      "topic": "participation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "oecd-participation-challenges-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-value-1",
+      "title": "公共价值战略三角",
+      "level": "核心",
+      "module": "gov",
+      "topic": "public-value",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "moore-khagram-triangle-2004",
+        "oecd-governance-framework-2020",
+        "aspaEquity"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-value-2",
+      "title": "公众满意与公共价值",
+      "level": "核心",
+      "module": "gov",
+      "topic": "public-value",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-serving-citizens-experience-2026",
+        "oecd-serving-citizens-measurement-2026",
+        "moore-khagram-triangle-2004",
+        "aspaEquity"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-value-3",
+      "title": "多维治理评价",
+      "level": "核心",
+      "module": "gov",
+      "topic": "public-value",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-serving-citizens-conclusion-2026",
+        "intosai-issai-300",
+        "gao-evaluation-2021",
+        "aspaEquity"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-wilson-1887",
+      "title": "威尔逊的行政研究",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "wilson-1887",
+        "wilson-1887-bibliography"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "methods-operationalization",
+      "title": "概念操作化、信度与效度",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-operationalization",
+        "gao-evaluation-2021"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "methods-sampling",
+      "title": "抽样、代表性与调查误差",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "statcan-survey-questions",
+        "statcan-probability",
+        "statcan-nonprobability",
+        "ethics-review-measures-2023"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "emergency-cycle-rights",
+      "title": "突发事件应对与权利保障",
+      "level": "核心",
+      "module": "gov",
+      "topic": "rule-law",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "emergency-law-2024",
+        "emergency-law-gazette",
+        "emergency-law-amendment-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "emergency-risk-communication",
+      "title": "风险沟通与公众参与",
+      "level": "进阶",
+      "module": "gov",
+      "topic": "participation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "who-risk-communication",
+        "who-europe-risk",
+        "emergency-law-2024",
+        "emergency-law-amendment-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-land-revenue",
+      "title": "土地财政、土地出让收入与地方财力",
+      "level": "核心",
+      "module": "finance",
+      "topic": "debt",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "land-regulation-1990",
+        "fiscal-reform-1994",
+        "land-fiscal-2006",
+        "land-collection-2021",
+        "land-revenue-2025-final",
+        "land-finance-wilson-2026",
+        "land-imf-2024",
+        "land-history-mof"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-local-government-debt",
+      "title": "地方政府一般债务与专项债务",
+      "level": "核心",
+      "module": "finance",
+      "topic": "debt",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "budget-law-2018",
+        "budget-regulation-2020",
+        "local-debt-guidance-2014",
+        "local-debt-2025-final",
+        "local-debt-resolution-2024"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "soe-reform-governance",
+      "title": "国企改革、国资监管与公司治理",
+      "level": "核心",
+      "module": "admin",
+      "topic": "gov-function",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "soe-history-2015",
+        "soe-history-mof",
+        "soe-workers-stats",
+        "soe-assets-law-2008",
+        "soe-law-catalog-2026",
+        "company-law-2023",
+        "soe-classification-2015",
+        "soe-reform-2020",
+        "soe-reform-2023",
+        "soe-draft-2026",
+        "assets-draft-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "admin-remedies-review-litigation",
+      "title": "行政复议与行政诉讼中的权利救济",
+      "level": "核心",
+      "module": "gov",
+      "topic": "rule-law",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "admin-review-law-2023",
+        "admin-review-reg-2026",
+        "admin-litigation-law-2017",
+        "admin-deadline-interpretation-2026",
+        "admin-laws-catalog-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "admin-ecology-riggs",
+      "title": "行政生态与里格斯棱柱模型",
+      "level": "核心",
+      "module": "admin",
+      "topic": "bureaucracy",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "riggs-prismatic-2006",
+        "riggs-ignou-course",
+        "riggs-basu-2021"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "research-ethics-participants",
+      "title": "研究伦理、知情同意与个人信息保护",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "belmont-report-1979",
+        "personal-information-law-2021",
+        "ethics-review-measures-2023",
+        "admin-laws-catalog-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "methods-qualitative-quantitative",
+      "title": "定性、定量与混合方法",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "nih-mixed-methods-2011",
+        "openstax-methods-3e"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "governance-third-sector",
+      "title": "社会组织、第三部门与政府合作",
+      "level": "核心",
+      "module": "gov",
+      "topic": "collaboration",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "sal-al-third-1992",
+        "sal-voluntary-1987",
+        "nz-third-sector-review",
+        "charity-identification-2024",
+        "mof102",
+        "mof-list"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-taylor-scientific",
+      "title": "泰勒：科学管理与管理责任",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "taylor-nhc-excerpt",
+        "taylor-loc-1911"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-gulick-urwick",
+      "title": "古利克、厄威克与行政管理职能",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "gulick-urwick-1937-primary"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-follett-integration",
+      "title": "福莱特：分歧整合与共同权力",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "follett-creative-1924-primary"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "leadership-traits-behavior-context",
+      "title": "领导的特质、行为与情境",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-culture",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-leadership-nature-2019",
+        "openstax-leadership-traits-2019",
+        "openstax-leadership-behavior-2019",
+        "openstax-leadership-contingency-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "leadership-decision-participation",
+      "title": "领导与决策参与的条件",
+      "level": "进阶",
+      "module": "org",
+      "topic": "org-culture",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "vroom-situations-interview-2011",
+        "vroom-yetton-publisher-1976",
+        "openstax-leadership-nature-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "governance-reform-goals-evidence",
+      "title": "政府改革的目标、工具与结果证据",
+      "level": "进阶",
+      "module": "gov",
+      "topic": "decentralization",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-governance-framework-2020",
+        "gao-evaluation-2021",
+        "hood1991"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-hr-civil-service-framework",
+      "title": "公务员制度：范围、分类与录用",
+      "level": "进阶",
+      "module": "hr",
+      "topic": "hr-planning",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "civil-service-law-stat-2018",
+        "admin-laws-catalog-2026",
+        "npc-civil-gazette",
+        "civil-service-amendment-scope-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "politics-state-government",
+      "title": "国家、政府与任职团队",
+      "level": "核心",
+      "module": "admin",
+      "topic": "public-interest",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-state-government",
+        "constitution-2018-mofcom"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "politics-democracy-representation",
+      "title": "民主、代表关系与公共责任",
+      "level": "进阶",
+      "module": "gov",
+      "topic": "participation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ipu-democracy-1997",
+        "sep-representation-2026",
+        "constitution-2018-mofcom"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-confucius-virtue-ritual",
+      "title": "孔子的德礼教化与为政者示范",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "analects-governing",
+        "analects-yan-yuan"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-mencius-livelihood",
+      "title": "孟子的民生、仁政与民贵君轻",
+      "level": "核心",
+      "module": "admin",
+      "topic": "public-interest",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "mencius-liang-hui-wang",
+        "mencius-jin-xin"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-hanfeizi-name-performance",
+      "title": "韩非子的二柄与循名责实",
+      "level": "核心",
+      "module": "admin",
+      "topic": "bureaucracy",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hanfeizi-two-handles",
+        "hanfeizi-way-ruler"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "social-policy-eligibility-takeup",
+      "title": "普惠与定向保障：资格、覆盖与漏领",
+      "level": "进阶",
+      "module": "gov",
+      "topic": "public-value",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ilo-social-floors-2012",
+        "oecd-social-protection-access-2024",
+        "oecd-serving-citizens-experience-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-tax-incidence",
+      "title": "税负转嫁与税收归宿",
+      "level": "进阶",
+      "module": "finance",
+      "topic": "finance-role",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-tax-incidence"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-simon-administrative-proverbs",
+      "title": "西蒙的行政谚语批判",
+      "level": "进阶",
+      "module": "org",
+      "topic": "bounded-rationality",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon-administration-proverbs-1946",
+        "gulick-urwick-1937-primary",
+        "simon-nobel-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-cost-benefit-effectiveness",
+      "title": "成本效益分析与成本效果分析",
+      "level": "进阶",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "public-goods-median-voter",
+      "title": "中位选民定理与单峰偏好",
+      "level": "核心",
+      "module": "finance",
+      "topic": "public-goods",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "black-median-1948",
+        "openstax-public"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-welfare-criteria",
+      "title": "帕累托改进与潜在补偿标准",
+      "level": "核心",
+      "module": "finance",
+      "topic": "finance-role",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "kaldor-welfare-1939",
+        "hm-treasury-green-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "finance-balanced-budget-multiplier",
+      "title": "平衡预算乘数的推导与条件",
+      "level": "核心",
+      "module": "finance",
+      "topic": "finance-role",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-expenditure-output",
+        "imf-fiscal-multipliers-2014",
+        "openstax-stabilizers"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-goodnow-expression-execution",
+      "title": "古德诺的意志表达与意志执行",
+      "level": "核心",
+      "module": "admin",
+      "topic": "paradigms",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "goodnow-politics-administration-1900",
+        "wilson-1887",
+        "wilson-1887-bibliography"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-fayol-management-coordination",
+      "title": "法约尔的管理职能与等级跳板",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-structure",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "fayol-general-management-1916",
+        "openstax-structure-2019",
+        "openstax-authority-2018"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-barnard-cooperation-authority",
+      "title": "巴纳德的协作系统与权威接受",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-structure",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "barnard-executive-1938",
+        "simon1947",
+        "openstax-authority-2018"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-change-advocacy-coalitions",
+      "title": "倡议联盟框架与政策学习",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "sabatier-acf-1988",
+        "sabatier-implementation-1986",
+        "hall-policy-learning-1993"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-change-diffusion-mechanisms",
+      "title": "政策扩散的四种机制",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "berry-berry-lottery-diffusion-1990",
+        "shipan-volden-diffusion-2008",
+        "baumgartner-jones-agenda-1991"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-tree-rollback",
+      "title": "决策树的节点与倒推",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openlearn-decision-trees",
+        "hm-treasury-green-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-evaluation-sensitivity-switching",
+      "title": "敏感性分析与方案切换值",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "gao-cost-sensitivity-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-hobbes-locke-authorization",
+      "title": "霍布斯与洛克论权威授权",
+      "level": "核心",
+      "module": "admin",
+      "topic": "public-interest",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hobbes-leviathan-1651",
+        "locke-second-treatise-1690"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-montesquieu-rousseau-limits",
+      "title": "权力制约与公意",
+      "level": "核心",
+      "module": "gov",
+      "topic": "rule-law",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "montesquieu-spirit-laws-1748",
+        "rousseau-social-contract-1762"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-bentham-mill-evaluation-oversight",
+      "title": "边沁的功利评价与密尔的代议监督",
+      "level": "核心",
+      "module": "admin",
+      "topic": "accountability",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bentham-morals-legislation-1789",
+        "mill-representative-government-1861"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-hawthorne-illumination-relay",
+      "title": "霍桑照明试验、装配试验室与证据边界",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-structure",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hbs-hawthorne-research-designs",
+        "levitt-list-hawthorne-2011"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "history-hawthorne-informal-norms",
+      "title": "霍桑研究中的非正式群体与产量规范",
+      "level": "核心",
+      "module": "org",
+      "topic": "org-culture",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hbs-hawthorne-informal-organization",
+        "roethlisberger-dickson-worker-1939"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-forecast-trend-backtest",
+      "title": "趋势外推与滚动回测",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hyndman-athanasopoulos-forecasting-2021"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-forecast-interval-scenarios",
+      "title": "预测区间与政策情景",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hyndman-athanasopoulos-forecasting-2021",
+        "go-science-futures-toolkit"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-appraisal-feasibility-screen",
+      "title": "备选方案筛选与可行性约束",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-expected-utility-risk",
+      "title": "期望效用、风险态度与确定性等价",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "mit-decision-theory-expected-utility",
+        "hm-treasury-green-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-appraisal-pairwise-priority",
+      "title": "优序图、两两比较与循环排序",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "pairwise-voting-evidence",
+        "uk-mcda-options"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-appraisal-multiple-criteria",
+      "title": "多准则评估、摆幅权重与排序切换",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "uk-mcda-options",
+        "hm-treasury-green-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-procedure-and-evaluator",
+      "title": "正式与非正式评估、内部与外部评估",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-magenta-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-timing-and-questions",
+      "title": "事前、执行与事后评价：阶段与问题",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-magenta-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-effects-spillovers",
+      "title": "政策的直接、附带、潜在与象征性效果",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-evaluation-criteria-in-practice",
+        "hm-treasury-magenta-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-criteria-adequacy-equity",
+      "title": "政策评价标准：效率、充分性、公平性与适当性",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-evaluation-criteria-in-practice",
+        "hm-treasury-magenta-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-barriers-and-evidence",
+      "title": "政策评价障碍与证据边界",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-magenta-book-2026",
+        "oecd-public-policy-evaluation-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-response-and-follow-up",
+      "title": "评估报告、管理回应与复评",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-magenta-book-2026",
+        "oecd-public-policy-evaluation-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-before-after-four-designs",
+      "title": "四类政策效果对比：前后、投射、有无与实验",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "world-bank-impact-evaluation-in-practice",
+        "hm-treasury-magenta-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-termination-barriers-transition",
+      "title": "政策终止的障碍、过渡策略与成本",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bardach-termination-1976",
+        "deleon-termination-1977",
+        "hm-treasury-green-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "evaluation-chapter-case-practice",
+      "title": "政策评估综合练习：从效果判断到退出决策",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-magenta-book-2026",
+        "world-bank-impact-evaluation-in-practice",
+        "deleon-termination-1977"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-system-actors-and-authority",
+      "title": "政策主体：正式权限与参与影响力",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "cobb-ross-ross-agenda-1976"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-system-problem-target-group",
+      "title": "政策客体：直接问题、目标群体与受影响者",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "rochefort-cobb-problem-1994",
+        "oecd-participation-guidelines-2022",
+        "oecd-social-protection-access-2024"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-system-environment-and-feedback",
+      "title": "政策环境：一般环境、工作环境与政策反馈",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "pierson-policy-feedback-1993",
+        "hm-treasury-magenta-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-tools-involvement-and-choice",
+      "title": "政策工具：介入程度分类与情境选择",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-tools",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "howlett-substantive-instruments-spectrum",
+        "oecd-ria-2020",
+        "capano-howlett-mixes-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-structuring-four-stages",
+      "title": "政策问题构建四阶段：从情境到正式问题",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "dunn-problem-structuring-ippa",
+        "rochefort-cobb-problem-1994"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-diagnosis-and-review",
+      "title": "政策问题论证与诊断误差",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "dunn-problem-structuring-ippa",
+        "rochefort-cobb-problem-1994"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-agenda-triggers-and-barriers",
+      "title": "议程触发机制与进入障碍",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "birkland-focusing-events-1998",
+        "cobb-ross-ross-agenda-1976",
+        "kingdon-agendas-2014"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-types-dunn-lowi",
+      "title": "政策问题类型：成因框架、政策类型与问题结构",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "lowi-four-systems-1972",
+        "dunn-problem-structuring-ippa",
+        "dunn-policy-analysis-sixth"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-and-agenda-case-practice",
+      "title": "问题构建与议程进入：20分综合练习",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "dunn-policy-analysis-sixth",
+        "lowi-four-systems-1972",
+        "cobb-ross-ross-agenda-1976"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-subsystems",
+      "title": "公共决策体制：五个子系统与责任分工",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "oecd-participation-guidelines-2022",
+        "oecd-ria-2020",
+        "major-administrative-decisions-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-voting-rules",
+      "title": "公共决策择案：一致、相对多数与绝对多数",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "arrow-social-choice-lecture-1972",
+        "pairwise-voting-evidence"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-planning-principles-and-options",
+      "title": "政策方案规划：原则、研究途径与备选设计",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "oecd-ria-2020"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-legalization-and-legislation",
+      "title": "政策合法化与法律化：认可、合规和规范层级",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "legislation-law-prc-2023",
+        "major-administrative-decisions-2019"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-planning-and-choice-case-practice",
+      "title": "方案规划、择案与合法化：20分综合练习",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "arrow-social-choice-lecture-1972",
+        "legislation-law-prc-2023"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-implementation-smith-edwards",
+      "title": "史密斯与爱德华：两种政策执行模型",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "smith-policy-implementation-1973",
+        "edwards-implementing-public-policy-1980"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-implementation-conditions-and-coordination",
+      "title": "组织间执行条件：范米特／范霍恩与萨巴蒂尔／马兹曼尼安",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "van-meter-van-horn-implementation-1975",
+        "sabatier-mazmanian-framework-1980",
+        "sabatier-implementation-1986"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-implementation-adaptation-and-cycle",
+      "title": "政策执行的相互调适与循环反馈",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "mclaughlin-mutual-adaptation-1976",
+        "rein-rabinovitz-implementation-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-implementation-games-and-handoffs",
+      "title": "执行博弈与联合行动：从交接找到障碍",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bardach-implementation-game-1977",
+        "pressman-wildavsky-joint-action",
+        "sabatier-implementation-1986"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-implementation-chapter-case-practice",
+      "title": "政策执行与纠偏：20分综合练习",
+      "level": "核心",
+      "module": "policy",
+      "topic": "implementation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "smith-policy-implementation-1973",
+        "edwards-implementing-public-policy-1980",
+        "van-meter-van-horn-implementation-1975",
+        "rein-rabinovitz-implementation-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-model-assumptions-and-validation",
+      "title": "政策分析模型：从假设到检验",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "uk-aqua-book-2025",
+        "openstax-operationalization"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-linear-programming-resource-allocation",
+      "title": "线性规划：变量、约束与整数解",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "mit-linear-program-geometry",
+        "uk-aqua-book-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-game-theory-saddle-point",
+      "title": "零和对策：收益矩阵、纯策略鞍点与无鞍点",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "mit-zero-sum-finite-games",
+        "mit-decision-theory-expected-utility"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-analysis-facts-values-norms-feasibility",
+      "title": "政策分析的四个问题：事实、价值、规范与可行性",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "uk-aqua-book-2025",
+        "hm-treasury-green-book-2026"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-interest-distribution-framework",
+      "title": "利益分析：谁受益、谁承担成本",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026",
+        "oecd-participation-guidelines-2022"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-systems-analysis-boundaries-feedback",
+      "title": "系统分析：边界、反馈与局部最优",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "uk-systems-thinking-toolkit",
+        "uk-aqua-book-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-unknown-probabilities",
+      "title": "未知概率决策：保底、乐观与最小最大后悔",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "cornell-minimax-regret",
+        "mit-decision-theory-expected-utility"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-methods-chapter-case-practice",
+      "title": "政策分析方法论：20分综合练习",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "uk-systems-thinking-toolkit",
+        "uk-aqua-book-2025",
+        "cornell-minimax-regret"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-statistics-descriptive",
+      "title": "描述统计：均值、中位数与分母",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "statcan-survey-questions",
+        "statcan-probability"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-statistics-inference",
+      "title": "统计推断：样本比例、标准误与置信区间",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-confidence-proportion",
+        "statcan-probability",
+        "statcan-nonprobability"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-statistics-hypothesis",
+      "title": "假设检验：p值、两类错误与政策意义",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-hypothesis-testing",
+        "asa-p-value-2016",
+        "psu-type-errors"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-regression-interpretation",
+      "title": "线性回归：斜率、拟合度与因果边界",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "psu-simple-regression",
+        "psu-multiple-regression",
+        "psu-multiple-regression-tests",
+        "worldbank-impact-handbook"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-dynamic-programming-resource-allocation",
+      "title": "动态规划：状态、行动与倒推分配",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "mit-finite-horizon-dp",
+        "mit-dp-inventory-chapter"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-nonlinear-programming-interior-optimum",
+      "title": "非线性规划：边际变化与内点最优",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "boyd-vandenberghe-convex",
+        "mit-linear-program-geometry"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-nash-equilibrium-best-responses",
+      "title": "纳什均衡：最佳回应与部门协作",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "nash-equilibrium-1950",
+        "mit-zero-sum-finite-games"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-input-output-leontief",
+      "title": "投入产出分析：直接消耗与产业传导",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bea-io-requirements",
+        "bea-io-manual",
+        "oecd-input-output-tables"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-interrupted-time-series-level-trend-pulse",
+      "title": "中断时间序列：水平、趋势与一次性冲击",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bernal-its-tutorial",
+        "bernal-its-controls"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-political-models-institutions-elites-groups",
+      "title": "政策的政治分析：制度、精英与集团模型",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "march-olsen-new-institutionalism-1984",
+        "hall-taylor-three-institutionalisms",
+        "dahl-ruling-elite-1958",
+        "bentley-process-government-1908",
+        "truman-governmental-process-1951"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-rational-models-comparison",
+      "title": "政策择案：完全理性、有限理性与渐进比较",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon-rational-choice-1955",
+        "simon-nobel-1978",
+        "lindblom-incremental-1959"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-stages-heuristic-feedback",
+      "title": "政策阶段框架：过程定位、反馈与因果边界",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "sabatier-better-policy-process-theories",
+        "sabatier-stages-heuristic-2007",
+        "sabatier-acf-1988"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-problem-field-analogy-diagnosis",
+      "title": "政策问题构建：观察、类比与原因检验",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "dunn-problem-structuring-ippa",
+        "uk-systems-thinking-toolkit",
+        "uk-aqua-book-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-fuzzy-comprehensive-evaluation",
+      "title": "模糊综合评价：等级隶属度与加权合成",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "zadeh-fuzzy-sets-1965",
+        "uk-aqua-book-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-forecast-delphi-cross-impact",
+      "title": "直观判断预测：德尔菲法与交叉影响矩阵",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "dalkey-helmer-delphi-1963",
+        "gordon-hayward-cross-impact-1968",
+        "uk-aqua-book-2025"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-process-analysis-chapter-case-practice",
+      "title": "政策分析方法综合练习：从预测到效果判断（20分）",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "dalkey-helmer-delphi-1963",
+        "hm-treasury-green-book-2026",
+        "world-bank-impact-evaluation-in-practice"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-models-chapter-comparison-practice",
+      "title": "政策模型综合练习：比较四种政策变迁解释（20分）",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "sabatier-acf-1988",
+        "baumgartner-jones-agenda-1991",
+        "shipan-volden-diffusion-2008",
+        "dahl-ruling-elite-1958"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-termination-forms-decomposition",
+      "title": "政策终结的形式：废止、替代、合并、分解与缩减",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-change",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "bardach-termination-1976",
+        "deleon-termination-1977"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-system-easton-inputs-outputs",
+      "title": "伊斯顿系统决策模型：需求、支持与政策输出",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "easton-political-systems-1957",
+        "gao-evaluation-2021"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-style-anticipation-consensus",
+      "title": "政策风格：预期或反应、协商或主导",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "richardson-policy-styles-1982",
+        "howlett-tosun-policy-styles-2017"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-brainstorming-options",
+      "title": "头脑风暴法：先发散提案，再按标准筛选",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "ideo-u-brainstorming",
+        "design-council-framework-innovation"
+      ],
+      "gap": "持续核对与完善"
+    }
+  ],
+  "roadmap": [
+    {
+      "domain": "行政学原理",
+      "module": "admin",
+      "sourceBasis": [
+        "pku2017",
+        "jnu2026"
+      ],
+      "topics": [
+        {
+          "title": "行政环境",
+          "existingIds": [
+            "admin-ecology-riggs",
+            "contingency-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政职能演变",
+          "existingIds": [
+            "gov-function-1",
+            "gov-function-2",
+            "gov-function-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政权力与合法性",
+          "existingIds": [
+            "public-interest-1",
+            "value-fact-2",
+            "history-hobbes-locke-authorization"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政领导",
+          "existingIds": [
+            "leadership-traits-behavior-context",
+            "leadership-decision-participation"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政决策与执行",
+          "existingIds": [
+            "policy-decision-1",
+            "implementation-1",
+            "implementation-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政效率",
+          "existingIds": [
+            "value-fact-3",
+            "public-interest-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "中外思想史与理论",
+      "module": "admin",
+      "sourceBasis": [
+        "jnu2026"
+      ],
+      "topics": [
+        {
+          "title": "中国传统行政思想",
+          "existingIds": [
+            "history-confucius-virtue-ritual",
+            "history-mencius-livelihood",
+            "history-hanfeizi-name-performance"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "威尔逊行政研究",
+          "existingIds": [
+            "history-wilson-1887",
+            "paradigms-1",
+            "history-goodnow-expression-execution"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "韦伯法理权威",
+          "existingIds": [
+            "bureaucracy-1",
+            "bureaucracy-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "泰勒科学管理",
+          "existingIds": [
+            "history-taylor-scientific"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "古利克与厄威克",
+          "existingIds": [
+            "history-gulick-urwick"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "福莱特组织思想",
+          "existingIds": [
+            "history-follett-integration"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "西蒙行政行为",
+          "existingIds": [
+            "value-fact-1",
+            "value-fact-2",
+            "bounded-rationality-1",
+            "bounded-rationality-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "沃尔多行政价值",
+          "existingIds": [
+            "value-fact-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "新公共行政",
+          "existingIds": [
+            "paradigms-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "新公共管理",
+          "existingIds": [
+            "paradigms-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "新公共服务",
+          "existingIds": [
+            "paradigms-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "公共政策",
+      "module": "policy",
+      "sourceBasis": [
+        "gxu2027",
+        "ustc2026",
+        "jnu2026"
+      ],
+      "topics": [
+        {
+          "title": "政策问题建构",
+          "existingIds": [
+            "policy-problem-1"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "议程设置",
+          "existingIds": [
+            "policy-problem-2",
+            "policy-problem-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "政策决策模型",
+          "existingIds": [
+            "policy-decision-1",
+            "policy-decision-2",
+            "policy-decision-3",
+            "policy-decision-tree-rollback",
+            "policy-forecast-trend-backtest",
+            "policy-forecast-interval-scenarios",
+            "policy-appraisal-feasibility-screen",
+            "policy-decision-expected-utility-risk"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "政策工具",
+          "existingIds": [
+            "policy-tools-1",
+            "policy-tools-2",
+            "policy-tools-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "执行模型与街头官僚",
+          "existingIds": [
+            "implementation-1",
+            "implementation-2",
+            "implementation-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "政策评估与因果归因",
+          "existingIds": [
+            "evaluation-1",
+            "evaluation-2",
+            "evaluation-3",
+            "policy-evaluation-sensitivity-switching"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "政策变迁与终结",
+          "existingIds": [
+            "policy-change-1",
+            "policy-change-2",
+            "policy-change-3",
+            "policy-change-advocacy-coalitions",
+            "policy-change-diffusion-mechanisms"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "公共经济与财政",
+      "module": "finance",
+      "sourceBasis": [
+        "pku2017",
+        "gxu2027"
+      ],
+      "topics": [
+        {
+          "title": "公共产品与集体行动",
+          "existingIds": [
+            "public-goods-1",
+            "public-goods-2",
+            "public-goods-3",
+            "public-goods-median-voter"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "外部性",
+          "existingIds": [
+            "externalities-1",
+            "externalities-2",
+            "externalities-3",
+            "gov-function-1"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "信息不对称",
+          "existingIds": [
+            "gov-function-1"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "财政收入与税收",
+          "existingIds": [
+            "finance-role-1",
+            "budget-1",
+            "finance-tax-incidence"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "财政支出",
+          "existingIds": [
+            "finance-role-1",
+            "budget-1",
+            "budget-3",
+            "finance-welfare-criteria",
+            "finance-balanced-budget-multiplier"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "预算与绩效",
+          "existingIds": [
+            "budget-1",
+            "budget-2",
+            "budget-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "财政分权与转移支付",
+          "existingIds": [
+            "fiscal-relations-1",
+            "fiscal-relations-2",
+            "fiscal-relations-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "土地财政",
+          "existingIds": [
+            "finance-land-revenue"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "地方债",
+          "existingIds": [
+            "debt-1",
+            "debt-2",
+            "debt-3",
+            "finance-land-revenue",
+            "finance-local-government-debt"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "国企改革",
+          "existingIds": [
+            "soe-reform-governance"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "组织理论与行为",
+      "module": "org",
+      "sourceBasis": [
+        "gxu2027",
+        "jnu2026"
+      ],
+      "topics": [
+        {
+          "title": "组织结构与协调",
+          "existingIds": [
+            "org-structure-1",
+            "org-structure-2",
+            "org-structure-3",
+            "history-fayol-management-coordination",
+            "history-barnard-cooperation-authority",
+            "history-hawthorne-illumination-relay"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "权变与组织环境",
+          "existingIds": [
+            "contingency-1",
+            "contingency-2",
+            "contingency-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "组织决策与有限理性",
+          "existingIds": [
+            "bounded-rationality-1",
+            "bounded-rationality-2",
+            "bounded-rationality-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "领导理论",
+          "existingIds": [
+            "leadership-traits-behavior-context"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "组织激励",
+          "existingIds": [
+            "motivation-1",
+            "motivation-2",
+            "motivation-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "组织文化与冲突",
+          "existingIds": [
+            "org-culture-1",
+            "org-culture-2",
+            "org-culture-3",
+            "history-follett-integration",
+            "history-hawthorne-informal-norms"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "新制度主义",
+          "existingIds": [
+            "institutions-1",
+            "institutions-2",
+            "institutions-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "公共部门人力资源",
+      "module": "hr",
+      "sourceBasis": [
+        "gxu2027",
+        "jnu2026"
+      ],
+      "topics": [
+        {
+          "title": "职位分类与规划",
+          "existingIds": [
+            "hr-planning-1",
+            "hr-planning-2",
+            "hr-planning-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "招录任用",
+          "existingIds": [
+            "recruitment-1",
+            "recruitment-2",
+            "recruitment-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "培训发展",
+          "existingIds": [
+            "training-1",
+            "training-2",
+            "training-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "绩效考核",
+          "existingIds": [
+            "performance-1",
+            "performance-2",
+            "performance-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "薪酬保障",
+          "existingIds": [
+            "compensation-1",
+            "compensation-2",
+            "compensation-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "公务员制度",
+          "existingIds": [
+            "public-hr-civil-service-framework"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "人事伦理",
+          "existingIds": [
+            "ethics-1",
+            "ethics-2",
+            "ethics-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "政府治理与改革",
+      "module": "gov",
+      "sourceBasis": [
+        "gxu2027",
+        "ustc2026"
+      ],
+      "topics": [
+        {
+          "title": "政府改革",
+          "existingIds": [
+            "governance-reform-goals-evidence"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "政府间关系",
+          "existingIds": [
+            "decentralization-1",
+            "decentralization-2",
+            "fiscal-relations-1"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "央地事权财权",
+          "existingIds": [
+            "fiscal-relations-1",
+            "fiscal-relations-2",
+            "decentralization-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "基层治理",
+          "existingIds": [
+            "decentralization-2",
+            "decentralization-3",
+            "participation-1"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "政府与市场",
+          "existingIds": [
+            "gov-function-1",
+            "gov-function-2",
+            "gov-function-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "社会组织与第三部门",
+          "existingIds": [
+            "governance-third-sector"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "协同治理",
+          "existingIds": [
+            "collaboration-1",
+            "collaboration-2",
+            "collaboration-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "伦理法治与监督",
+      "module": "gov",
+      "sourceBasis": [
+        "pku2017",
+        "gxu2027",
+        "jnu2026"
+      ],
+      "topics": [
+        {
+          "title": "公共权力正当性",
+          "existingIds": [
+            "public-interest-1",
+            "value-fact-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政伦理",
+          "existingIds": [
+            "ethics-1",
+            "ethics-2",
+            "ethics-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政责任与问责",
+          "existingIds": [
+            "accountability-1",
+            "accountability-2",
+            "accountability-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "依法行政",
+          "existingIds": [
+            "rule-law-1",
+            "rule-law-2",
+            "rule-law-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政程序",
+          "existingIds": [
+            "rule-law-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "行政监督",
+          "existingIds": [
+            "accountability-1",
+            "accountability-3",
+            "history-bentham-mill-evaluation-oversight"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "权利救济",
+          "existingIds": [
+            "admin-remedies-review-litigation"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "数字公共服务与危机",
+      "module": "gov",
+      "sourceBasis": [
+        "jnu2026"
+      ],
+      "topics": [
+        {
+          "title": "数字政府",
+          "existingIds": [
+            "digital-1",
+            "digital-2",
+            "digital-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "数字鸿沟与无障碍",
+          "existingIds": [
+            "digital-2",
+            "digital-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "公共服务供给",
+          "existingIds": [
+            "gov-function-3",
+            "public-goods-1",
+            "collaboration-1"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "社会治理",
+          "existingIds": [
+            "participation-1",
+            "participation-2",
+            "participation-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "公共危机管理",
+          "existingIds": [
+            "emergency-cycle-rights",
+            "emergency-risk-communication"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "风险沟通",
+          "existingIds": [
+            "emergency-risk-communication"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "应急权力与权利",
+          "existingIds": [
+            "emergency-cycle-rights"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    },
+    {
+      "domain": "政治管理与研究方法",
+      "module": "org",
+      "sourceBasis": [
+        "gxu2027",
+        "jnuMethods"
+      ],
+      "topics": [
+        {
+          "title": "国家与政府",
+          "existingIds": [
+            "politics-state-government"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "民主与代表",
+          "existingIds": [
+            "politics-democracy-representation",
+            "history-montesquieu-rousseau-limits",
+            "history-bentham-mill-evaluation-oversight"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "政治参与",
+          "existingIds": [
+            "participation-1",
+            "participation-2",
+            "participation-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "管理职能",
+          "existingIds": [
+            "history-gulick-urwick",
+            "history-fayol-management-coordination"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "领导与决策",
+          "existingIds": [
+            "leadership-decision-participation"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "研究设计",
+          "existingIds": [
+            "evaluation-2",
+            "methods-operationalization",
+            "methods-sampling"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "概念操作化",
+          "existingIds": [
+            "methods-operationalization"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "抽样",
+          "existingIds": [
+            "methods-sampling"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "信度效度",
+          "existingIds": [
+            "recruitment-1"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "定性定量方法",
+          "existingIds": [
+            "methods-qualitative-quantitative",
+            "evaluation-3"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "因果推断",
+          "existingIds": [
+            "evaluation-2"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
+          "title": "研究伦理",
+          "existingIds": [
+            "research-ethics-participants"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        }
+      ]
+    }
+  ]
+}
