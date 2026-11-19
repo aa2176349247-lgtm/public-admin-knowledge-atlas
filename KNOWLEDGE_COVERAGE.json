@@ -3172,6 +3172,19 @@
         "lowi-four-systems-1972"
       ],
       "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-decision-objectives-and-means",
+      "title": "公共部门的决策目标：结果、指标、约束与手段",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-decision",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "hm-treasury-green-book-2026"
+      ],
+      "gap": "持续核对与完善"
     }
   ],
   "roadmap": [
@@ -3229,6 +3242,7 @@
           "title": "行政决策与执行",
           "existingIds": [
             "policy-decision-1",
+            "policy-decision-objectives-and-means",
             "implementation-1",
             "implementation-2"
           ],
@@ -3398,6 +3412,7 @@
             "policy-decision-1",
             "policy-decision-2",
             "policy-decision-3",
+            "policy-decision-objectives-and-means",
             "policy-decision-tree-rollback",
             "policy-forecast-trend-backtest",
             "policy-forecast-interval-scenarios",

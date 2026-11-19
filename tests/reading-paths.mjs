@@ -3,4 +3,4 @@ const r=JSON.parse(fs.readFileSync('content/research.json','utf8')),context=vm.c
 const points=new Set(context.points.map(p=>p.id)),nodes=new Set(context.nodes.map(n=>n.id));
 assert.equal(r.readingPaths.length,22);assert.equal(new Set(r.readingPaths.map(p=>p.id)).size,22);let total=0;
 for(const route of r.readingPaths){assert(/^[a-z0-9-]+$/.test(route.id));assert(route.title&&route.desc&&route.question);assert(route.steps.length>=3);assert.equal(new Set(route.steps.map(s=>s.point)).size,route.steps.length);for(const step of route.steps){assert(points.has(step.point),step.point);assert(r.lessons[step.point]?.fullVerified,step.point+': curated reading requires reviewed content');assert(step.why.length>12);}assert(route.coreNodes.length);for(const id of route.coreNodes)assert(nodes.has(id),id);total+=route.steps.length;}
-assert.equal(total,196);console.log('PASS: twenty-two curated reading paths, 196 reviewed steps with reasons, unique IDs and valid core-node references');
+assert.equal(total,197);console.log('PASS: twenty-two curated reading paths, 197 reviewed steps with reasons, unique IDs and valid core-node references');
