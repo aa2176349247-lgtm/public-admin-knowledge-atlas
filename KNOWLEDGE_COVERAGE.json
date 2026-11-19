@@ -3174,6 +3174,34 @@
       "gap": "持续核对与完善"
     },
     {
+      "id": "organization-subgoals-and-coordination",
+      "title": "组织决策：专业分工与子目标偏移",
+      "level": "核心",
+      "module": "org",
+      "topic": "bounded-rationality",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon-nobel-1978",
+        "march-organizations-author-retrospective"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "organization-routines-and-exceptions",
+      "title": "组织常规与例外：何时按流程，何时重新判断",
+      "level": "进阶",
+      "module": "org",
+      "topic": "bounded-rationality",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "simon1947",
+        "simon-nobel-1978"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
       "id": "policy-decision-objectives-and-means",
       "title": "公共部门的决策目标：结果、指标、约束与手段",
       "level": "核心",
@@ -3630,7 +3658,9 @@
           "existingIds": [
             "bounded-rationality-1",
             "bounded-rationality-2",
-            "bounded-rationality-3"
+            "bounded-rationality-3",
+            "organization-subgoals-and-coordination",
+            "organization-routines-and-exceptions"
           ],
           "status": "部分映射，范围待扩充",
           "verification": "待核验",

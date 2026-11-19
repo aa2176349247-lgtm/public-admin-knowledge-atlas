@@ -2542,10 +2542,10 @@
     },
     "march-organizations-author-retrospective": {
       "title": "Organizations (1958): Author commentary",
-      "author": "James G. March",
+      "author": "Herbert A. Simon",
       "kind": "作者回顾",
       "url": "https://garfield.library.upenn.edu/classics1979/A1979HL90500001.pdf",
-      "readScope": "核对马奇对组织决策研究与组织参与的回顾。题库中的理性组织决策为教材概括。"
+      "readScope": "核对西蒙署名的1979年回顾，区分《组织》关于参与动机、组织决策的研究与后续理论。题库中的理性组织决策为教材概括。"
     }
   },
   "lessons": {
@@ -28888,6 +28888,222 @@
         "西奥多·洛伊"
       ]
     },
+    "organization-subgoals-and-coordination": {
+      "level": "核心",
+      "fullVerified": true,
+      "verifiedAt": "2026-11-19",
+      "sourceIds": [
+        "simon-nobel-1978",
+        "march-organizations-author-retrospective"
+      ],
+      "summary": "对照考研资料库的理性组织决策，以及西蒙关于子目标和专业协调的原文，解释组织何时改善判断、何时放大局部偏差。",
+      "sections": [
+        {
+          "id": "division",
+          "title": "分工怎样改变判断条件",
+          "kind": "概念边界",
+          "paragraphs": [
+            "题库第六章从分工、沟通和权力解释组织如何支持个人决策。分工让不同岗位积累信息，沟通使资料能够跨岗位使用，授权明确判断、批准和复核分别由谁负责。"
+          ]
+        },
+        {
+          "id": "subgoals",
+          "title": "子目标为何会发生偏移",
+          "kind": "比较与方法",
+          "paragraphs": [
+            "总体服务质量往往难以直接用于具体选择，部门会把它落实为可操作的指标。不同岗位熟悉的因果线索不同，对同一目标可以形成不同判断，即使都认同公共服务的总体方向。"
+          ],
+          "table": {
+            "caption": "社区服务中心的三个观察层次",
+            "headers": [
+              "层次",
+              "观察重点",
+              "可能遗漏"
+            ],
+            "rows": [
+              [
+                "窗口",
+                "首次受理时间",
+                "居民离开窗口后的等待"
+              ],
+              [
+                "复核",
+                "错审和漏审",
+                "反复补交的时间与成本"
+              ],
+              [
+                "完整办理",
+                "办成率、用时和往返次数",
+                "分人群可达性仍需单列"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "coordination",
+          "title": "怎样核对两部门的解释",
+          "kind": "应用",
+          "paragraphs": [
+            "保留各部门口径，同时用同一批申请串联受理、退回、复核和办结。遇到两个部门分别达标而整体体验变差，先检查指标口径与工作转移，再比较具体流程选项。"
+          ]
+        },
+        {
+          "id": "limits",
+          "title": "解释协作困难时应保留什么边界",
+          "kind": "误差与解释",
+          "paragraphs": [
+            "西蒙在获奖演讲中回顾了公共游乐设施管理的跨部门分歧，指出部门经验与工作环境会影响对下级目标的理解。社区服务中心是站内原创情境，分析时仍应考虑授权、服务公平与资料质量。"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "q": "两个部门都达标，为何不能直接判定整体改善？",
+          "a": "部门指标只观察各自环节。需沿同一批个案核对办结、等待、往返和分组影响。"
+        },
+        {
+          "q": "怎样把“部门视角不同”变成可检验的解释？",
+          "a": "比较同一事项的流程记录、取用证据和备选方案，核查不同岗位是否因掌握的信息不同而优先改动不同环节。"
+        }
+      ],
+      "relations": [
+        {
+          "type": "前置",
+          "target": "bounded-rationality-2",
+          "why": "先区分组织提供的事实信息和判断标准，再分析岗位如何选用子目标。"
+        },
+        {
+          "type": "应用",
+          "target": "policy-decision-objectives-and-means",
+          "why": "通过总体结果、部门指标和具体手段三层关系检查目标偏移。"
+        },
+        {
+          "type": "对照",
+          "target": "policy-rational-models-comparison",
+          "why": "组织如何分配信息与权力，和决策者何时停止搜索分别分析。"
+        }
+      ],
+      "aliases": [
+        "理性组织决策",
+        "组织子目标",
+        "子目标认同",
+        "跨部门协调"
+      ],
+      "scholars": [
+        "赫伯特·西蒙",
+        "詹姆斯·马奇"
+      ]
+    },
+    "organization-routines-and-exceptions": {
+      "level": "进阶",
+      "fullVerified": true,
+      "verifiedAt": "2026-11-19",
+      "sourceIds": [
+        "simon1947",
+        "simon-nobel-1978"
+      ],
+      "summary": "把程序化和非程序化决策落实到同一事项的不同环节，用触发条件、授权和反馈判断常规何时仍然适用。",
+      "sections": [
+        {
+          "id": "scope",
+          "title": "先确定常规的适用条件",
+          "kind": "概念边界",
+          "paragraphs": [
+            "复用流程依赖案情与既有规则适用的条件相符。遇到异常时，先辨认真正变化的是哪些事实、规则环境或必要资料，再决定需要重新判断的范围。"
+          ]
+        },
+        {
+          "id": "handoff",
+          "title": "同一案件怎样分段处理",
+          "kind": "比较与方法",
+          "paragraphs": [
+            "某住房补助的日常审查使用固定清单。一类必要外部数据暂时不可得时，通常仍可完成收件、记录和其他独立验证，再依据规定处理受影响的判断。"
+          ],
+          "table": {
+            "caption": "从常规受理到例外复核",
+            "headers": [
+              "环节",
+              "处理",
+              "需要留下的记录"
+            ],
+            "rows": [
+              [
+                "可继续的步骤",
+                "收件、独立材料核对",
+                "收件时间与所需文件"
+              ],
+              [
+                "例外触发",
+                "必要数据中断或证据冲突",
+                "触发原因及影响范围"
+              ],
+              [
+                "授权复核",
+                "按规定交给有决定权的岗位",
+                "判断依据、期限和告知情况"
+              ],
+              [
+                "反馈改进",
+                "复查频发例外及后果",
+                "误判、补件、等待和最终处理结果"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "search",
+          "title": "重新判断以前如何缩小搜寻范围",
+          "kind": "应用",
+          "paragraphs": [
+            "先列出受影响的资格条件及能够合法核验的替代资料。比较转人工、等待数据恢复和依规补证的影响，同时记录可接受的解决标准及重新评估的时点。"
+          ]
+        },
+        {
+          "id": "revision",
+          "title": "例外反复出现时如何改流程",
+          "kind": "误差与解释",
+          "paragraphs": [
+            "应先确定异常是否同源、处理标准是否一致，再评估把例外纳入新常规会怎样影响准确性与可达性。原来的流程可能仍适用于其他案件，新流程也需要经过授权和复核。"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "q": "遇到一个无法自动核验的事实，收件是否也必须停止？",
+          "a": "先判断收件步骤是否依赖同一事实。可独立完成的部分按现有规则办理，并明确后续复核责任。"
+        },
+        {
+          "q": "某类例外每周出现，能直接加入系统规则吗？",
+          "a": "先查原因、授权与可用证据，模拟新规则对不同申请人的影响，再依程序决定是否更新。"
+        }
+      ],
+      "relations": [
+        {
+          "type": "前置",
+          "target": "bounded-rationality-3",
+          "why": "先掌握反复性与既有程序两项判断依据，再划分同一案件中的流程与例外。"
+        },
+        {
+          "type": "应用",
+          "target": "organization-subgoals-and-coordination",
+          "why": "用授权、沟通和反馈把分散的个案判断重新接到组织目标。"
+        },
+        {
+          "type": "对照",
+          "target": "policy-decision-subsystems",
+          "why": "案件复核角色的分配和政策方案制定的决策子系统处于不同分析层级。"
+        }
+      ],
+      "aliases": [
+        "例外处理",
+        "常规与例外",
+        "组织常规",
+        "exception handling"
+      ],
+      "scholars": [
+        "赫伯特·西蒙"
+      ]
+    },
     "policy-decision-objectives-and-means": {
       "level": "核心",
       "fullVerified": true,
@@ -29053,6 +29269,14 @@
         {
           "point": "org-structure-3",
           "why": "补上实际互动网络，检查正式设计之外的信息与进入条件。"
+        },
+        {
+          "point": "organization-subgoals-and-coordination",
+          "why": "检查不同岗位怎样定义子目标，追踪部门达标和整体结果之间的关系。"
+        },
+        {
+          "point": "organization-routines-and-exceptions",
+          "why": "用常规受理和例外复核区分可以沿用的程序与需要重新判断的事实。"
         }
       ]
     },
@@ -29499,6 +29723,10 @@
         {
           "point": "policy-rational-models-comparison",
           "why": "以同一备选比较全量选优、满意搜索和渐进调整。"
+        },
+        {
+          "point": "organization-subgoals-and-coordination",
+          "why": "用部门子目标和整体结果解释组织怎样影响实际择案。"
         },
         {
           "point": "policy-legalization-and-legislation",
@@ -30681,6 +30909,10 @@
             {
               "kind": "point",
               "id": "policy-rational-models-comparison"
+            },
+            {
+              "kind": "point",
+              "id": "organization-subgoals-and-coordination"
             },
             {
               "kind": "point",

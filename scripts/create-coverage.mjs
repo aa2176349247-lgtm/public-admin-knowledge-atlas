@@ -91,7 +91,7 @@ Object.assign(mapped,{
 '政策变迁与终结':['policy-change-1','policy-change-2','policy-change-3','policy-change-advocacy-coalitions','policy-change-diffusion-mechanisms'],
 '预算与绩效':['budget-1','budget-2','budget-3'],
 '财政分权与转移支付':['fiscal-relations-1','fiscal-relations-2','fiscal-relations-3'],
-'组织决策与有限理性':['bounded-rationality-1','bounded-rationality-2','bounded-rationality-3'],
+'组织决策与有限理性':['bounded-rationality-1','bounded-rationality-2','bounded-rationality-3','organization-subgoals-and-coordination','organization-routines-and-exceptions'],
 '组织激励':['motivation-1','motivation-2','motivation-3'],
 '绩效考核':['performance-1','performance-2','performance-3'],
 '薪酬保障':['compensation-1','compensation-2','compensation-3'],
