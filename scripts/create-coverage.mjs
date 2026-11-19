@@ -11,7 +11,7 @@ const topics=[
 ['政府治理与改革','gov','政府改革|政府间关系|央地事权财权|基层治理|政府与市场|社会组织与第三部门|协同治理'],
 ['伦理法治与监督','gov','公共权力正当性|行政伦理|行政责任与问责|依法行政|行政程序|行政监督|权利救济'],
 ['数字公共服务与危机','gov','数字政府|数字鸿沟与无障碍|公共服务供给|社会治理|公共危机管理|风险沟通|应急权力与权利'],
-['政治管理与研究方法','org','国家与政府|民主与代表|政治参与|管理职能|领导与决策|研究设计|概念操作化|抽样|信度效度|定性定量方法|因果推断|研究伦理']];
+['政治管理与研究方法','org','国家与政府|民主与代表|政治参与|管理职能|领导与决策|研究设计|概念操作化|测量层次|抽样|信度效度|定性定量方法|因果推断|研究伦理']];
 const existing=c.data.MICRO_POINTS.map(p=>({id:p.id,title:p.title,level:research.lessons[p.id]?.level||'待分级',module:c.data.NODES.find(n=>n.id===p.node).m,topic:p.node,status:'已编写',verification:research.lessons[p.id]?.fullVerified?'正文与专题按标注范围核验':research.lessons[p.id]?'专题补充已核验，原有部分待逐句核验':'待核验',sources:research.lessons[p.id]?.sourceIds||[],gap:research.lessons[p.id]?.fullVerified?'持续核对与完善':research.lessons[p.id]?'原有部分逐句核验':'逐条核验并补充来源'}));
 // Explicit manual mappings show partial coverage; absence is not proof of an unwritten topic.
 const mapped={
@@ -65,6 +65,7 @@ Object.assign(mapped,{
 '应急权力与权利':['emergency-cycle-rights'],
 '研究设计':['evaluation-2','methods-operationalization','methods-sampling'],
 '概念操作化':['methods-operationalization'],
+'测量层次':['methods-measurement-levels','methods-access-survey-case-practice'],
 '抽样':['methods-sampling'],
 '组织结构与协调':['org-structure-1','org-structure-2','org-structure-3','history-fayol-management-coordination','history-barnard-cooperation-authority','history-hawthorne-illumination-relay'],
 '权变与组织环境':['contingency-1','contingency-2','contingency-3'],
@@ -97,7 +98,7 @@ Object.assign(mapped,{
 '薪酬保障':['compensation-1','compensation-2','compensation-3'],
 '数字鸿沟与无障碍':['digital-2','digital-3'],
 '因果推断':['evaluation-2'],
-'信度效度':['recruitment-1']
+'信度效度':['methods-operationalization','methods-reliability-validity-evidence','methods-access-survey-case-practice','recruitment-1']
 });
 const basis={'行政学原理':['pku2017','jnu2026'],'中外思想史与理论':['jnu2026'],'公共政策':['gxu2027','ustc2026','jnu2026'],'公共经济与财政':['pku2017','gxu2027'],'组织理论与行为':['gxu2027','jnu2026'],'公共部门人力资源':['gxu2027','jnu2026'],'政府治理与改革':['gxu2027','ustc2026'],'伦理法治与监督':['pku2017','gxu2027','jnu2026'],'数字公共服务与危机':['jnu2026'],'政治管理与研究方法':['gxu2027','jnuMethods']};
 const roadmap=topics.map(([domain,module,list])=>({domain,module,sourceBasis:basis[domain],topics:list.split('|').map(title=>({title,existingIds:mapped[title]||[],status:mapped[title]?'部分映射，范围待扩充':'待映射与逐项审计',verification:'待核验',gap:mapped[title]?'仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验':'核对旧条目是否覆盖；补充细分概念和专门来源'}))}));

@@ -1618,6 +1618,49 @@
       "gap": "持续核对与完善"
     },
     {
+      "id": "methods-measurement-levels",
+      "title": "测量层次：定类、定序、定距与定比",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "stevens-scales-1946",
+        "openstax-levels-measurement"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "methods-reliability-validity-evidence",
+      "title": "信度与效度：测量如何重复，分数能说明什么",
+      "level": "核心",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "testing-standards-2014",
+        "openstax-operationalization"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "methods-access-survey-case-practice",
+      "title": "公共服务可达性调查：20 分综合练习",
+      "level": "进阶",
+      "module": "policy",
+      "topic": "evaluation",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "openstax-operationalization",
+        "testing-standards-2014",
+        "statcan-probability"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
       "id": "methods-sampling",
       "title": "抽样、代表性与调查误差",
       "level": "核心",
@@ -4122,6 +4165,16 @@
           "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
         },
         {
+          "title": "测量层次",
+          "existingIds": [
+            "methods-measurement-levels",
+            "methods-access-survey-case-practice"
+          ],
+          "status": "部分映射，范围待扩充",
+          "verification": "待核验",
+          "gap": "仅列已识别关联，不代表专题覆盖完整；旧正文仍须核验"
+        },
+        {
           "title": "抽样",
           "existingIds": [
             "methods-sampling"
@@ -4133,6 +4186,9 @@
         {
           "title": "信度效度",
           "existingIds": [
+            "methods-operationalization",
+            "methods-reliability-validity-evidence",
+            "methods-access-survey-case-practice",
             "recruitment-1"
           ],
           "status": "部分映射，范围待扩充",

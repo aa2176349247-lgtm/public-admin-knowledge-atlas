@@ -1,6 +1,31 @@
 const RESEARCH = {
   "verifiedAt": "2026-11-02",
   "sources": {
+    "stevens-scales-1946": {
+      "title": "On the Theory of Scales of Measurement",
+      "author": "S. S. Stevens",
+      "year": 1946,
+      "kind": "原始论文",
+      "url": "https://doi.org/10.1126/science.103.2684.677",
+      "readUrl": "https://faculty.ucmerced.edu/jvevea/classes/290_21/readings/week%208/Stevens%201946.pdf",
+      "readScope": "核对《Science》第103卷677—680页的尺度定义与表1，重点检查不同重编码条件下哪些比较有意义。"
+    },
+    "openstax-levels-measurement": {
+      "title": "Introductory Business Statistics 2e — Levels of Measurement",
+      "author": "OpenStax",
+      "kind": "开放教材",
+      "url": "https://openstax.org/books/introductory-business-statistics-2e/pages/1-3-levels-of-measurement",
+      "readScope": "核对1.3节的四类尺度及温度差值与倍数例。站内改用公共服务记录并区分原始变量和分档变量。"
+    },
+    "testing-standards-2014": {
+      "title": "Standards for Educational and Psychological Testing (2014)",
+      "author": "AERA；APA；NCME",
+      "year": 2014,
+      "kind": "联合发布标准",
+      "url": "https://www.testingstandards.net/open-access-files.html",
+      "readUrl": "https://www.testingstandards.net/uploads/7/6/6/4/76643089/standards_2014edition.pdf",
+      "readScope": "核读2014英文版第1章关于拟议用途和效度证据、第2章关于一致性和精度的相关段落。公共服务调查是对这些区分的教学应用。"
+    },
     "nps2000": {
       "title": "The New Public Service: Serving Rather than Steering",
       "author": "Robert B. Denhardt; Janet Vinzant Denhardt",
@@ -2549,6 +2574,353 @@ const RESEARCH = {
     }
   },
   "lessons": {
+    "methods-measurement-levels": {
+      "level": "核心",
+      "fullVerified": true,
+      "verifiedAt": "2026-11-19",
+      "sourceIds": [
+        "stevens-scales-1946",
+        "openstax-levels-measurement"
+      ],
+      "summary": "依据《社会研究方法教程》的四级测量，结合原始记录与分组编码判断可以使用什么比较和描述。",
+      "sections": [
+        {
+          "id": "logic",
+          "title": "按取值规则识别四级测量",
+          "kind": "概念边界",
+          "paragraphs": [
+            "同一列数字可能是编号、等级或数量。判别时先问保留了什么信息，再决定比较类别是否相同、次序如何、差距多大或能否谈倍数。"
+          ]
+        },
+        {
+          "id": "scales",
+          "title": "用同一份办事记录比较四种尺度",
+          "kind": "比较与方法",
+          "paragraphs": [
+            "表中的年份以年为单位记录，使用差值衡量相隔年份。耗时从进入队列开始计，到首次受理结束，零表示这个阶段无等待。"
+          ],
+          "table": {
+            "caption": "四级测量与公共服务数据",
+            "headers": [
+              "尺度",
+              "本题记录",
+              "可以怎样解释"
+            ],
+            "rows": [
+              [
+                "定类",
+                "1＝窗口、2＝电话、3＝网上",
+                "比较类别是否相同，统计频数与占比"
+              ],
+              [
+                "定序",
+                "易用程度由很难到很易五级",
+                "排序及中位等级，保留各级占比"
+              ],
+              [
+                "定距",
+                "网点启用年份，按整年记录",
+                "2024 与 2020 相差 4 年，年份的倍数无相应含义"
+              ],
+              [
+                "定比",
+                "原始等候时长，分钟",
+                "同口径下 12 分钟是 6 分钟的 2 倍"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "recoding",
+          "title": "原始分钟数分档后还剩什么",
+          "kind": "应用",
+          "paragraphs": [
+            "把每人的等候时长分为不满五分钟、五至不足十五分钟、十五分钟及以上，再只保留档位，就无法从其档位恢复每个精确时长。可报告各档频数和占比，估计分组均值需另说明假设。"
+          ]
+        },
+        {
+          "id": "report",
+          "title": "解释等级平均值需要什么依据",
+          "kind": "误差与解释",
+          "paragraphs": [
+            "同一道五级满意题显示程度次序，未说明每相邻一级的感受差距。因此可先报告分布、中位等级以及事先定义的满意占比。若分析有依据的多题量表，应交代评分构建与模型假设。"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "q": "把窗口、电话、网上依次编码为 1、2、3，能解释平均值吗？",
+          "a": "这些编号只是类别标签。换一套编码仍代表同样的渠道，适合报告频数、占比或众数。"
+        },
+        {
+          "q": "等候时长由实际分钟改为短、中、长，层次如何变？",
+          "a": "原始时长是定比，保留档位后是定序。此时档号的差值与倍数没有原时长含义。"
+        },
+        {
+          "q": "为什么可以比较两个启用年份相差几个月或几年，却不能说年份是两倍？",
+          "a": "这里的时间单位可以用于描述间隔，但纪年零点是约定。按年记录时只具备年级分辨率，若要比较月份需有更精细的日期。"
+        }
+      ],
+      "relations": [
+        {
+          "type": "前置",
+          "target": "methods-operationalization",
+          "why": "先明确概念、观测单位和记录规则，再判断尺度。"
+        },
+        {
+          "type": "应用",
+          "target": "policy-statistics-descriptive",
+          "why": "按记录层次选择频数、中位数或其他有意义的概括。"
+        },
+        {
+          "type": "对照",
+          "target": "methods-sampling",
+          "why": "测量层次决定记录含义，抽样设计决定推断对象。"
+        }
+      ],
+      "aliases": [
+        "测量层次",
+        "定类测量",
+        "定序测量",
+        "定距测量",
+        "定比测量",
+        "测量尺度",
+        "ordinal scale",
+        "ratio scale"
+      ],
+      "scholars": [
+        "S. S. Stevens",
+        "史蒂文斯"
+      ]
+    },
+    "methods-reliability-validity-evidence": {
+      "level": "核心",
+      "fullVerified": true,
+      "verifiedAt": "2026-11-19",
+      "sourceIds": [
+        "testing-standards-2014",
+        "openstax-operationalization"
+      ],
+      "summary": "按考研资料的重测、复本、折半及效度题型，区分误差来源、证据类型和分数用途。",
+      "sections": [
+        {
+          "id": "distinction",
+          "title": "稳定的结果能说明什么",
+          "kind": "概念边界",
+          "paragraphs": [
+            "同样的记录表让两位观察者都能稳定判断有无台阶，能够支持这项记录的一致性。若要用该表反映整个服务可达性，还须纳入开放时段、流程可理解性等维度，并明确服务对象。"
+          ]
+        },
+        {
+          "id": "reliability",
+          "title": "根据信度问题选择重复设计",
+          "kind": "比较与方法",
+          "paragraphs": [
+            "重测需要假定真实属性在间隔内相对稳定；若服务条件真的改变，分数变化未必来自测量误差。内部一致性关注条目的配合程度，复本比较则需要说明两套题的可比性。"
+          ],
+          "table": {
+            "caption": "四种核对方式针对的变化来源",
+            "headers": [
+              "方式",
+              "主要改变的条件",
+              "应检查"
+            ],
+            "rows": [
+              [
+                "重测",
+                "同一对象在不同时间重复测量",
+                "真实条件是否稳定，是否有记忆或练习影响"
+              ],
+              [
+                "复本",
+                "换用预先设计的平行形式",
+                "内容范围、难度及使用条件可比"
+              ],
+              [
+                "折半或内部一致性",
+                "比较一套条目内部的配合情况",
+                "分半方式、条目冗余及分数构造"
+              ],
+              [
+                "评分者一致性",
+                "更换评分者，保持观察对象一致",
+                "评分口径及绝对一致，留意系统性偏高或偏低"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "validity",
+          "title": "围绕解释搜集互补的效度证据",
+          "kind": "应用",
+          "paragraphs": [
+            "内容证据看题项是否覆盖概念，作答过程证据看不同人群是否按预期理解问题。与其他变量的关系可用相关效标及理论预期作检验，仍要检查效标质量和潜在共同偏差。",
+            "题库常用内容、效标、建构等类别整理复习。现行测量标准更强调组织多类证据，为特定人群、解释和用途作论证。一个新用途需要重新检查证据能否适用。"
+          ]
+        },
+        {
+          "id": "transfer",
+          "title": "跨人群比较应先检查什么",
+          "kind": "误差与解释",
+          "paragraphs": [
+            "若线上和线下居民对同一句“方便”理解不同，直接比较分数可能把渠道熟悉度当成可达性差异。先做认知访谈或小样本试测，再依据结果选择可比条目并说明限制。"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "q": "甲评分者总比乙高两分，他们的相关很高，是否一致？",
+          "a": "排序可保持高度相关，但分数存在系统差异。若需要两人可互换，应另外报告绝对一致或差异。"
+        },
+        {
+          "q": "题项内部一致性高，能证明问卷有内容效度吗？",
+          "a": "相似题项可能覆盖得很窄。需要把题项映射到概念维度，另行检查重要内容是否遗漏。"
+        },
+        {
+          "q": "同一问卷可否同时用于改善流程和给机构排名？",
+          "a": "先分别说明用途。适合找障碍的解释不能直接转用于排名，后者还需分数可比性、覆盖、精度等证据。"
+        }
+      ],
+      "relations": [
+        {
+          "type": "前置",
+          "target": "methods-operationalization",
+          "why": "有效的信效度核查从明确构念、指标与具体用途开始。"
+        },
+        {
+          "type": "组成",
+          "target": "methods-measurement-levels",
+          "why": "在比较重复记录前明确取值层次与比较口径。"
+        },
+        {
+          "type": "应用",
+          "target": "methods-sampling",
+          "why": "覆盖与不回应是另外的误差来源，需要分别检查。"
+        }
+      ],
+      "aliases": [
+        "信度效度",
+        "重测信度",
+        "复本信度",
+        "折半信度",
+        "内容效度",
+        "效标效度",
+        "建构效度",
+        "评分者一致性"
+      ],
+      "scholars": []
+    },
+    "methods-access-survey-case-practice": {
+      "level": "进阶",
+      "fullVerified": true,
+      "verifiedAt": "2026-11-19",
+      "sourceIds": [
+        "openstax-operationalization",
+        "testing-standards-2014",
+        "statcan-probability"
+      ],
+      "summary": "四问共20分。用同一个社区办事案例练习操作化、量尺判别、信效度检查与分母解释。",
+      "sections": [
+        {
+          "id": "scenario",
+          "title": "材料：办结用户调查有多少解释力",
+          "kind": "概念边界",
+          "paragraphs": [
+            "某社区调整办事渠道后，只向已在线办结的居民发送问卷，共120人回应，其中90人选择满意。一名工作人员只检查了门口台阶，便拟写报告称可达性明显改善。本题数字和情境均为原创教学设定。"
+          ]
+        },
+        {
+          "id": "plan",
+          "title": "草稿：先填写调查设计表",
+          "kind": "比较与方法",
+          "paragraphs": [
+            "建议独立写下研究对象、变量及其分母。没有开始的人和中途放弃的人也是判断障碍的重要线索，可通过多渠道联系或补充访谈获得信息。"
+          ],
+          "table": {
+            "caption": "调查计划中需要交代的四项",
+            "headers": [
+              "项目",
+              "需说明的事项"
+            ],
+            "rows": [
+              [
+                "总体",
+                "谁有服务需求，包含未尝试、未办结和线下居民"
+              ],
+              [
+                "指标",
+                "耗时、能否办成、入口障碍和程序理解各有取值规则"
+              ],
+              [
+                "取证",
+                "使用抽样、流程记录、认知访谈或重复评分，说明用途"
+              ],
+              [
+                "推断",
+                "区分回应者情况、总体估计和政策效果归因"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "scoring",
+          "title": "评分点：按四问组织答案",
+          "kind": "应用",
+          "paragraphs": [
+            "操作化题给出概念、维度和观测方式。判别量尺题说明取值规则与可用比较。信效度题至少给一种重复设计及一种用途证据。解释题写明90与120的分子、分母和未覆盖人群。"
+          ]
+        },
+        {
+          "id": "boundary",
+          "title": "写结论时不要跳过比较条件",
+          "kind": "误差与解释",
+          "paragraphs": [
+            "75%可以描述这120名回应者。若要判定渠道改造的成效，还需要先明确比较对象与基线，再检查选择差异和同期变化。补充样本和使用可靠记录都属于不同的证据改进。"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "q": "第 1 问（6 分）如何界定并操作化服务可达性？",
+          "a": "写清社区内有办理需求者（2分），列出交通、时间、程序理解中的至少两项维度（2分），给出可记录指标与收集方式（2分）。"
+        },
+        {
+          "q": "第 2 问（4 分）识别原始等候分钟和五级难易评分的尺度。",
+          "a": "实际分钟为定比，五级难易为定序，各1分。再分别写真实零点与只有次序的判据，各1分。"
+        },
+        {
+          "q": "第 3 问（6 分）各给出一种信度和效度核查。",
+          "a": "可安排两位记录员独立评定并检查绝对一致（3分），用维度映射及居民认知访谈检查记录表是否支持所要作出的解释（3分）。"
+        },
+        {
+          "q": "第 4 问（4 分）怎样报告90/120？",
+          "a": "计算回应者满意占比75%（1分），说明抽样框限制及遗漏群体（2分），说明因果评价还需基线或比较设计（1分）。"
+        }
+      ],
+      "relations": [
+        {
+          "type": "前置",
+          "target": "methods-measurement-levels",
+          "why": "先判断两项记录的含义，避免把等级号码当成可定比数量。"
+        },
+        {
+          "type": "前置",
+          "target": "methods-reliability-validity-evidence",
+          "why": "把重复测量证据和分数用途证据分别写入答案。"
+        },
+        {
+          "type": "应用",
+          "target": "evaluation-2",
+          "why": "若问题变成政策效果，需要另外安排归因设计。"
+        }
+      ],
+      "aliases": [
+        "社会研究方法材料题",
+        "可达性测量练习",
+        "测量20分综合练习"
+      ],
+      "scholars": []
+    },
     "public-interest-1": {
       "level": "核心",
       "aliases": [
@@ -30285,6 +30657,42 @@ const RESEARCH = {
       ]
     },
     {
+      "id": "methods-measurement-611",
+      "title": "611｜从操作化到可信测量",
+      "desc": "用社区服务调查把记录尺度、信效度证据和抽样框连成同一套答题步骤。",
+      "question": "如果只留下线上办结者的评分，怎样同时检查测量工具和调查覆盖的限制？",
+      "coreNodes": [
+        "evaluation",
+        "implementation"
+      ],
+      "steps": [
+        {
+          "point": "methods-operationalization",
+          "why": "先界定服务可达性的概念、维度和可观察指标。"
+        },
+        {
+          "point": "methods-measurement-levels",
+          "why": "再按记录方式选择合适的比较和描述。"
+        },
+        {
+          "point": "methods-reliability-validity-evidence",
+          "why": "分别查记录一致性、题项覆盖与特定用途的证据。"
+        },
+        {
+          "point": "methods-sampling",
+          "why": "核查抽样框是否包含需要服务却未办成的人。"
+        },
+        {
+          "point": "policy-statistics-descriptive",
+          "why": "用分布和明确分母概括样本，不让平均值掩盖差异。"
+        },
+        {
+          "point": "methods-access-survey-case-practice",
+          "why": "用一份20分材料题检查设计、解释和推断边界。"
+        }
+      ]
+    },
+    {
       "id": "policy-statistics-611-802",
       "title": "611与802｜统计口径与样本推断",
       "desc": "从等待时长和办件满意度入手，练习统计描述、样本推断、假设检验和回归解读。",
@@ -31022,6 +31430,14 @@ const RESEARCH = {
         {
           "title": "十二 量化方法二",
           "links": [
+            {
+              "kind": "route",
+              "id": "methods-measurement-611"
+            },
+            {
+              "kind": "point",
+              "id": "methods-measurement-levels"
+            },
             {
               "kind": "point",
               "id": "methods-sampling"
