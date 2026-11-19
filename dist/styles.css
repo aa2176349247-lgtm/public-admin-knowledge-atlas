@@ -404,7 +404,7 @@ body[data-current-page=review] .stats-row,body[data-current-page=review] #contin
 /* Shared typography for navigation, study cards and long-form reading. */
 @font-face {
   font-family: "Atlas Sans";
-  src: url("fonts/atlas-sans.woff2?v=4ee911dcdaa84a4f") format("woff2");
+  src: url("fonts/atlas-sans.woff2?v=2ae09aaac751c430") format("woff2");
   font-style: normal;
   font-weight: 400 700;
   font-display: swap;
@@ -412,7 +412,7 @@ body[data-current-page=review] .stats-row,body[data-current-page=review] #contin
 
 @font-face {
   font-family: "Atlas Serif";
-  src: url("fonts/atlas-serif.woff2?v=53725a46894373ca") format("woff2");
+  src: url("fonts/atlas-serif.woff2?v=f5bc86b2d49fb35c") format("woff2");
   font-style: normal;
   font-weight: 600;
   font-display: swap;

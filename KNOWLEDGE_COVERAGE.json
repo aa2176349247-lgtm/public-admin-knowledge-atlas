@@ -3008,7 +3008,8 @@
       "sources": [
         "simon-rational-choice-1955",
         "simon-nobel-1978",
-        "lindblom-incremental-1959"
+        "lindblom-incremental-1959",
+        "march-organizations-author-retrospective"
       ],
       "gap": "持续核对与完善"
     },
@@ -3155,6 +3156,20 @@
       "sources": [
         "ideo-u-brainstorming",
         "design-council-framework-innovation"
+      ],
+      "gap": "持续核对与完善"
+    },
+    {
+      "id": "policy-classification-multiple-axes",
+      "title": "公共政策的性质与分类：先看题目按什么分",
+      "level": "核心",
+      "module": "policy",
+      "topic": "policy-problem",
+      "status": "已编写",
+      "verification": "正文与专题按标注范围核验",
+      "sources": [
+        "anderson-public-policymaking-categories",
+        "lowi-four-systems-1972"
       ],
       "gap": "持续核对与完善"
     }
